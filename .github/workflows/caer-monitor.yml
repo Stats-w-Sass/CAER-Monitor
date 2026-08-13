@@ -35,7 +35,7 @@ jobs:
       - name: Run tests
         run: pytest -q
 
-      - name: Collect diagnostic info and upload artifact
+      - name: Collect diagnostic info
         run: |
           mkdir -p diagnostic
           echo "=== python info ===" > diagnostic/info.txt
@@ -46,6 +46,8 @@ jobs:
           ls -la >> diagnostic/info.txt 2>&1 || true
           echo "=== data dir ===" >> diagnostic/info.txt
           ls -la data >> diagnostic/info.txt 2>&1 || true
+
+      - name: Upload diagnostic artifact
         uses: actions/upload-artifact@v4
         with:
           name: caer-diagnostics
