@@ -2,7 +2,7 @@ name: CAER Monitor
 
 on:
   schedule:
-    - cron: "*/29 * * * *"
+    - cron: "0,29 * * * *"
   workflow_dispatch:
 
 permissions:
