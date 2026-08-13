@@ -30,10 +30,8 @@ jobs:
       - name: Run scraper
         env:
           CAER_USER_AGENT: "CAER-Monitor/1.0 (+https://github.com/${{ github.repository }})"
+          PYTHONPATH: "${{ github.workspace }}"
         run: python -m scraper.scraper
-
-      - name: Run tests
-        run: pytest -q
 
       - name: Collect diagnostic info
         run: |
@@ -41,13 +39,20 @@ jobs:
           echo "=== python info ===" > diagnostic/info.txt
           python -V >> diagnostic/info.txt 2>&1 || true
           python -m pip --version >> diagnostic/info.txt 2>&1 || true
+          python -c "import sys; print('sys.path:', sys.path)" >> diagnostic/info.txt 2>&1 || true
           python -m pip list --format=columns >> diagnostic/info.txt 2>&1 || true
           echo "=== workspace listing ===" >> diagnostic/info.txt
           ls -la >> diagnostic/info.txt 2>&1 || true
           echo "=== data dir ===" >> diagnostic/info.txt
           ls -la data >> diagnostic/info.txt 2>&1 || true
 
+      - name: Run tests
+        env:
+          PYTHONPATH: "${{ github.workspace }}"
+        run: pytest -q
+
       - name: Upload diagnostic artifact
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: caer-diagnostics
