@@ -1,6 +1,8 @@
 name: CAER Monitor
 
 on:
+  push:
+    branches: [ main ]
   schedule:
     - cron: "0,29 * * * *"
   workflow_dispatch:
@@ -32,6 +34,22 @@ jobs:
 
       - name: Run tests
         run: pytest -q
+
+      - name: Collect diagnostic info and upload artifact
+        run: |
+          mkdir -p diagnostic
+          echo "=== python info ===" > diagnostic/info.txt
+          python -V >> diagnostic/info.txt 2>&1 || true
+          python -m pip --version >> diagnostic/info.txt 2>&1 || true
+          python -m pip list --format=columns >> diagnostic/info.txt 2>&1 || true
+          echo "=== workspace listing ===" >> diagnostic/info.txt
+          ls -la >> diagnostic/info.txt 2>&1 || true
+          echo "=== data dir ===" >> diagnostic/info.txt
+          ls -la data >> diagnostic/info.txt 2>&1 || true
+        uses: actions/upload-artifact@v4
+        with:
+          name: caer-diagnostics
+          path: diagnostic/info.txt
 
       - name: Check for data changes
         id: diff
