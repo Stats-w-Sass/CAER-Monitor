@@ -1,0 +1,1806 @@
+[
+  {
+    "category": [
+      "Flaring",
+      "Noise",
+      "Smoke"
+    ],
+    "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+    "facility": "PEMEX Deer Park",
+    "first_seen": "2026-08-13T13:40:46.788861+00:00",
+    "last_seen": "2026-08-13T13:43:05.085200+00:00",
+    "message_id": "df9030bfaa262450b057efcf2113e585a0872b6fb96679fcb545397f2a2536b1",
+    "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "normalized_message_text": "this is an update from pemex deer park. we are still performing planned work activities that may cause flaring. we are taking steps to minimize any noise, light or smoke associated with potential flaring activity. at this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "posted_datetime": "2026-08-13T07:21:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:43:05.074754+00:00",
+    "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
+    "status": "previous message still posted",
+    "versions": [
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:43:05.074754+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "previous message still posted"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Flaring",
+      "Noise",
+      "Smoke"
+    ],
+    "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+    "facility": "PEMEX Deer Park",
+    "first_seen": "2026-08-13T13:40:46.788861+00:00",
+    "last_seen": "2026-08-13T13:43:05.085200+00:00",
+    "message_id": "8bfd8818f7a787aacad22f2f3af43fdb56d7623a71325867b0ade2bab30605ea",
+    "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "normalized_message_text": "this is an update from pemex deer park. we are still performing planned work activities that may cause flaring. we are taking steps to minimize any noise, light or smoke associated with potential flaring activity. at this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "posted_datetime": "2026-08-12T06:36:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:43:05.074754+00:00",
+    "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
+    "status": "previous message still posted",
+    "versions": [
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:43:05.074754+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "previous message still posted"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Flaring",
+      "Noise",
+      "Smoke"
+    ],
+    "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+    "facility": "PEMEX Deer Park",
+    "first_seen": "2026-08-13T13:40:46.788861+00:00",
+    "last_seen": "2026-08-13T13:43:05.085200+00:00",
+    "message_id": "e1461ffc9fadada6f9ea26f7ae4032436ab5f52e67335eac4b67c2edda205720",
+    "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "normalized_message_text": "this is an update from pemex deer park. we are still performing planned work activities that may cause flaring. we are taking steps to minimize any noise, light or smoke associated with potential flaring activity. at this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "posted_datetime": "2026-08-11T06:40:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:43:05.074754+00:00",
+    "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
+    "status": "previous message still posted",
+    "versions": [
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:43:05.074754+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "previous message still posted"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Flaring",
+      "Noise",
+      "Smoke"
+    ],
+    "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+    "facility": "PEMEX Deer Park",
+    "first_seen": "2026-08-13T13:40:46.788861+00:00",
+    "last_seen": "2026-08-13T13:43:05.085200+00:00",
+    "message_id": "edc43e54a33594da0ed7afd617ebea41471a76643f32f72534e2302dc0f1589e",
+    "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "normalized_message_text": "this is an update from pemex deer park. we are still performing planned work activities that may cause flaring. we are taking steps to minimize any noise, light or smoke associated with potential flaring activity. at this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "posted_datetime": "2026-08-10T06:43:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:43:05.074754+00:00",
+    "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
+    "status": "previous message still posted",
+    "versions": [
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:43:05.074754+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "previous message still posted"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Flaring",
+      "Noise",
+      "Smoke"
+    ],
+    "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+    "facility": "PEMEX Deer Park",
+    "first_seen": "2026-08-13T13:40:46.788861+00:00",
+    "last_seen": "2026-08-13T13:43:05.085200+00:00",
+    "message_id": "5d361e7198cb76f4ee34a4747de5eecaea267c9e8f410bf6aa4281ad9ebe6865",
+    "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "normalized_message_text": "this is an update from pemex deer park. we are still performing planned work activities that may cause flaring. we are taking steps to minimize any noise, light or smoke associated with potential flaring activity. at this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "posted_datetime": "2026-08-09T06:45:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:43:05.074754+00:00",
+    "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
+    "status": "previous message still posted",
+    "versions": [
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:43:05.074754+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "previous message still posted"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Flaring",
+      "Noise",
+      "Smoke"
+    ],
+    "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+    "facility": "PEMEX Deer Park",
+    "first_seen": "2026-08-13T13:40:46.788861+00:00",
+    "last_seen": "2026-08-13T13:43:05.085200+00:00",
+    "message_id": "f91e09ccbfd1c220a962d75429407eaef98084dcb9abd4609a5913f6f138023d",
+    "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "normalized_message_text": "this is an update from pemex deer park. we are still performing planned work activities that may cause flaring. we are taking steps to minimize any noise, light or smoke associated with potential flaring activity. at this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "posted_datetime": "2026-08-08T06:43:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:43:05.074754+00:00",
+    "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
+    "status": "previous message still posted",
+    "versions": [
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:43:05.074754+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "previous message still posted"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Flaring",
+      "Noise",
+      "Smoke"
+    ],
+    "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+    "facility": "PEMEX Deer Park",
+    "first_seen": "2026-08-13T13:40:46.788861+00:00",
+    "last_seen": "2026-08-13T13:43:05.085200+00:00",
+    "message_id": "e08eea280e1fc1a13f1ff0239232f8e9d16678198e94a0556efafa5ca7aa3ad7",
+    "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "normalized_message_text": "this is an update from pemex deer park. we are still performing planned work activities that may cause flaring. we are taking steps to minimize any noise, light or smoke associated with potential flaring activity. at this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "posted_datetime": "2026-08-07T06:44:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:43:05.074754+00:00",
+    "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
+    "status": "previous message still posted",
+    "versions": [
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:43:05.074754+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "previous message still posted"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Flaring",
+      "Pipelines"
+    ],
+    "content_hash": "f1de09a16d12bce811003af832a64e1ddcd457acd45dc6e7a96358acf77cabfa",
+    "facility": "INVISTA Houston",
+    "first_seen": "2026-08-13T13:41:55.912680+00:00",
+    "last_seen": "2026-08-13T13:43:05.085200+00:00",
+    "message_id": "664d5a6ebef53da1eee58fc5446877a2040f8e38975611581025b819ea120dcf",
+    "message_text": "This is a courtesy message from INVISTA Houston located at Allen Genoa and La Porte Freeway in Houston. Today is Wednesday, August 12th_. We are currently using our safety flare and steam venting systems and nearby neighbors may be able to see the flare and hear the steam venting system. The flaring and steam venting pose no danger to the community and no action is necessary. We will take every precaution to minimize the flaring conditions and duration of the flaring activity. If you have any questions, please feel free to contact us at 713-740-3911. Thank you for using the CAER line.",
+    "normalized_message_text": "this is a courtesy message from invista houston located at allen genoa and la porte freeway in houston. today is wednesday, august 12th_. we are currently using our safety flare and steam venting systems and nearby neighbors may be able to see the flare and hear the steam venting system. the flaring and steam venting pose no danger to the community and no action is necessary. we will take every precaution to minimize the flaring conditions and duration of the flaring activity. if you have any questions, please feel free to contact us at 713-740-3911. thank you for using the caer line.",
+    "posted_datetime": "2026-08-12T11:46:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:43:05.074754+00:00",
+    "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
+    "status": "previous message still posted",
+    "versions": [
+      {
+        "category": [
+          "Flaring",
+          "Pipelines"
+        ],
+        "content_hash": "f1de09a16d12bce811003af832a64e1ddcd457acd45dc6e7a96358acf77cabfa",
+        "message_text": "This is a courtesy message from INVISTA Houston located at Allen Genoa and La Porte Freeway in Houston. Today is Wednesday, August 12th_. We are currently using our safety flare and steam venting systems and nearby neighbors may be able to see the flare and hear the steam venting system. The flaring and steam venting pose no danger to the community and no action is necessary. We will take every precaution to minimize the flaring conditions and duration of the flaring activity. If you have any questions, please feel free to contact us at 713-740-3911. Thank you for using the CAER line.",
+        "retrieved_datetime": "2026-08-13T13:43:05.074754+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Pipelines"
+        ],
+        "content_hash": "f1de09a16d12bce811003af832a64e1ddcd457acd45dc6e7a96358acf77cabfa",
+        "message_text": "This is a courtesy message from INVISTA Houston located at Allen Genoa and La Porte Freeway in Houston. Today is Wednesday, August 12th_. We are currently using our safety flare and steam venting systems and nearby neighbors may be able to see the flare and hear the steam venting system. The flaring and steam venting pose no danger to the community and no action is necessary. We will take every precaution to minimize the flaring conditions and duration of the flaring activity. If you have any questions, please feel free to contact us at 713-740-3911. Thank you for using the CAER line.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "previous message still posted"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Facilities",
+      "Training/Drills"
+    ],
+    "content_hash": "63b1d30374b377505e2ef98ab663cb5cf97040b70ec9d5534376b83a1258b321",
+    "facility": "TotalEnergies La Porte",
+    "first_seen": "2026-08-13T13:40:46.788861+00:00",
+    "last_seen": "2026-08-13T13:43:05.085200+00:00",
+    "message_id": "ab2a09c2bd90f82587bcf349042a8922689a51fd141d327edb75b4e355776dbc",
+    "message_text": "*** DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 10:10 on 8/11/2026, the planned drill concluded at our facility.",
+    "normalized_message_text": "*** drill *** this is a message from totalenergies la porte located at 1818 independence pkwy la porte,tx 77571. at 10:10 on 8/11/2026, the planned drill concluded at our facility.",
+    "posted_datetime": "2026-08-11T10:16:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:43:05.074754+00:00",
+    "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
+    "status": "previous message still posted",
+    "versions": [
+      {
+        "category": [
+          "Facilities",
+          "Training/Drills"
+        ],
+        "content_hash": "63b1d30374b377505e2ef98ab663cb5cf97040b70ec9d5534376b83a1258b321",
+        "message_text": "*** DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 10:10 on 8/11/2026, the planned drill concluded at our facility.",
+        "retrieved_datetime": "2026-08-13T13:43:05.074754+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Training/Drills"
+        ],
+        "content_hash": "63b1d30374b377505e2ef98ab663cb5cf97040b70ec9d5534376b83a1258b321",
+        "message_text": "*** DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 10:10 on 8/11/2026, the planned drill concluded at our facility.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "previous message still posted"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Emergency Response",
+      "Facilities",
+      "Smoke",
+      "Training/Drills"
+    ],
+    "content_hash": "62083f8021c5a422ef7398c6bfc77a9396a8ea2ff6b3fe596a8bdffb57f0c14e",
+    "facility": "TotalEnergies La Porte",
+    "first_seen": "2026-08-13T13:41:55.912680+00:00",
+    "last_seen": "2026-08-13T13:43:05.085200+00:00",
+    "message_id": "699f62f025f4bc657acdcde2b84fe556cce65ac50ec1e1a03dbc5a727a5179ba",
+    "message_text": "*** THIS IS A DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 09:00 on 8/11/2026, a planned drill will occur at our facility. At this time, Activity, Emergency Vehicles, Sirens, Smoke may be noticeable to the community. No action is required by the community. *** THIS IS A DRILL***",
+    "normalized_message_text": "*** this is a drill *** this is a message from totalenergies la porte located at 1818 independence pkwy la porte,tx 77571. at 09:00 on 8/11/2026, a planned drill will occur at our facility. at this time, activity, emergency vehicles, sirens, smoke may be noticeable to the community. no action is required by the community. *** this is a drill***",
+    "posted_datetime": "2026-08-11T06:41:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:43:05.074754+00:00",
+    "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
+    "status": "previous message still posted",
+    "versions": [
+      {
+        "category": [
+          "Emergency Response",
+          "Facilities",
+          "Smoke",
+          "Training/Drills"
+        ],
+        "content_hash": "62083f8021c5a422ef7398c6bfc77a9396a8ea2ff6b3fe596a8bdffb57f0c14e",
+        "message_text": "*** THIS IS A DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 09:00 on 8/11/2026, a planned drill will occur at our facility. At this time, Activity, Emergency Vehicles, Sirens, Smoke may be noticeable to the community. No action is required by the community. *** THIS IS A DRILL***",
+        "retrieved_datetime": "2026-08-13T13:43:05.074754+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Emergency Response",
+          "Facilities",
+          "Smoke",
+          "Training/Drills"
+        ],
+        "content_hash": "62083f8021c5a422ef7398c6bfc77a9396a8ea2ff6b3fe596a8bdffb57f0c14e",
+        "message_text": "*** THIS IS A DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 09:00 on 8/11/2026, a planned drill will occur at our facility. At this time, Activity, Emergency Vehicles, Sirens, Smoke may be noticeable to the community. No action is required by the community. *** THIS IS A DRILL***",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "previous message still posted"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Facilities"
+    ],
+    "content_hash": "e32505475534e2c4d877b47f6a6329b8ea03cd911c2612d85e043ca10e7e8e98",
+    "facility": "Baker Hughes Bayport",
+    "first_seen": "2026-08-13T13:41:55.912680+00:00",
+    "last_seen": "2026-08-13T13:43:05.085200+00:00",
+    "message_id": "43061181364fe49bb817bd431d1b40b38d20dacaff618940b3580ece004c63d4",
+    "message_text": "This is a message from Baker Hughes Bayport located at 13200 Bay Park Rd. La Porte, TX 77507. At 09:59 on 8/10/2026, a Monday alarm test occurred at our facility. At this time, nothing may be noticeable to the community. We are coordinating with local officials and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed.",
+    "normalized_message_text": "this is a message from baker hughes bayport located at 13200 bay park rd. la porte, tx 77507. at 09:59 on 8/10/2026, a monday alarm test occurred at our facility. at this time, nothing may be noticeable to the community. we are coordinating with local officials and working to resolve the issue as soon as possible. stay tuned to local officials for more information. update will be provided on this site, when needed.",
+    "posted_datetime": "2026-08-10T10:07:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:43:05.074754+00:00",
+    "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
+    "status": "previous message still posted",
+    "versions": [
+      {
+        "category": [
+          "Facilities"
+        ],
+        "content_hash": "e32505475534e2c4d877b47f6a6329b8ea03cd911c2612d85e043ca10e7e8e98",
+        "message_text": "This is a message from Baker Hughes Bayport located at 13200 Bay Park Rd. La Porte, TX 77507. At 09:59 on 8/10/2026, a Monday alarm test occurred at our facility. At this time, nothing may be noticeable to the community. We are coordinating with local officials and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed.",
+        "retrieved_datetime": "2026-08-13T13:43:05.074754+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Facilities"
+        ],
+        "content_hash": "e32505475534e2c4d877b47f6a6329b8ea03cd911c2612d85e043ca10e7e8e98",
+        "message_text": "This is a message from Baker Hughes Bayport located at 13200 Bay Park Rd. La Porte, TX 77507. At 09:59 on 8/10/2026, a Monday alarm test occurred at our facility. At this time, nothing may be noticeable to the community. We are coordinating with local officials and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "previous message still posted"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Flaring",
+      "Pipelines"
+    ],
+    "content_hash": "0275702a6347f486c66f9286c6db726fb748ea56bfd7286bf000d396db582d2d",
+    "facility": "INVISTA Houston",
+    "first_seen": "2026-08-13T13:40:11.374651+00:00",
+    "last_seen": "2026-08-13T13:41:24.206548+00:00",
+    "message_id": "a3fc44696292016500df4120d527683d2226f26da480c04ea6c670fd1ed4c210",
+    "message_text": "Report This is a courtesy message from INVISTA Houston located at Allen Genoa and La Porte Freeway in Houston. Today is Wednesday, August 12th_. We are currently using our safety flare and steam venting systems and nearby neighbors may be able to see the flare and hear the steam venting system. The flaring and steam venting pose no danger to the community and no action is necessary. We will take every precaution to minimize the flaring conditions and duration of the flaring activity. If you have any questions, please feel free to contact us at 713-740-3911. Thank you for using the CAER line.",
+    "normalized_message_text": "report this is a courtesy message from invista houston located at allen genoa and la porte freeway in houston. today is wednesday, august 12th_. we are currently using our safety flare and steam venting systems and nearby neighbors may be able to see the flare and hear the steam venting system. the flaring and steam venting pose no danger to the community and no action is necessary. we will take every precaution to minimize the flaring conditions and duration of the flaring activity. if you have any questions, please feel free to contact us at 713-740-3911. thank you for using the caer line.",
+    "posted_datetime": "2026-08-12T11:46:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:41:24.195157+00:00",
+    "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
+    "status": "cleared",
+    "versions": [
+      {
+        "category": [
+          "Flaring",
+          "Pipelines"
+        ],
+        "content_hash": "0275702a6347f486c66f9286c6db726fb748ea56bfd7286bf000d396db582d2d",
+        "message_text": "Report This is a courtesy message from INVISTA Houston located at Allen Genoa and La Porte Freeway in Houston. Today is Wednesday, August 12th_. We are currently using our safety flare and steam venting systems and nearby neighbors may be able to see the flare and hear the steam venting system. The flaring and steam venting pose no danger to the community and no action is necessary. We will take every precaution to minimize the flaring conditions and duration of the flaring activity. If you have any questions, please feel free to contact us at 713-740-3911. Thank you for using the CAER line.",
+        "retrieved_datetime": "2026-08-13T13:41:24.195157+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Pipelines"
+        ],
+        "content_hash": "0275702a6347f486c66f9286c6db726fb748ea56bfd7286bf000d396db582d2d",
+        "message_text": "Report This is a courtesy message from INVISTA Houston located at Allen Genoa and La Porte Freeway in Houston. Today is Wednesday, August 12th_. We are currently using our safety flare and steam venting systems and nearby neighbors may be able to see the flare and hear the steam venting system. The flaring and steam venting pose no danger to the community and no action is necessary. We will take every precaution to minimize the flaring conditions and duration of the flaring activity. If you have any questions, please feel free to contact us at 713-740-3911. Thank you for using the CAER line.",
+        "retrieved_datetime": "2026-08-13T13:41:24.206548+00:00",
+        "status": "previous message still posted"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Pipelines"
+        ],
+        "content_hash": "0275702a6347f486c66f9286c6db726fb748ea56bfd7286bf000d396db582d2d",
+        "message_text": "Report This is a courtesy message from INVISTA Houston located at Allen Genoa and La Porte Freeway in Houston. Today is Wednesday, August 12th_. We are currently using our safety flare and steam venting systems and nearby neighbors may be able to see the flare and hear the steam venting system. The flaring and steam venting pose no danger to the community and no action is necessary. We will take every precaution to minimize the flaring conditions and duration of the flaring activity. If you have any questions, please feel free to contact us at 713-740-3911. Thank you for using the CAER line.",
+        "retrieved_datetime": "2026-08-13T13:41:55.924308+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Pipelines"
+        ],
+        "content_hash": "0275702a6347f486c66f9286c6db726fb748ea56bfd7286bf000d396db582d2d",
+        "message_text": "Report This is a courtesy message from INVISTA Houston located at Allen Genoa and La Porte Freeway in Houston. Today is Wednesday, August 12th_. We are currently using our safety flare and steam venting systems and nearby neighbors may be able to see the flare and hear the steam venting system. The flaring and steam venting pose no danger to the community and no action is necessary. We will take every precaution to minimize the flaring conditions and duration of the flaring activity. If you have any questions, please feel free to contact us at 713-740-3911. Thank you for using the CAER line.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "cleared"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Emergency Response",
+      "Facilities",
+      "Smoke",
+      "Training/Drills"
+    ],
+    "content_hash": "1e87e0804159277bfb74f426776a3dacccf50fe26bafbcd11e73b6d0085e16e9",
+    "facility": "TotalEnergies La Porte",
+    "first_seen": "2026-08-13T13:40:11.374651+00:00",
+    "last_seen": "2026-08-13T13:41:24.206548+00:00",
+    "message_id": "fc1c83a495ecfdabac74d45b92b4ce9577a187bf571123ad7c24fea091621d05",
+    "message_text": "Report *** THIS IS A DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 09:00 on 8/11/2026, a planned drill will occur at our facility. At this time, Activity, Emergency Vehicles, Sirens, Smoke may be noticeable to the community. No action is required by the community. *** THIS IS A DRILL***",
+    "normalized_message_text": "report *** this is a drill *** this is a message from totalenergies la porte located at 1818 independence pkwy la porte,tx 77571. at 09:00 on 8/11/2026, a planned drill will occur at our facility. at this time, activity, emergency vehicles, sirens, smoke may be noticeable to the community. no action is required by the community. *** this is a drill***",
+    "posted_datetime": "2026-08-11T06:41:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:41:24.195157+00:00",
+    "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
+    "status": "cleared",
+    "versions": [
+      {
+        "category": [
+          "Emergency Response",
+          "Facilities",
+          "Smoke",
+          "Training/Drills"
+        ],
+        "content_hash": "1e87e0804159277bfb74f426776a3dacccf50fe26bafbcd11e73b6d0085e16e9",
+        "message_text": "Report *** THIS IS A DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 09:00 on 8/11/2026, a planned drill will occur at our facility. At this time, Activity, Emergency Vehicles, Sirens, Smoke may be noticeable to the community. No action is required by the community. *** THIS IS A DRILL***",
+        "retrieved_datetime": "2026-08-13T13:41:24.195157+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Emergency Response",
+          "Facilities",
+          "Smoke",
+          "Training/Drills"
+        ],
+        "content_hash": "1e87e0804159277bfb74f426776a3dacccf50fe26bafbcd11e73b6d0085e16e9",
+        "message_text": "Report *** THIS IS A DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 09:00 on 8/11/2026, a planned drill will occur at our facility. At this time, Activity, Emergency Vehicles, Sirens, Smoke may be noticeable to the community. No action is required by the community. *** THIS IS A DRILL***",
+        "retrieved_datetime": "2026-08-13T13:41:24.206548+00:00",
+        "status": "previous message still posted"
+      },
+      {
+        "category": [
+          "Emergency Response",
+          "Facilities",
+          "Smoke",
+          "Training/Drills"
+        ],
+        "content_hash": "1e87e0804159277bfb74f426776a3dacccf50fe26bafbcd11e73b6d0085e16e9",
+        "message_text": "Report *** THIS IS A DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 09:00 on 8/11/2026, a planned drill will occur at our facility. At this time, Activity, Emergency Vehicles, Sirens, Smoke may be noticeable to the community. No action is required by the community. *** THIS IS A DRILL***",
+        "retrieved_datetime": "2026-08-13T13:41:55.924308+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Emergency Response",
+          "Facilities",
+          "Smoke",
+          "Training/Drills"
+        ],
+        "content_hash": "1e87e0804159277bfb74f426776a3dacccf50fe26bafbcd11e73b6d0085e16e9",
+        "message_text": "Report *** THIS IS A DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 09:00 on 8/11/2026, a planned drill will occur at our facility. At this time, Activity, Emergency Vehicles, Sirens, Smoke may be noticeable to the community. No action is required by the community. *** THIS IS A DRILL***",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "cleared"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Facilities"
+    ],
+    "content_hash": "9cabba370f8279cfe82395c3f1536c06602f5281262be4548d4554b98cdb93c3",
+    "facility": "Baker Hughes Bayport",
+    "first_seen": "2026-08-13T13:40:11.374651+00:00",
+    "last_seen": "2026-08-13T13:41:24.206548+00:00",
+    "message_id": "442be51509d088bb0dfc749878b131283604752d0776fc7a400b8c2259bc6327",
+    "message_text": "Report This is a message from Baker Hughes Bayport located at 13200 Bay Park Rd. La Porte, TX 77507. At 09:59 on 8/10/2026, a Monday alarm test occurred at our facility. At this time, nothing may be noticeable to the community. We are coordinating with local officials and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed.",
+    "normalized_message_text": "report this is a message from baker hughes bayport located at 13200 bay park rd. la porte, tx 77507. at 09:59 on 8/10/2026, a monday alarm test occurred at our facility. at this time, nothing may be noticeable to the community. we are coordinating with local officials and working to resolve the issue as soon as possible. stay tuned to local officials for more information. update will be provided on this site, when needed.",
+    "posted_datetime": "2026-08-10T10:07:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:41:24.195157+00:00",
+    "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
+    "status": "cleared",
+    "versions": [
+      {
+        "category": [
+          "Facilities"
+        ],
+        "content_hash": "9cabba370f8279cfe82395c3f1536c06602f5281262be4548d4554b98cdb93c3",
+        "message_text": "Report This is a message from Baker Hughes Bayport located at 13200 Bay Park Rd. La Porte, TX 77507. At 09:59 on 8/10/2026, a Monday alarm test occurred at our facility. At this time, nothing may be noticeable to the community. We are coordinating with local officials and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed.",
+        "retrieved_datetime": "2026-08-13T13:41:24.195157+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Facilities"
+        ],
+        "content_hash": "9cabba370f8279cfe82395c3f1536c06602f5281262be4548d4554b98cdb93c3",
+        "message_text": "Report This is a message from Baker Hughes Bayport located at 13200 Bay Park Rd. La Porte, TX 77507. At 09:59 on 8/10/2026, a Monday alarm test occurred at our facility. At this time, nothing may be noticeable to the community. We are coordinating with local officials and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed.",
+        "retrieved_datetime": "2026-08-13T13:41:24.206548+00:00",
+        "status": "previous message still posted"
+      },
+      {
+        "category": [
+          "Facilities"
+        ],
+        "content_hash": "9cabba370f8279cfe82395c3f1536c06602f5281262be4548d4554b98cdb93c3",
+        "message_text": "Report This is a message from Baker Hughes Bayport located at 13200 Bay Park Rd. La Porte, TX 77507. At 09:59 on 8/10/2026, a Monday alarm test occurred at our facility. At this time, nothing may be noticeable to the community. We are coordinating with local officials and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed.",
+        "retrieved_datetime": "2026-08-13T13:41:55.924308+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities"
+        ],
+        "content_hash": "9cabba370f8279cfe82395c3f1536c06602f5281262be4548d4554b98cdb93c3",
+        "message_text": "Report This is a message from Baker Hughes Bayport located at 13200 Bay Park Rd. La Porte, TX 77507. At 09:59 on 8/10/2026, a Monday alarm test occurred at our facility. At this time, nothing may be noticeable to the community. We are coordinating with local officials and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "cleared"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Facilities",
+      "Incidents",
+      "Training/Drills"
+    ],
+    "content_hash": "ce0fd76b6edee2e0aee4df424825bb19c45d119862a68c59b1e3b2030309dcb8",
+    "facility": "Kuraray America Septon",
+    "first_seen": "2026-08-13T13:40:47.595086+00:00",
+    "last_seen": "2026-08-13T13:40:47.596185+00:00",
+    "message_id": "e6f0a649fb9610b857683b7bb1648f407f892e6137d9c9a504d46461b0197e0d",
+    "message_text": "*** DRILL *** This is a message from Kuraray America Septon located at 11414 Choate Rd. Pasadena,TX 77507. At 01:50 on 8/12/2026, a(n) Chemical, Fire, Medical incident occurred at our facility. At 14:51 on 8/12/2026 we are issuing the all clear for this incident.",
+    "normalized_message_text": "*** drill *** this is a message from kuraray america septon located at 11414 choate rd. pasadena,tx 77507. at 01:50 on 8/12/2026, a(n) chemical, fire, medical incident occurred at our facility. at 14:51 on 8/12/2026 we are issuing the all clear for this incident.",
+    "posted_datetime": "2026-08-12T14:52:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:40:47.595086+00:00",
+    "source_url": "https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html",
+    "status": "cleared",
+    "versions": [
+      {
+        "category": [
+          "Facilities",
+          "Incidents",
+          "Training/Drills"
+        ],
+        "content_hash": "ce0fd76b6edee2e0aee4df424825bb19c45d119862a68c59b1e3b2030309dcb8",
+        "message_text": "*** DRILL *** This is a message from Kuraray America Septon located at 11414 Choate Rd. Pasadena,TX 77507. At 01:50 on 8/12/2026, a(n) Chemical, Fire, Medical incident occurred at our facility. At 14:51 on 8/12/2026 we are issuing the all clear for this incident.",
+        "retrieved_datetime": "2026-08-13T13:40:47.595086+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Incidents",
+          "Training/Drills"
+        ],
+        "content_hash": "ce0fd76b6edee2e0aee4df424825bb19c45d119862a68c59b1e3b2030309dcb8",
+        "message_text": "*** DRILL *** This is a message from Kuraray America Septon located at 11414 Choate Rd. Pasadena,TX 77507. At 01:50 on 8/12/2026, a(n) Chemical, Fire, Medical incident occurred at our facility. At 14:51 on 8/12/2026 we are issuing the all clear for this incident.",
+        "retrieved_datetime": "2026-08-13T13:40:47.596185+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Incidents",
+          "Training/Drills"
+        ],
+        "content_hash": "ce0fd76b6edee2e0aee4df424825bb19c45d119862a68c59b1e3b2030309dcb8",
+        "message_text": "*** DRILL *** This is a message from Kuraray America Septon located at 11414 Choate Rd. Pasadena,TX 77507. At 01:50 on 8/12/2026, a(n) Chemical, Fire, Medical incident occurred at our facility. At 14:51 on 8/12/2026 we are issuing the all clear for this incident.",
+        "retrieved_datetime": "2026-08-13T13:41:24.206548+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Incidents",
+          "Training/Drills"
+        ],
+        "content_hash": "ce0fd76b6edee2e0aee4df424825bb19c45d119862a68c59b1e3b2030309dcb8",
+        "message_text": "*** DRILL *** This is a message from Kuraray America Septon located at 11414 Choate Rd. Pasadena,TX 77507. At 01:50 on 8/12/2026, a(n) Chemical, Fire, Medical incident occurred at our facility. At 14:51 on 8/12/2026 we are issuing the all clear for this incident.",
+        "retrieved_datetime": "2026-08-13T13:41:55.924308+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Incidents",
+          "Training/Drills"
+        ],
+        "content_hash": "ce0fd76b6edee2e0aee4df424825bb19c45d119862a68c59b1e3b2030309dcb8",
+        "message_text": "*** DRILL *** This is a message from Kuraray America Septon located at 11414 Choate Rd. Pasadena,TX 77507. At 01:50 on 8/12/2026, a(n) Chemical, Fire, Medical incident occurred at our facility. At 14:51 on 8/12/2026 we are issuing the all clear for this incident.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "cleared"
+      }
+    ]
+  },
+  {
+    "category": [],
+    "content_hash": "996587a8fb0ee921d675c705073d7896b4cd2c5feac093f5abb02323009d54bb",
+    "facility": "INEOS Styrolution - Port Rd.",
+    "first_seen": "2026-08-13T13:40:47.595086+00:00",
+    "last_seen": "2026-08-13T13:40:47.596185+00:00",
+    "message_id": "843f8c35e9e2a5d5cebb6acdbef948f55c027a63968204aec200ab8b81a62c46",
+    "message_text": "All Clear on weekly Alarm Test.",
+    "normalized_message_text": "all clear on weekly alarm test.",
+    "posted_datetime": "2026-08-12T12:15:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:40:47.595086+00:00",
+    "source_url": "https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html",
+    "status": "cleared",
+    "versions": [
+      {
+        "category": [],
+        "content_hash": "996587a8fb0ee921d675c705073d7896b4cd2c5feac093f5abb02323009d54bb",
+        "message_text": "All Clear on weekly Alarm Test.",
+        "retrieved_datetime": "2026-08-13T13:40:47.595086+00:00",
+        "status": "new"
+      },
+      {
+        "category": [],
+        "content_hash": "996587a8fb0ee921d675c705073d7896b4cd2c5feac093f5abb02323009d54bb",
+        "message_text": "All Clear on weekly Alarm Test.",
+        "retrieved_datetime": "2026-08-13T13:40:47.596185+00:00",
+        "status": "new"
+      },
+      {
+        "category": [],
+        "content_hash": "996587a8fb0ee921d675c705073d7896b4cd2c5feac093f5abb02323009d54bb",
+        "message_text": "All Clear on weekly Alarm Test.",
+        "retrieved_datetime": "2026-08-13T13:41:24.206548+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [],
+        "content_hash": "996587a8fb0ee921d675c705073d7896b4cd2c5feac093f5abb02323009d54bb",
+        "message_text": "All Clear on weekly Alarm Test.",
+        "retrieved_datetime": "2026-08-13T13:41:55.924308+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [],
+        "content_hash": "996587a8fb0ee921d675c705073d7896b4cd2c5feac093f5abb02323009d54bb",
+        "message_text": "All Clear on weekly Alarm Test.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "cleared"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Facilities",
+      "Incidents",
+      "Training/Drills"
+    ],
+    "content_hash": "3a0cca97a95c279935a885be24e144df80c586e728e4ec6c7a3142d5f05c6ec4",
+    "facility": "Kuraray America Septon",
+    "first_seen": "2026-08-13T13:40:12.119766+00:00",
+    "last_seen": "2026-08-13T13:40:12.120776+00:00",
+    "message_id": "d289501421e18d8a780ae2f94a801c46e452d8f89aea4b0991a610a9ecb3b461",
+    "message_text": "Clear *** DRILL *** This is a message from Kuraray America Septon located at 11414 Choate Rd. Pasadena,TX 77507. At 01:50 on 8/12/2026, a(n) Chemical, Fire, Medical incident occurred at our facility. At 14:51 on 8/12/2026 we are issuing the all clear for this incident.",
+    "normalized_message_text": "clear *** drill *** this is a message from kuraray america septon located at 11414 choate rd. pasadena,tx 77507. at 01:50 on 8/12/2026, a(n) chemical, fire, medical incident occurred at our facility. at 14:51 on 8/12/2026 we are issuing the all clear for this incident.",
+    "posted_datetime": "2026-08-12T14:52:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:40:12.119766+00:00",
+    "source_url": "https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html",
+    "status": "cleared",
+    "versions": [
+      {
+        "category": [
+          "Facilities",
+          "Incidents",
+          "Training/Drills"
+        ],
+        "content_hash": "3a0cca97a95c279935a885be24e144df80c586e728e4ec6c7a3142d5f05c6ec4",
+        "message_text": "Clear *** DRILL *** This is a message from Kuraray America Septon located at 11414 Choate Rd. Pasadena,TX 77507. At 01:50 on 8/12/2026, a(n) Chemical, Fire, Medical incident occurred at our facility. At 14:51 on 8/12/2026 we are issuing the all clear for this incident.",
+        "retrieved_datetime": "2026-08-13T13:40:12.119766+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Incidents",
+          "Training/Drills"
+        ],
+        "content_hash": "3a0cca97a95c279935a885be24e144df80c586e728e4ec6c7a3142d5f05c6ec4",
+        "message_text": "Clear *** DRILL *** This is a message from Kuraray America Septon located at 11414 Choate Rd. Pasadena,TX 77507. At 01:50 on 8/12/2026, a(n) Chemical, Fire, Medical incident occurred at our facility. At 14:51 on 8/12/2026 we are issuing the all clear for this incident.",
+        "retrieved_datetime": "2026-08-13T13:40:12.120776+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Incidents",
+          "Training/Drills"
+        ],
+        "content_hash": "3a0cca97a95c279935a885be24e144df80c586e728e4ec6c7a3142d5f05c6ec4",
+        "message_text": "Clear *** DRILL *** This is a message from Kuraray America Septon located at 11414 Choate Rd. Pasadena,TX 77507. At 01:50 on 8/12/2026, a(n) Chemical, Fire, Medical incident occurred at our facility. At 14:51 on 8/12/2026 we are issuing the all clear for this incident.",
+        "retrieved_datetime": "2026-08-13T13:40:46.800210+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Incidents",
+          "Training/Drills"
+        ],
+        "content_hash": "3a0cca97a95c279935a885be24e144df80c586e728e4ec6c7a3142d5f05c6ec4",
+        "message_text": "Clear *** DRILL *** This is a message from Kuraray America Septon located at 11414 Choate Rd. Pasadena,TX 77507. At 01:50 on 8/12/2026, a(n) Chemical, Fire, Medical incident occurred at our facility. At 14:51 on 8/12/2026 we are issuing the all clear for this incident.",
+        "retrieved_datetime": "2026-08-13T13:40:47.596185+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Incidents",
+          "Training/Drills"
+        ],
+        "content_hash": "3a0cca97a95c279935a885be24e144df80c586e728e4ec6c7a3142d5f05c6ec4",
+        "message_text": "Clear *** DRILL *** This is a message from Kuraray America Septon located at 11414 Choate Rd. Pasadena,TX 77507. At 01:50 on 8/12/2026, a(n) Chemical, Fire, Medical incident occurred at our facility. At 14:51 on 8/12/2026 we are issuing the all clear for this incident.",
+        "retrieved_datetime": "2026-08-13T13:41:24.206548+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Incidents",
+          "Training/Drills"
+        ],
+        "content_hash": "3a0cca97a95c279935a885be24e144df80c586e728e4ec6c7a3142d5f05c6ec4",
+        "message_text": "Clear *** DRILL *** This is a message from Kuraray America Septon located at 11414 Choate Rd. Pasadena,TX 77507. At 01:50 on 8/12/2026, a(n) Chemical, Fire, Medical incident occurred at our facility. At 14:51 on 8/12/2026 we are issuing the all clear for this incident.",
+        "retrieved_datetime": "2026-08-13T13:41:55.924308+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Incidents",
+          "Training/Drills"
+        ],
+        "content_hash": "3a0cca97a95c279935a885be24e144df80c586e728e4ec6c7a3142d5f05c6ec4",
+        "message_text": "Clear *** DRILL *** This is a message from Kuraray America Septon located at 11414 Choate Rd. Pasadena,TX 77507. At 01:50 on 8/12/2026, a(n) Chemical, Fire, Medical incident occurred at our facility. At 14:51 on 8/12/2026 we are issuing the all clear for this incident.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "cleared"
+      }
+    ]
+  },
+  {
+    "category": [],
+    "content_hash": "7e1e5ddc4a474ef4d232a7f664abad63f715a60719880d25b099977e53010175",
+    "facility": "INEOS Styrolution - Port Rd.",
+    "first_seen": "2026-08-13T13:40:12.119766+00:00",
+    "last_seen": "2026-08-13T13:40:12.120776+00:00",
+    "message_id": "7577ceba2754c494fe186f96ddd9a788e6accb10c039d3c31e67c6dd19b46590",
+    "message_text": "Clear All Clear on weekly Alarm Test.",
+    "normalized_message_text": "clear all clear on weekly alarm test.",
+    "posted_datetime": "2026-08-12T12:15:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:40:12.119766+00:00",
+    "source_url": "https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html",
+    "status": "cleared",
+    "versions": [
+      {
+        "category": [],
+        "content_hash": "7e1e5ddc4a474ef4d232a7f664abad63f715a60719880d25b099977e53010175",
+        "message_text": "Clear All Clear on weekly Alarm Test.",
+        "retrieved_datetime": "2026-08-13T13:40:12.119766+00:00",
+        "status": "new"
+      },
+      {
+        "category": [],
+        "content_hash": "7e1e5ddc4a474ef4d232a7f664abad63f715a60719880d25b099977e53010175",
+        "message_text": "Clear All Clear on weekly Alarm Test.",
+        "retrieved_datetime": "2026-08-13T13:40:12.120776+00:00",
+        "status": "new"
+      },
+      {
+        "category": [],
+        "content_hash": "7e1e5ddc4a474ef4d232a7f664abad63f715a60719880d25b099977e53010175",
+        "message_text": "Clear All Clear on weekly Alarm Test.",
+        "retrieved_datetime": "2026-08-13T13:40:46.800210+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [],
+        "content_hash": "7e1e5ddc4a474ef4d232a7f664abad63f715a60719880d25b099977e53010175",
+        "message_text": "Clear All Clear on weekly Alarm Test.",
+        "retrieved_datetime": "2026-08-13T13:40:47.596185+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [],
+        "content_hash": "7e1e5ddc4a474ef4d232a7f664abad63f715a60719880d25b099977e53010175",
+        "message_text": "Clear All Clear on weekly Alarm Test.",
+        "retrieved_datetime": "2026-08-13T13:41:24.206548+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [],
+        "content_hash": "7e1e5ddc4a474ef4d232a7f664abad63f715a60719880d25b099977e53010175",
+        "message_text": "Clear All Clear on weekly Alarm Test.",
+        "retrieved_datetime": "2026-08-13T13:41:55.924308+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [],
+        "content_hash": "7e1e5ddc4a474ef4d232a7f664abad63f715a60719880d25b099977e53010175",
+        "message_text": "Clear All Clear on weekly Alarm Test.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "cleared"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Flaring",
+      "Noise",
+      "Smoke"
+    ],
+    "content_hash": "9e323193dd7b628789c125f63120c08d014c9b912cd6637aa4b63cf527210b14",
+    "facility": "PEMEX Deer Park",
+    "first_seen": "2026-08-13T13:40:11.374651+00:00",
+    "last_seen": "2026-08-13T13:40:11.385502+00:00",
+    "message_id": "5e770bb4467a69eec8d74768a56940fc04b170538f3c7cd270f8a0481e41e887",
+    "message_text": "7 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "normalized_message_text": "7 this is an update from pemex deer park. we are still performing planned work activities that may cause flaring. we are taking steps to minimize any noise, light or smoke associated with potential flaring activity. at this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "posted_datetime": "2026-08-13T07:21:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:40:11.374651+00:00",
+    "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
+    "status": "cleared",
+    "versions": [
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "9e323193dd7b628789c125f63120c08d014c9b912cd6637aa4b63cf527210b14",
+        "message_text": "7 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:11.374651+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "9e323193dd7b628789c125f63120c08d014c9b912cd6637aa4b63cf527210b14",
+        "message_text": "7 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:11.385502+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "9e323193dd7b628789c125f63120c08d014c9b912cd6637aa4b63cf527210b14",
+        "message_text": "7 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:12.120776+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "9e323193dd7b628789c125f63120c08d014c9b912cd6637aa4b63cf527210b14",
+        "message_text": "7 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:46.800210+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "9e323193dd7b628789c125f63120c08d014c9b912cd6637aa4b63cf527210b14",
+        "message_text": "7 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:47.596185+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "9e323193dd7b628789c125f63120c08d014c9b912cd6637aa4b63cf527210b14",
+        "message_text": "7 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:41:24.206548+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "9e323193dd7b628789c125f63120c08d014c9b912cd6637aa4b63cf527210b14",
+        "message_text": "7 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:41:55.924308+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "9e323193dd7b628789c125f63120c08d014c9b912cd6637aa4b63cf527210b14",
+        "message_text": "7 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "cleared"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Flaring",
+      "Noise",
+      "Smoke"
+    ],
+    "content_hash": "99a9d19ffa8ffe1020af4eddbad3de86f103773ef7247021c1d8c5109cdab2de",
+    "facility": "PEMEX Deer Park",
+    "first_seen": "2026-08-13T13:40:11.374651+00:00",
+    "last_seen": "2026-08-13T13:40:11.385502+00:00",
+    "message_id": "a78da1083ec9cae5c0776ab57f064d170d0ef2e6e27eb123e81ec6dec2904470",
+    "message_text": "6 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "normalized_message_text": "6 this is an update from pemex deer park. we are still performing planned work activities that may cause flaring. we are taking steps to minimize any noise, light or smoke associated with potential flaring activity. at this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "posted_datetime": "2026-08-12T06:36:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:40:11.374651+00:00",
+    "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
+    "status": "cleared",
+    "versions": [
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "99a9d19ffa8ffe1020af4eddbad3de86f103773ef7247021c1d8c5109cdab2de",
+        "message_text": "6 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:11.374651+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "99a9d19ffa8ffe1020af4eddbad3de86f103773ef7247021c1d8c5109cdab2de",
+        "message_text": "6 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:11.385502+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "99a9d19ffa8ffe1020af4eddbad3de86f103773ef7247021c1d8c5109cdab2de",
+        "message_text": "6 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:12.120776+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "99a9d19ffa8ffe1020af4eddbad3de86f103773ef7247021c1d8c5109cdab2de",
+        "message_text": "6 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:46.800210+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "99a9d19ffa8ffe1020af4eddbad3de86f103773ef7247021c1d8c5109cdab2de",
+        "message_text": "6 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:47.596185+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "99a9d19ffa8ffe1020af4eddbad3de86f103773ef7247021c1d8c5109cdab2de",
+        "message_text": "6 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:41:24.206548+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "99a9d19ffa8ffe1020af4eddbad3de86f103773ef7247021c1d8c5109cdab2de",
+        "message_text": "6 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:41:55.924308+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "99a9d19ffa8ffe1020af4eddbad3de86f103773ef7247021c1d8c5109cdab2de",
+        "message_text": "6 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "cleared"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Flaring",
+      "Noise",
+      "Smoke"
+    ],
+    "content_hash": "fd2a936be9ceb2c08427cc031e6a8db9991202c3a9556cdf0854ef58d9d5e2eb",
+    "facility": "PEMEX Deer Park",
+    "first_seen": "2026-08-13T13:40:11.374651+00:00",
+    "last_seen": "2026-08-13T13:40:11.385502+00:00",
+    "message_id": "eb44283aec062d87d314b67f96686f76a75546ee8b7dd8ed26f2e712772fe9d0",
+    "message_text": "5 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "normalized_message_text": "5 this is an update from pemex deer park. we are still performing planned work activities that may cause flaring. we are taking steps to minimize any noise, light or smoke associated with potential flaring activity. at this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "posted_datetime": "2026-08-11T06:40:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:40:11.374651+00:00",
+    "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
+    "status": "cleared",
+    "versions": [
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "fd2a936be9ceb2c08427cc031e6a8db9991202c3a9556cdf0854ef58d9d5e2eb",
+        "message_text": "5 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:11.374651+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "fd2a936be9ceb2c08427cc031e6a8db9991202c3a9556cdf0854ef58d9d5e2eb",
+        "message_text": "5 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:11.385502+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "fd2a936be9ceb2c08427cc031e6a8db9991202c3a9556cdf0854ef58d9d5e2eb",
+        "message_text": "5 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:12.120776+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "fd2a936be9ceb2c08427cc031e6a8db9991202c3a9556cdf0854ef58d9d5e2eb",
+        "message_text": "5 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:46.800210+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "fd2a936be9ceb2c08427cc031e6a8db9991202c3a9556cdf0854ef58d9d5e2eb",
+        "message_text": "5 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:47.596185+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "fd2a936be9ceb2c08427cc031e6a8db9991202c3a9556cdf0854ef58d9d5e2eb",
+        "message_text": "5 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:41:24.206548+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "fd2a936be9ceb2c08427cc031e6a8db9991202c3a9556cdf0854ef58d9d5e2eb",
+        "message_text": "5 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:41:55.924308+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "fd2a936be9ceb2c08427cc031e6a8db9991202c3a9556cdf0854ef58d9d5e2eb",
+        "message_text": "5 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "cleared"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Flaring",
+      "Noise",
+      "Smoke"
+    ],
+    "content_hash": "32156c9d07755decb9a818c8bf66ca935cc4b8343b650a85adb75d64d2490c03",
+    "facility": "PEMEX Deer Park",
+    "first_seen": "2026-08-13T13:40:11.374651+00:00",
+    "last_seen": "2026-08-13T13:40:11.385502+00:00",
+    "message_id": "e986275015cf2a2e001617faf7b45ed9a9c8f31b887a258a244a10ddef137d6f",
+    "message_text": "4 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "normalized_message_text": "4 this is an update from pemex deer park. we are still performing planned work activities that may cause flaring. we are taking steps to minimize any noise, light or smoke associated with potential flaring activity. at this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "posted_datetime": "2026-08-10T06:43:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:40:11.374651+00:00",
+    "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
+    "status": "cleared",
+    "versions": [
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "32156c9d07755decb9a818c8bf66ca935cc4b8343b650a85adb75d64d2490c03",
+        "message_text": "4 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:11.374651+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "32156c9d07755decb9a818c8bf66ca935cc4b8343b650a85adb75d64d2490c03",
+        "message_text": "4 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:11.385502+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "32156c9d07755decb9a818c8bf66ca935cc4b8343b650a85adb75d64d2490c03",
+        "message_text": "4 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:12.120776+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "32156c9d07755decb9a818c8bf66ca935cc4b8343b650a85adb75d64d2490c03",
+        "message_text": "4 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:46.800210+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "32156c9d07755decb9a818c8bf66ca935cc4b8343b650a85adb75d64d2490c03",
+        "message_text": "4 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:47.596185+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "32156c9d07755decb9a818c8bf66ca935cc4b8343b650a85adb75d64d2490c03",
+        "message_text": "4 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:41:24.206548+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "32156c9d07755decb9a818c8bf66ca935cc4b8343b650a85adb75d64d2490c03",
+        "message_text": "4 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:41:55.924308+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "32156c9d07755decb9a818c8bf66ca935cc4b8343b650a85adb75d64d2490c03",
+        "message_text": "4 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "cleared"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Flaring",
+      "Noise",
+      "Smoke"
+    ],
+    "content_hash": "097c3a023d1edd6c5e0201c57f40e5daef27001c5adf3834262fcde9322d602b",
+    "facility": "PEMEX Deer Park",
+    "first_seen": "2026-08-13T13:40:11.374651+00:00",
+    "last_seen": "2026-08-13T13:40:11.385502+00:00",
+    "message_id": "80689bfdb13c16559d256a5002170d472a627731ef843d0991cabb34ed08a342",
+    "message_text": "3 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "normalized_message_text": "3 this is an update from pemex deer park. we are still performing planned work activities that may cause flaring. we are taking steps to minimize any noise, light or smoke associated with potential flaring activity. at this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "posted_datetime": "2026-08-09T06:45:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:40:11.374651+00:00",
+    "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
+    "status": "cleared",
+    "versions": [
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "097c3a023d1edd6c5e0201c57f40e5daef27001c5adf3834262fcde9322d602b",
+        "message_text": "3 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:11.374651+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "097c3a023d1edd6c5e0201c57f40e5daef27001c5adf3834262fcde9322d602b",
+        "message_text": "3 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:11.385502+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "097c3a023d1edd6c5e0201c57f40e5daef27001c5adf3834262fcde9322d602b",
+        "message_text": "3 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:12.120776+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "097c3a023d1edd6c5e0201c57f40e5daef27001c5adf3834262fcde9322d602b",
+        "message_text": "3 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:46.800210+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "097c3a023d1edd6c5e0201c57f40e5daef27001c5adf3834262fcde9322d602b",
+        "message_text": "3 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:47.596185+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "097c3a023d1edd6c5e0201c57f40e5daef27001c5adf3834262fcde9322d602b",
+        "message_text": "3 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:41:24.206548+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "097c3a023d1edd6c5e0201c57f40e5daef27001c5adf3834262fcde9322d602b",
+        "message_text": "3 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:41:55.924308+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "097c3a023d1edd6c5e0201c57f40e5daef27001c5adf3834262fcde9322d602b",
+        "message_text": "3 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "cleared"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Flaring",
+      "Noise",
+      "Smoke"
+    ],
+    "content_hash": "05a9c929394bded2a1e2db18b1c1fdc0eeb34f31023b37a023960645251882e2",
+    "facility": "PEMEX Deer Park",
+    "first_seen": "2026-08-13T13:40:11.374651+00:00",
+    "last_seen": "2026-08-13T13:40:11.385502+00:00",
+    "message_id": "7cb25eaae45d2854b128abb50ea35175dabed8147f00725ab127b617ae2f7531",
+    "message_text": "2 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "normalized_message_text": "2 this is an update from pemex deer park. we are still performing planned work activities that may cause flaring. we are taking steps to minimize any noise, light or smoke associated with potential flaring activity. at this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "posted_datetime": "2026-08-08T06:43:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:40:11.374651+00:00",
+    "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
+    "status": "cleared",
+    "versions": [
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "05a9c929394bded2a1e2db18b1c1fdc0eeb34f31023b37a023960645251882e2",
+        "message_text": "2 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:11.374651+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "05a9c929394bded2a1e2db18b1c1fdc0eeb34f31023b37a023960645251882e2",
+        "message_text": "2 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:11.385502+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "05a9c929394bded2a1e2db18b1c1fdc0eeb34f31023b37a023960645251882e2",
+        "message_text": "2 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:12.120776+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "05a9c929394bded2a1e2db18b1c1fdc0eeb34f31023b37a023960645251882e2",
+        "message_text": "2 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:46.800210+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "05a9c929394bded2a1e2db18b1c1fdc0eeb34f31023b37a023960645251882e2",
+        "message_text": "2 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:47.596185+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "05a9c929394bded2a1e2db18b1c1fdc0eeb34f31023b37a023960645251882e2",
+        "message_text": "2 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:41:24.206548+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "05a9c929394bded2a1e2db18b1c1fdc0eeb34f31023b37a023960645251882e2",
+        "message_text": "2 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:41:55.924308+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "05a9c929394bded2a1e2db18b1c1fdc0eeb34f31023b37a023960645251882e2",
+        "message_text": "2 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "cleared"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Flaring",
+      "Noise",
+      "Smoke"
+    ],
+    "content_hash": "e3a895bb1a2a78868fffa1a3c0f68fe2299f85f54b25be2f36fb6882c84f3ffe",
+    "facility": "PEMEX Deer Park",
+    "first_seen": "2026-08-13T13:40:11.374651+00:00",
+    "last_seen": "2026-08-13T13:40:11.385502+00:00",
+    "message_id": "3bf5faa6ea6d596110506df7179ed39ee1c1455b4e38f2f3278f774c1bb33a0b",
+    "message_text": "1 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "normalized_message_text": "1 this is an update from pemex deer park. we are still performing planned work activities that may cause flaring. we are taking steps to minimize any noise, light or smoke associated with potential flaring activity. at this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+    "posted_datetime": "2026-08-07T06:44:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:40:11.374651+00:00",
+    "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
+    "status": "cleared",
+    "versions": [
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "e3a895bb1a2a78868fffa1a3c0f68fe2299f85f54b25be2f36fb6882c84f3ffe",
+        "message_text": "1 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:11.374651+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "e3a895bb1a2a78868fffa1a3c0f68fe2299f85f54b25be2f36fb6882c84f3ffe",
+        "message_text": "1 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:11.385502+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "e3a895bb1a2a78868fffa1a3c0f68fe2299f85f54b25be2f36fb6882c84f3ffe",
+        "message_text": "1 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:12.120776+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "e3a895bb1a2a78868fffa1a3c0f68fe2299f85f54b25be2f36fb6882c84f3ffe",
+        "message_text": "1 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:46.800210+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "e3a895bb1a2a78868fffa1a3c0f68fe2299f85f54b25be2f36fb6882c84f3ffe",
+        "message_text": "1 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:40:47.596185+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "e3a895bb1a2a78868fffa1a3c0f68fe2299f85f54b25be2f36fb6882c84f3ffe",
+        "message_text": "1 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:41:24.206548+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "e3a895bb1a2a78868fffa1a3c0f68fe2299f85f54b25be2f36fb6882c84f3ffe",
+        "message_text": "1 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:41:55.924308+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "e3a895bb1a2a78868fffa1a3c0f68fe2299f85f54b25be2f36fb6882c84f3ffe",
+        "message_text": "1 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "cleared"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Facilities",
+      "Training/Drills"
+    ],
+    "content_hash": "33fba66be5c9e84c81ddf1d279ce2945b4becd122576f87f25ff94089a4de0d9",
+    "facility": "TotalEnergies La Porte",
+    "first_seen": "2026-08-13T13:40:11.374651+00:00",
+    "last_seen": "2026-08-13T13:40:11.385502+00:00",
+    "message_id": "8e816316c446001492741abab89c5958b60a96440fc9605fb29e38d23c76765e",
+    "message_text": "2 *** DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 10:10 on 8/11/2026, the planned drill concluded at our facility.",
+    "normalized_message_text": "2 *** drill *** this is a message from totalenergies la porte located at 1818 independence pkwy la porte,tx 77571. at 10:10 on 8/11/2026, the planned drill concluded at our facility.",
+    "posted_datetime": "2026-08-11T10:16:00+00:00",
+    "previously_seen": true,
+    "retrieved_datetime": "2026-08-13T13:40:11.374651+00:00",
+    "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
+    "status": "cleared",
+    "versions": [
+      {
+        "category": [
+          "Facilities",
+          "Training/Drills"
+        ],
+        "content_hash": "33fba66be5c9e84c81ddf1d279ce2945b4becd122576f87f25ff94089a4de0d9",
+        "message_text": "2 *** DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 10:10 on 8/11/2026, the planned drill concluded at our facility.",
+        "retrieved_datetime": "2026-08-13T13:40:11.374651+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Training/Drills"
+        ],
+        "content_hash": "33fba66be5c9e84c81ddf1d279ce2945b4becd122576f87f25ff94089a4de0d9",
+        "message_text": "2 *** DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 10:10 on 8/11/2026, the planned drill concluded at our facility.",
+        "retrieved_datetime": "2026-08-13T13:40:11.385502+00:00",
+        "status": "new"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Training/Drills"
+        ],
+        "content_hash": "33fba66be5c9e84c81ddf1d279ce2945b4becd122576f87f25ff94089a4de0d9",
+        "message_text": "2 *** DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 10:10 on 8/11/2026, the planned drill concluded at our facility.",
+        "retrieved_datetime": "2026-08-13T13:40:12.120776+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Training/Drills"
+        ],
+        "content_hash": "33fba66be5c9e84c81ddf1d279ce2945b4becd122576f87f25ff94089a4de0d9",
+        "message_text": "2 *** DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 10:10 on 8/11/2026, the planned drill concluded at our facility.",
+        "retrieved_datetime": "2026-08-13T13:40:46.800210+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Training/Drills"
+        ],
+        "content_hash": "33fba66be5c9e84c81ddf1d279ce2945b4becd122576f87f25ff94089a4de0d9",
+        "message_text": "2 *** DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 10:10 on 8/11/2026, the planned drill concluded at our facility.",
+        "retrieved_datetime": "2026-08-13T13:40:47.596185+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Training/Drills"
+        ],
+        "content_hash": "33fba66be5c9e84c81ddf1d279ce2945b4becd122576f87f25ff94089a4de0d9",
+        "message_text": "2 *** DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 10:10 on 8/11/2026, the planned drill concluded at our facility.",
+        "retrieved_datetime": "2026-08-13T13:41:24.206548+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Training/Drills"
+        ],
+        "content_hash": "33fba66be5c9e84c81ddf1d279ce2945b4becd122576f87f25ff94089a4de0d9",
+        "message_text": "2 *** DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 10:10 on 8/11/2026, the planned drill concluded at our facility.",
+        "retrieved_datetime": "2026-08-13T13:41:55.924308+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Training/Drills"
+        ],
+        "content_hash": "33fba66be5c9e84c81ddf1d279ce2945b4becd122576f87f25ff94089a4de0d9",
+        "message_text": "2 *** DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 10:10 on 8/11/2026, the planned drill concluded at our facility.",
+        "retrieved_datetime": "2026-08-13T13:43:05.085200+00:00",
+        "status": "cleared"
+      }
+    ]
+  }
+]
