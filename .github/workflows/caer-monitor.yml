@@ -1,8 +1,6 @@
 name: CAER Monitor
 
 on:
-  push:
-    branches: [ main ]
   schedule:
     - cron: "0,29 * * * *"
   workflow_dispatch:
