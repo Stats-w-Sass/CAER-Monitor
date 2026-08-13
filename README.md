@@ -46,7 +46,7 @@ pytest -q
 
 The workflow in `.github/workflows/caer-monitor.yml` checks out the repository, installs dependencies, runs the scraper, runs tests, checks whether data files changed, and commits back any updates.
 
-The workflow schedule uses a best-effort cron expression because GitHub Actions is not a real-time scheduler. It is approximately every 29 minutes, not a guaranteed exact timer.
+The workflow schedule uses a best-effort cron expression because GitHub Actions is not a real-time scheduler. It is configured to run at minutes 0 and 29 of each hour (cron: "0,29 * * * *"). This is a best-effort schedule — actual execution times may vary due to runner availability, queueing, or other GitHub Actions scheduling constraints. The scraper itself is scheduler-agnostic so it can be moved to a more precise timer later if needed.
 
 ## Polling limitations
 
