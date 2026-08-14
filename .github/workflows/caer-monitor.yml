@@ -1,4 +1,4 @@
-name: CAER Monitor
+﻿name: CAER Monitor
 
 on:
   schedule:

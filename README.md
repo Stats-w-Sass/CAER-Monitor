@@ -42,6 +42,94 @@ python -m scraper.scraper
 pytest -q
 ```
 
+## Google Sheets reporting via Apps Script
+
+This project keeps GitHub as the authoritative source of truth. The Python scraper writes the canonical archive to `data/caer_messages.json` and related files. Google Sheets is a reporting layer only.
+
+The spreadsheet that receives the output is:
+
+`1l9dbT-NsvKrPSby63Kko6GmO3fgPfKXQGTl4PR1qfNo`
+
+The Google Sheet is populated by a Google Apps Script bound to the spreadsheet itself. The script reads the processed CAER JSON from GitHub's raw URL, rebuilds the reporting sheets, and updates them without any Google Cloud service account or billing setup.
+
+### What the Apps Script does
+
+- Reads the current processed CAER dataset from the GitHub raw file
+- Uses the already-classified Python data; no second classification system is created in Apps Script
+- Updates these sheets:
+  - `Current Messages`
+  - `New Messages`
+  - `Still Posted`
+  - `Cleared Messages`
+  - `App vs Website`
+  - `Data Dictionary`
+- Writes the actual message content and a dedicated filterable `Tags` column
+- Leaves existing spreadsheet data intact if the GitHub source cannot be reached
+- Is idempotent: refreshing with the same dataset does not create duplicate rows
+
+### Apps Script setup
+
+1. Open the target Google Sheet:
+   `https://docs.google.com/spreadsheets/d/1l9dbT-NsvKrPSby63Kko6GmO3fgPfKXQGTl4PR1qfNo/edit`
+2. In the sheet, open Extensions → Apps Script.
+3. Replace the default script with the contents of `google-apps-script/Code.gs`.
+4. Save the project.
+5. In the Apps Script editor, click Run → `refreshData` once to test it.
+6. If prompted, allow the script to access the sheet.
+7. From the Apps Script editor, open Triggers → Add Trigger.
+8. Configure:
+   - Function to run: `refreshData`
+   - Event source: `Time-driven`
+   - Type: `Every 18 hours`
+9. Optionally, add a custom menu in the sheet by leaving `onOpen()` enabled; a CAER menu will appear with a `Refresh Data` action.
+
+The Apps Script is intentionally only a reporting layer. GitHub Actions remains responsible for collection, normalization, deduplication, classification, and historical archiving.
+
+### Raw GitHub source URL
+
+The script reads the canonical processed JSON from:
+
+`https://raw.githubusercontent.com/Stats-w-Sass/CAER-Monitor/main/data/caer_messages.json`
+
+This is the stable source that should be used for the Google Sheet refresh.
+
+### Sheet layout
+
+The primary `Current Messages` tab contains the rows users actually monitor. Required columns are:
+
+- Status
+- Facility
+- Posted Date
+- Posted Time
+- Tags
+- Message
+- First Seen
+- Last Seen
+- Source
+- Previously Seen
+- Message ID
+
+The `Tags` column is a dedicated, directly filterable column. Values are taken from the Python classifier's controlled vocabulary and are written as consistent semicolon-delimited text, for example:
+
+`Flaring; Smoke; Noise`
+
+Other tabs include the same message dataset in filtered views:
+
+- `New Messages`
+- `Still Posted`
+- `Cleared Messages`
+- `App vs Website`
+- `Data Dictionary`
+
+### Important constraints
+
+- No Google Cloud service account is required.
+- No Google Cloud billing setup is required.
+- No Google credentials are stored in GitHub.
+- No personal Google credentials are required in GitHub Actions.
+- If the GitHub dataset is unavailable, Apps Script leaves the sheet content as-is and reports the failure.
+- Re-running `refreshData` with the same GitHub dataset does not create duplicates.
+
 ## GitHub Actions
 
 The workflow in `.github/workflows/caer-monitor.yml` checks out the repository, installs dependencies, runs the scraper, runs tests, checks whether data files changed, and commits back any updates.
