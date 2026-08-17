@@ -1,32 +1,15 @@
 ============================================================
 CAER MESSAGE
 ============================================================
-Message ID: 2e4b6dc699adc590783c570456d200427ee9b08a237267f66ac5a594f2ce63ed
-Facility: Kuraray America La Porte
-Posted: 2026-08-17T11:30:00+00:00
-Retrieved: 2026-08-17T17:30:04.930806+00:00
-Status: previous message still posted
-Previously Seen: True
-Category: Emergency Response, Facilities, Noise, Training/Drills
-First Seen: 2026-08-17T16:31:48.722410+00:00
-Last Seen: 2026-08-17T17:30:04.935163+00:00
-Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
-------------------------------------------------------------
-Message:
-*** DRILL *** This is a message from Kuraray America La Porte located at 12342 Strang Rd. La Porte,TX 77571. At 12:15 on 8/17/2026, an emergency alarm drill will happen at our facility. At that time, Noise, Sirens may be noticeable to the community. Stay tuned for more information. Update will be provided on this site, when needed.
-============================================================
-============================================================
-CAER MESSAGE
-============================================================
 Message ID: 4c8e88d0c3938ab59627f1fdb1c0d80e6821c28acb40738051d2e0cec0efeaf5
 Facility: PEMEX Deer Park
 Posted: 2026-08-17T07:28:00+00:00
-Retrieved: 2026-08-17T17:30:04.930806+00:00
+Retrieved: 2026-08-17T18:44:46.573848+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-17T12:51:22.882265+00:00
-Last Seen: 2026-08-17T17:30:04.935163+00:00
+Last Seen: 2026-08-17T18:44:46.577410+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -38,12 +21,12 @@ CAER MESSAGE
 Message ID: 8a4c59758abe7efb18a2c1a97728cd8c6707e02c05e7fc9dc0fb9c5d6356a40a
 Facility: PEMEX Deer Park
 Posted: 2026-08-16T07:09:00+00:00
-Retrieved: 2026-08-17T17:30:04.930806+00:00
+Retrieved: 2026-08-17T18:44:46.573848+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-16T12:46:55.456346+00:00
-Last Seen: 2026-08-17T17:30:04.935163+00:00
+Last Seen: 2026-08-17T18:44:46.577410+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -55,12 +38,12 @@ CAER MESSAGE
 Message ID: 38b5bbc4fd6eebd663c0ac567155bd13beaeb9771991658e9037db5d5f963b58
 Facility: PEMEX Deer Park
 Posted: 2026-08-15T07:17:00+00:00
-Retrieved: 2026-08-17T17:30:04.930806+00:00
+Retrieved: 2026-08-17T18:44:46.573848+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-15T12:43:48.711751+00:00
-Last Seen: 2026-08-17T17:30:04.935163+00:00
+Last Seen: 2026-08-17T18:44:46.577410+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -72,12 +55,12 @@ CAER MESSAGE
 Message ID: c9b141391955e2db5cf55f762ef62aa8a330a47c8d9dfbddabedf1981e08a145
 Facility: PEMEX Deer Park
 Posted: 2026-08-14T07:19:00+00:00
-Retrieved: 2026-08-17T17:30:04.930806+00:00
+Retrieved: 2026-08-17T18:44:46.573848+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-14T13:15:08.410071+00:00
-Last Seen: 2026-08-17T17:30:04.935163+00:00
+Last Seen: 2026-08-17T18:44:46.577410+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -89,12 +72,12 @@ CAER MESSAGE
 Message ID: df9030bfaa262450b057efcf2113e585a0872b6fb96679fcb545397f2a2536b1
 Facility: PEMEX Deer Park
 Posted: 2026-08-13T07:21:00+00:00
-Retrieved: 2026-08-17T17:30:04.930806+00:00
+Retrieved: 2026-08-17T18:44:46.573848+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-13T13:40:46.788861+00:00
-Last Seen: 2026-08-17T17:30:04.935163+00:00
+Last Seen: 2026-08-17T18:44:46.577410+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -106,12 +89,12 @@ CAER MESSAGE
 Message ID: 8bfd8818f7a787aacad22f2f3af43fdb56d7623a71325867b0ade2bab30605ea
 Facility: PEMEX Deer Park
 Posted: 2026-08-12T06:36:00+00:00
-Retrieved: 2026-08-17T17:30:04.930806+00:00
+Retrieved: 2026-08-17T18:44:46.573848+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-13T13:40:46.788861+00:00
-Last Seen: 2026-08-17T17:30:04.935163+00:00
+Last Seen: 2026-08-17T18:44:46.577410+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -123,12 +106,12 @@ CAER MESSAGE
 Message ID: e1461ffc9fadada6f9ea26f7ae4032436ab5f52e67335eac4b67c2edda205720
 Facility: PEMEX Deer Park
 Posted: 2026-08-11T06:40:00+00:00
-Retrieved: 2026-08-17T17:30:04.930806+00:00
+Retrieved: 2026-08-17T18:44:46.573848+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-13T13:40:46.788861+00:00
-Last Seen: 2026-08-17T17:30:04.935163+00:00
+Last Seen: 2026-08-17T18:44:46.577410+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -140,12 +123,12 @@ CAER MESSAGE
 Message ID: a0e9e9fae52e53593b4f47591c7a5e921b6d67c30e8482210f9716ccc951805b
 Facility: INEOS BMC La Porte
 Posted: 2026-08-13T14:56:00+00:00
-Retrieved: 2026-08-17T17:30:04.930806+00:00
+Retrieved: 2026-08-17T18:44:46.573848+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Emergency Response, Facilities
 First Seen: 2026-08-13T20:48:52.911834+00:00
-Last Seen: 2026-08-17T17:30:04.935163+00:00
+Last Seen: 2026-08-17T18:44:46.577410+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -157,12 +140,12 @@ CAER MESSAGE
 Message ID: ab2a09c2bd90f82587bcf349042a8922689a51fd141d327edb75b4e355776dbc
 Facility: TotalEnergies La Porte
 Posted: 2026-08-11T10:16:00+00:00
-Retrieved: 2026-08-17T17:30:04.930806+00:00
+Retrieved: 2026-08-17T18:44:46.573848+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Training/Drills
 First Seen: 2026-08-13T13:40:46.788861+00:00
-Last Seen: 2026-08-17T17:30:04.935163+00:00
+Last Seen: 2026-08-17T18:44:46.577410+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -174,16 +157,33 @@ CAER MESSAGE
 Message ID: 699f62f025f4bc657acdcde2b84fe556cce65ac50ec1e1a03dbc5a727a5179ba
 Facility: TotalEnergies La Porte
 Posted: 2026-08-11T06:41:00+00:00
-Retrieved: 2026-08-17T17:30:04.930806+00:00
+Retrieved: 2026-08-17T18:44:46.573848+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Emergency Response, Facilities, Smoke, Training/Drills
 First Seen: 2026-08-13T13:41:55.912680+00:00
-Last Seen: 2026-08-17T17:30:04.935163+00:00
+Last Seen: 2026-08-17T18:44:46.577410+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
 *** THIS IS A DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 09:00 on 8/11/2026, a planned drill will occur at our facility. At this time, Activity, Emergency Vehicles, Sirens, Smoke may be noticeable to the community. No action is required by the community. *** THIS IS A DRILL***
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 2e4b6dc699adc590783c570456d200427ee9b08a237267f66ac5a594f2ce63ed
+Facility: Kuraray America La Porte
+Posted: 2026-08-17T11:30:00+00:00
+Retrieved: 2026-08-17T17:30:04.930806+00:00
+Status: cleared
+Previously Seen: True
+Category: Emergency Response, Facilities, Noise, Training/Drills
+First Seen: 2026-08-17T16:31:48.722410+00:00
+Last Seen: 2026-08-17T17:30:04.935163+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+*** DRILL *** This is a message from Kuraray America La Porte located at 12342 Strang Rd. La Porte,TX 77571. At 12:15 on 8/17/2026, an emergency alarm drill will happen at our facility. At that time, Noise, Sirens may be noticeable to the community. Stay tuned for more information. Update will be provided on this site, when needed.
 ============================================================
 ============================================================
 CAER MESSAGE
@@ -677,4 +677,21 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 ------------------------------------------------------------
 Message:
 Clear An earlier event at the LyondellBasell Channelview Complex 8280 Sheldon Road ended at 9:55:59 AM. Questions can be directed to askchannelview@lyb.com. Un evento anterior en complejo de LyondellBasell Channelview Complex ubicado en 8280 Sheldon Road termino a las 9:55:59 AM. Se pueden enviar preguntas a askchannelview@lyb.com.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 0d10dbae36d61c66fbde179300202612147c993db7b987a35305a76b7d93e782
+Facility: Kuraray America La Porte
+Posted: 2026-08-17T12:33:00+00:00
+Retrieved: 2026-08-17T18:44:46.780565+00:00
+Status: new
+Previously Seen: False
+Category: Emergency Response, Facilities, Training/Drills
+First Seen: 2026-08-17T18:44:46.780565+00:00
+Last Seen: 2026-08-17T18:44:46.780565+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear *** DRILL *** This is a message from Kuraray America La Porte located at 12342 Strang Rd. La Porte,TX 77571. At 12:15 on 8/17/2026, an emergency alarm drill happened at our facility. At 12:31 on 8/17/2026 we are issuing the all clear for this drill.
 ============================================================
