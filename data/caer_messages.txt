@@ -1,19 +1,19 @@
 ============================================================
 CAER MESSAGE
 ============================================================
-Message ID: 46efc1a4f0d1ed58eaefcce41f878a309fe1fadba5d014cad0195c992a29e2ab
-Facility: LyondellBasell - Channelview
-Posted: 2026-08-19T01:49:00+00:00
-Retrieved: 2026-08-19T11:54:25.428271+00:00
-Status: previous message still posted
-Previously Seen: True
-Category: Facilities, Flaring, Noise, Smoke
-First Seen: 2026-08-19T06:51:26.760955+00:00
-Last Seen: 2026-08-19T11:54:25.431445+00:00
+Message ID: 41bd2d9534be0d472a06d4b2b693848dc59bb2a5dc74eb4333f0a32adcd4f6e0
+Facility: PEMEX Deer Park
+Posted: 2026-08-19T07:25:00+00:00
+Retrieved: 2026-08-19T12:54:08.283952+00:00
+Status: new
+Previously Seen: False
+Category: Flaring, Noise, Smoke
+First Seen: 2026-08-19T12:54:08.283952+00:00
+Last Seen: 2026-08-19T12:54:08.288620+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
-Operational conditions at the LyondellBasell Channelview Complex 8280 Sheldon Road have resulted in flaring at the facility. Flaring is a safety and environmental control device used to manage and combust process materials. The community may notice a bright flame, smoke, or a rumbling noise during this time. You do not need to take any action. We are actively working to stop flaring quickly and safely. Our focus is to minimize inconvenience and protect the safety of the community, the environment, and our employees. Questions can be directed to askchannelview@lyb.com. Las condiciones operativas en el complejo de LyondellBasell Channelview Complex ubicado en 8280 Sheldon Road han resultado en quema en antorcha (o flaring) en las instalaciones. La quema en antorcha (o flaring) es un dispositivo de seguridad y control medio ambiental que se utiliza para gestionar y quemar materiales de proceso. Es posible que la comunidad note una llama brillante, humo o ruidos retumbantesdurante este tiempo. No es necesario que tome ninguna medida. Estamos trabajando activamente para detener la quema en antorcha (o flaring) de forma rapida y segura. Nuestro objetivo es minimizar los inconvenientes y proteger la seguridad de la comunidad, el medio ambiente y nuestros empleados. Se pueden enviar preguntas a askchannelview@lyb.com.
+This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.
 ============================================================
 ============================================================
 CAER MESSAGE
@@ -21,12 +21,12 @@ CAER MESSAGE
 Message ID: 4f2db91ed2c39b3f39943dd6db98a661fcbe10b7c3ccf03d588e0eb5aa2eeeab
 Facility: PEMEX Deer Park
 Posted: 2026-08-18T07:39:00+00:00
-Retrieved: 2026-08-19T11:54:25.428271+00:00
+Retrieved: 2026-08-19T12:54:08.283952+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-18T12:54:11.172390+00:00
-Last Seen: 2026-08-19T11:54:25.431445+00:00
+Last Seen: 2026-08-19T12:54:08.288620+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -38,12 +38,12 @@ CAER MESSAGE
 Message ID: 4c8e88d0c3938ab59627f1fdb1c0d80e6821c28acb40738051d2e0cec0efeaf5
 Facility: PEMEX Deer Park
 Posted: 2026-08-17T07:28:00+00:00
-Retrieved: 2026-08-19T11:54:25.428271+00:00
+Retrieved: 2026-08-19T12:54:08.283952+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-17T12:51:22.882265+00:00
-Last Seen: 2026-08-19T11:54:25.431445+00:00
+Last Seen: 2026-08-19T12:54:08.288620+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -55,12 +55,12 @@ CAER MESSAGE
 Message ID: 8a4c59758abe7efb18a2c1a97728cd8c6707e02c05e7fc9dc0fb9c5d6356a40a
 Facility: PEMEX Deer Park
 Posted: 2026-08-16T07:09:00+00:00
-Retrieved: 2026-08-19T11:54:25.428271+00:00
+Retrieved: 2026-08-19T12:54:08.283952+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-16T12:46:55.456346+00:00
-Last Seen: 2026-08-19T11:54:25.431445+00:00
+Last Seen: 2026-08-19T12:54:08.288620+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -72,12 +72,12 @@ CAER MESSAGE
 Message ID: 38b5bbc4fd6eebd663c0ac567155bd13beaeb9771991658e9037db5d5f963b58
 Facility: PEMEX Deer Park
 Posted: 2026-08-15T07:17:00+00:00
-Retrieved: 2026-08-19T11:54:25.428271+00:00
+Retrieved: 2026-08-19T12:54:08.283952+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-15T12:43:48.711751+00:00
-Last Seen: 2026-08-19T11:54:25.431445+00:00
+Last Seen: 2026-08-19T12:54:08.288620+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -89,12 +89,12 @@ CAER MESSAGE
 Message ID: c9b141391955e2db5cf55f762ef62aa8a330a47c8d9dfbddabedf1981e08a145
 Facility: PEMEX Deer Park
 Posted: 2026-08-14T07:19:00+00:00
-Retrieved: 2026-08-19T11:54:25.428271+00:00
+Retrieved: 2026-08-19T12:54:08.283952+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-14T13:15:08.410071+00:00
-Last Seen: 2026-08-19T11:54:25.431445+00:00
+Last Seen: 2026-08-19T12:54:08.288620+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -106,12 +106,12 @@ CAER MESSAGE
 Message ID: df9030bfaa262450b057efcf2113e585a0872b6fb96679fcb545397f2a2536b1
 Facility: PEMEX Deer Park
 Posted: 2026-08-13T07:21:00+00:00
-Retrieved: 2026-08-19T11:54:25.428271+00:00
+Retrieved: 2026-08-19T12:54:08.283952+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-13T13:40:46.788861+00:00
-Last Seen: 2026-08-19T11:54:25.431445+00:00
+Last Seen: 2026-08-19T12:54:08.288620+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -120,15 +120,32 @@ This is an update from PEMEX Deer Park. We are still performing planned work act
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: 46efc1a4f0d1ed58eaefcce41f878a309fe1fadba5d014cad0195c992a29e2ab
+Facility: LyondellBasell - Channelview
+Posted: 2026-08-19T01:49:00+00:00
+Retrieved: 2026-08-19T12:54:08.283952+00:00
+Status: previous message still posted
+Previously Seen: True
+Category: Facilities, Flaring, Noise, Smoke
+First Seen: 2026-08-19T06:51:26.760955+00:00
+Last Seen: 2026-08-19T12:54:08.288620+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+Operational conditions at the LyondellBasell Channelview Complex 8280 Sheldon Road have resulted in flaring at the facility. Flaring is a safety and environmental control device used to manage and combust process materials. The community may notice a bright flame, smoke, or a rumbling noise during this time. You do not need to take any action. We are actively working to stop flaring quickly and safely. Our focus is to minimize inconvenience and protect the safety of the community, the environment, and our employees. Questions can be directed to askchannelview@lyb.com. Las condiciones operativas en el complejo de LyondellBasell Channelview Complex ubicado en 8280 Sheldon Road han resultado en quema en antorcha (o flaring) en las instalaciones. La quema en antorcha (o flaring) es un dispositivo de seguridad y control medio ambiental que se utiliza para gestionar y quemar materiales de proceso. Es posible que la comunidad note una llama brillante, humo o ruidos retumbantesdurante este tiempo. No es necesario que tome ninguna medida. Estamos trabajando activamente para detener la quema en antorcha (o flaring) de forma rapida y segura. Nuestro objetivo es minimizar los inconvenientes y proteger la seguridad de la comunidad, el medio ambiente y nuestros empleados. Se pueden enviar preguntas a askchannelview@lyb.com.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: a0e9e9fae52e53593b4f47591c7a5e921b6d67c30e8482210f9716ccc951805b
 Facility: INEOS BMC La Porte
 Posted: 2026-08-13T14:56:00+00:00
-Retrieved: 2026-08-19T11:54:25.428271+00:00
+Retrieved: 2026-08-19T12:54:08.283952+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Emergency Response, Facilities
 First Seen: 2026-08-13T20:48:52.911834+00:00
-Last Seen: 2026-08-19T11:54:25.431445+00:00
+Last Seen: 2026-08-19T12:54:08.288620+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
