@@ -4,12 +4,12 @@ CAER MESSAGE
 Message ID: c16966f9bcd9d00f6820fe7013b027c7a068dea8a2cfa4df80713e7e7553c178
 Facility: Baystar
 Posted: 2026-08-21T13:46:00+00:00
-Retrieved: 2026-08-21T22:28:46.408924+00:00
+Retrieved: 2026-08-21T22:54:33.265035+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Noise
 First Seen: 2026-08-21T19:28:25.874192+00:00
-Last Seen: 2026-08-21T22:28:46.413091+00:00
+Last Seen: 2026-08-21T22:54:33.270278+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -21,12 +21,12 @@ CAER MESSAGE
 Message ID: 855915f640ff9a7ee61f782c5aa8c10094b01c2b12761565d9e7de072784deff
 Facility: PEMEX Deer Park
 Posted: 2026-08-21T09:34:00+00:00
-Retrieved: 2026-08-21T22:28:46.408924+00:00
+Retrieved: 2026-08-21T22:54:33.265035+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-21T14:39:17.649376+00:00
-Last Seen: 2026-08-21T22:28:46.413091+00:00
+Last Seen: 2026-08-21T22:54:33.270278+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -38,12 +38,12 @@ CAER MESSAGE
 Message ID: b80ab2c72a8ff210d7158891d12759d6c943aa14ae9560ea61001c7b7943c0ef
 Facility: PEMEX Deer Park
 Posted: 2026-08-20T06:58:00+00:00
-Retrieved: 2026-08-21T22:28:46.408924+00:00
+Retrieved: 2026-08-21T22:54:33.265035+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-20T12:56:10.040185+00:00
-Last Seen: 2026-08-21T22:28:46.413091+00:00
+Last Seen: 2026-08-21T22:54:33.270278+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -55,12 +55,12 @@ CAER MESSAGE
 Message ID: 41bd2d9534be0d472a06d4b2b693848dc59bb2a5dc74eb4333f0a32adcd4f6e0
 Facility: PEMEX Deer Park
 Posted: 2026-08-19T07:25:00+00:00
-Retrieved: 2026-08-21T22:28:46.408924+00:00
+Retrieved: 2026-08-21T22:54:33.265035+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-19T12:54:08.283952+00:00
-Last Seen: 2026-08-21T22:28:46.413091+00:00
+Last Seen: 2026-08-21T22:54:33.270278+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -72,12 +72,12 @@ CAER MESSAGE
 Message ID: 4f2db91ed2c39b3f39943dd6db98a661fcbe10b7c3ccf03d588e0eb5aa2eeeab
 Facility: PEMEX Deer Park
 Posted: 2026-08-18T07:39:00+00:00
-Retrieved: 2026-08-21T22:28:46.408924+00:00
+Retrieved: 2026-08-21T22:54:33.265035+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-18T12:54:11.172390+00:00
-Last Seen: 2026-08-21T22:28:46.413091+00:00
+Last Seen: 2026-08-21T22:54:33.270278+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -89,12 +89,12 @@ CAER MESSAGE
 Message ID: 4c8e88d0c3938ab59627f1fdb1c0d80e6821c28acb40738051d2e0cec0efeaf5
 Facility: PEMEX Deer Park
 Posted: 2026-08-17T07:28:00+00:00
-Retrieved: 2026-08-21T22:28:46.408924+00:00
+Retrieved: 2026-08-21T22:54:33.265035+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-17T12:51:22.882265+00:00
-Last Seen: 2026-08-21T22:28:46.413091+00:00
+Last Seen: 2026-08-21T22:54:33.270278+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -106,12 +106,12 @@ CAER MESSAGE
 Message ID: 8a4c59758abe7efb18a2c1a97728cd8c6707e02c05e7fc9dc0fb9c5d6356a40a
 Facility: PEMEX Deer Park
 Posted: 2026-08-16T07:09:00+00:00
-Retrieved: 2026-08-21T22:28:46.408924+00:00
+Retrieved: 2026-08-21T22:54:33.265035+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-16T12:46:55.456346+00:00
-Last Seen: 2026-08-21T22:28:46.413091+00:00
+Last Seen: 2026-08-21T22:54:33.270278+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -123,12 +123,12 @@ CAER MESSAGE
 Message ID: 38b5bbc4fd6eebd663c0ac567155bd13beaeb9771991658e9037db5d5f963b58
 Facility: PEMEX Deer Park
 Posted: 2026-08-15T07:17:00+00:00
-Retrieved: 2026-08-21T22:28:46.408924+00:00
+Retrieved: 2026-08-21T22:54:33.265035+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-15T12:43:48.711751+00:00
-Last Seen: 2026-08-21T22:28:46.413091+00:00
+Last Seen: 2026-08-21T22:54:33.270278+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -140,12 +140,12 @@ CAER MESSAGE
 Message ID: c7295ecd7d7d2383ff3b3bcdb8fc98931030104826ed0da64753eb9a66ee2027
 Facility: Baystar
 Posted: 2026-08-20T15:56:00+00:00
-Retrieved: 2026-08-21T22:28:46.408924+00:00
+Retrieved: 2026-08-21T22:54:33.265035+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise
 First Seen: 2026-08-20T21:31:47.582042+00:00
-Last Seen: 2026-08-21T22:28:46.413091+00:00
+Last Seen: 2026-08-21T22:54:33.270278+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -157,12 +157,12 @@ CAER MESSAGE
 Message ID: 31cb45417c35c88486b3d1e6bd0f5d626326ee31082b5a73603f6c780c60510d
 Facility: Baystar
 Posted: 2026-08-20T15:55:00+00:00
-Retrieved: 2026-08-21T22:28:46.408924+00:00
+Retrieved: 2026-08-21T22:54:33.265035+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise
 First Seen: 2026-08-20T21:31:47.582042+00:00
-Last Seen: 2026-08-21T22:28:46.413091+00:00
+Last Seen: 2026-08-21T22:54:33.270278+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -174,12 +174,12 @@ CAER MESSAGE
 Message ID: bf089c3f10c55565c613064e5987101dd059bd51fb92287c2156d7966a2972c1
 Facility: Calpine Deer Park
 Posted: 2026-08-19T10:55:00+00:00
-Retrieved: 2026-08-21T22:28:46.408924+00:00
+Retrieved: 2026-08-21T22:54:33.265035+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Incidents, Training/Drills
 First Seen: 2026-08-19T16:35:34.657275+00:00
-Last Seen: 2026-08-21T22:28:46.413091+00:00
+Last Seen: 2026-08-21T22:54:33.270278+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
