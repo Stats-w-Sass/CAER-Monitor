@@ -46,9 +46,7 @@ pytest -q
 
 This project keeps GitHub as the authoritative source of truth. The Python scraper writes the canonical archive to `data/caer_messages.json` and related files. Google Sheets is a reporting layer only.
 
-The spreadsheet that receives the output is:
-
-`1l9dbT-NsvKrPSby63Kko6GmO3fgPfKXQGTl4PR1qfNo`
+A Google Sheet receives the output.
 
 The Google Sheet is populated by a Google Apps Script bound to the spreadsheet itself. The script reads the processed CAER JSON from GitHub's raw URL, rebuilds the reporting sheets, and updates them without any Google Cloud service account or billing setup.
 
@@ -69,8 +67,7 @@ The Google Sheet is populated by a Google Apps Script bound to the spreadsheet i
 
 ### Apps Script setup
 
-1. Open the target Google Sheet:
-   `https://docs.google.com/spreadsheets/d/1l9dbT-NsvKrPSby63Kko6GmO3fgPfKXQGTl4PR1qfNo/edit`
+1. Open the target Google Sheet in edit mode.
 2. In the sheet, open Extensions → Apps Script.
 3. Replace the default script with the contents of `google-apps-script/Code.gs`.
 4. Save the project.
@@ -87,9 +84,7 @@ The Apps Script is intentionally only a reporting layer. GitHub Actions remains 
 
 ### Raw GitHub source URL
 
-The script reads the canonical processed JSON from:
-
-`https://raw.githubusercontent.com/Stats-w-Sass/CAER-Monitor/main/data/caer_messages.json`
+The script reads the canonical processed JSON from the json.
 
 This is the stable source that should be used for the Google Sheet refresh.
 
