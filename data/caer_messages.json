@@ -8,13 +8,13 @@
     "content_hash": "8d93c5d7844e89289dcf735bf4fb91b12574cf43f7d0bb448024a919d914bfa5",
     "facility": "Baystar",
     "first_seen": "2026-08-21T19:28:25.874192+00:00",
-    "last_seen": "2026-08-23T22:26:38.092014+00:00",
+    "last_seen": "2026-08-23T22:50:57.506419+00:00",
     "message_id": "c16966f9bcd9d00f6820fe7013b027c7a068dea8a2cfa4df80713e7e7553c178",
     "message_text": "Courtesy Message from Baystar (12212 Port Road, Pasadena): We are planning to re-start one of our processing units. There may be intermittent periods of flaring from our Multi-point Ground Flare over the next 24 hours as we bring the unit fully online. Being at ground level, the Multi-point Ground Flare looks different than a typical Stack Flare. Our neighbors may be able to see flaring and hear noise. The flaring poses no danger to the community and no action is necessary. The flare is part of the facilitys safety system. It has been fully tested to ensure it will operate as designed. We will take every precaution to minimize the duration of flaring and apologize for any inconvenience this may cause. We sincerely apologize for any inconvenience or concern this may cause.",
     "normalized_message_text": "courtesy message from baystar (12212 port road, pasadena): we are planning to re-start one of our processing units. there may be intermittent periods of flaring from our multi-point ground flare over the next 24 hours as we bring the unit fully online. being at ground level, the multi-point ground flare looks different than a typical stack flare. our neighbors may be able to see flaring and hear noise. the flaring poses no danger to the community and no action is necessary. the flare is part of the facilitys safety system. it has been fully tested to ensure it will operate as designed. we will take every precaution to minimize the duration of flaring and apologize for any inconvenience this may cause. we sincerely apologize for any inconvenience or concern this may cause.",
     "posted_datetime": "2026-08-21T13:46:00+00:00",
     "previously_seen": true,
-    "retrieved_datetime": "2026-08-23T22:26:38.087198+00:00",
+    "retrieved_datetime": "2026-08-23T22:50:57.501767+00:00",
     "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
     "status": "previous message still posted",
     "versions": [
@@ -26,7 +26,7 @@
         ],
         "content_hash": "8d93c5d7844e89289dcf735bf4fb91b12574cf43f7d0bb448024a919d914bfa5",
         "message_text": "Courtesy Message from Baystar (12212 Port Road, Pasadena): We are planning to re-start one of our processing units. There may be intermittent periods of flaring from our Multi-point Ground Flare over the next 24 hours as we bring the unit fully online. Being at ground level, the Multi-point Ground Flare looks different than a typical Stack Flare. Our neighbors may be able to see flaring and hear noise. The flaring poses no danger to the community and no action is necessary. The flare is part of the facilitys safety system. It has been fully tested to ensure it will operate as designed. We will take every precaution to minimize the duration of flaring and apologize for any inconvenience this may cause. We sincerely apologize for any inconvenience or concern this may cause.",
-        "retrieved_datetime": "2026-08-23T22:26:38.087198+00:00",
+        "retrieved_datetime": "2026-08-23T22:50:57.501767+00:00",
         "status": "new"
       },
       {
@@ -37,7 +37,7 @@
         ],
         "content_hash": "8d93c5d7844e89289dcf735bf4fb91b12574cf43f7d0bb448024a919d914bfa5",
         "message_text": "Courtesy Message from Baystar (12212 Port Road, Pasadena): We are planning to re-start one of our processing units. There may be intermittent periods of flaring from our Multi-point Ground Flare over the next 24 hours as we bring the unit fully online. Being at ground level, the Multi-point Ground Flare looks different than a typical Stack Flare. Our neighbors may be able to see flaring and hear noise. The flaring poses no danger to the community and no action is necessary. The flare is part of the facilitys safety system. It has been fully tested to ensure it will operate as designed. We will take every precaution to minimize the duration of flaring and apologize for any inconvenience this may cause. We sincerely apologize for any inconvenience or concern this may cause.",
-        "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "previous message still posted"
       }
     ]
@@ -51,13 +51,13 @@
     "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
     "facility": "PEMEX Deer Park",
     "first_seen": "2026-08-21T14:39:17.649376+00:00",
-    "last_seen": "2026-08-23T22:26:38.092014+00:00",
+    "last_seen": "2026-08-23T22:50:57.506419+00:00",
     "message_id": "855915f640ff9a7ee61f782c5aa8c10094b01c2b12761565d9e7de072784deff",
     "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
     "normalized_message_text": "this is an update from pemex deer park. we are still performing planned work activities that may cause flaring. we are taking steps to minimize any noise, light or smoke associated with potential flaring activity. at this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
     "posted_datetime": "2026-08-21T09:34:00+00:00",
     "previously_seen": true,
-    "retrieved_datetime": "2026-08-23T22:26:38.087198+00:00",
+    "retrieved_datetime": "2026-08-23T22:50:57.501767+00:00",
     "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
     "status": "previous message still posted",
     "versions": [
@@ -69,7 +69,7 @@
         ],
         "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
         "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
-        "retrieved_datetime": "2026-08-23T22:26:38.087198+00:00",
+        "retrieved_datetime": "2026-08-23T22:50:57.501767+00:00",
         "status": "new"
       },
       {
@@ -80,7 +80,7 @@
         ],
         "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
         "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
-        "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "previous message still posted"
       }
     ]
@@ -94,13 +94,13 @@
     "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
     "facility": "PEMEX Deer Park",
     "first_seen": "2026-08-20T12:56:10.040185+00:00",
-    "last_seen": "2026-08-23T22:26:38.092014+00:00",
+    "last_seen": "2026-08-23T22:50:57.506419+00:00",
     "message_id": "b80ab2c72a8ff210d7158891d12759d6c943aa14ae9560ea61001c7b7943c0ef",
     "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
     "normalized_message_text": "this is an update from pemex deer park. we are still performing planned work activities that may cause flaring. we are taking steps to minimize any noise, light or smoke associated with potential flaring activity. at this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
     "posted_datetime": "2026-08-20T06:58:00+00:00",
     "previously_seen": true,
-    "retrieved_datetime": "2026-08-23T22:26:38.087198+00:00",
+    "retrieved_datetime": "2026-08-23T22:50:57.501767+00:00",
     "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
     "status": "previous message still posted",
     "versions": [
@@ -112,7 +112,7 @@
         ],
         "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
         "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
-        "retrieved_datetime": "2026-08-23T22:26:38.087198+00:00",
+        "retrieved_datetime": "2026-08-23T22:50:57.501767+00:00",
         "status": "new"
       },
       {
@@ -123,7 +123,7 @@
         ],
         "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
         "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
-        "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "previous message still posted"
       }
     ]
@@ -137,13 +137,13 @@
     "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
     "facility": "PEMEX Deer Park",
     "first_seen": "2026-08-19T12:54:08.283952+00:00",
-    "last_seen": "2026-08-23T22:26:38.092014+00:00",
+    "last_seen": "2026-08-23T22:50:57.506419+00:00",
     "message_id": "41bd2d9534be0d472a06d4b2b693848dc59bb2a5dc74eb4333f0a32adcd4f6e0",
     "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
     "normalized_message_text": "this is an update from pemex deer park. we are still performing planned work activities that may cause flaring. we are taking steps to minimize any noise, light or smoke associated with potential flaring activity. at this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
     "posted_datetime": "2026-08-19T07:25:00+00:00",
     "previously_seen": true,
-    "retrieved_datetime": "2026-08-23T22:26:38.087198+00:00",
+    "retrieved_datetime": "2026-08-23T22:50:57.501767+00:00",
     "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
     "status": "previous message still posted",
     "versions": [
@@ -155,7 +155,7 @@
         ],
         "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
         "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
-        "retrieved_datetime": "2026-08-23T22:26:38.087198+00:00",
+        "retrieved_datetime": "2026-08-23T22:50:57.501767+00:00",
         "status": "new"
       },
       {
@@ -166,7 +166,7 @@
         ],
         "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
         "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
-        "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "previous message still posted"
       }
     ]
@@ -180,13 +180,13 @@
     "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
     "facility": "PEMEX Deer Park",
     "first_seen": "2026-08-18T12:54:11.172390+00:00",
-    "last_seen": "2026-08-23T22:26:38.092014+00:00",
+    "last_seen": "2026-08-23T22:50:57.506419+00:00",
     "message_id": "4f2db91ed2c39b3f39943dd6db98a661fcbe10b7c3ccf03d588e0eb5aa2eeeab",
     "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
     "normalized_message_text": "this is an update from pemex deer park. we are still performing planned work activities that may cause flaring. we are taking steps to minimize any noise, light or smoke associated with potential flaring activity. at this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
     "posted_datetime": "2026-08-18T07:39:00+00:00",
     "previously_seen": true,
-    "retrieved_datetime": "2026-08-23T22:26:38.087198+00:00",
+    "retrieved_datetime": "2026-08-23T22:50:57.501767+00:00",
     "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
     "status": "previous message still posted",
     "versions": [
@@ -198,7 +198,7 @@
         ],
         "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
         "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
-        "retrieved_datetime": "2026-08-23T22:26:38.087198+00:00",
+        "retrieved_datetime": "2026-08-23T22:50:57.501767+00:00",
         "status": "new"
       },
       {
@@ -209,7 +209,7 @@
         ],
         "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
         "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
-        "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "previous message still posted"
       }
     ]
@@ -223,13 +223,13 @@
     "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
     "facility": "PEMEX Deer Park",
     "first_seen": "2026-08-17T12:51:22.882265+00:00",
-    "last_seen": "2026-08-23T22:26:38.092014+00:00",
+    "last_seen": "2026-08-23T22:50:57.506419+00:00",
     "message_id": "4c8e88d0c3938ab59627f1fdb1c0d80e6821c28acb40738051d2e0cec0efeaf5",
     "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
     "normalized_message_text": "this is an update from pemex deer park. we are still performing planned work activities that may cause flaring. we are taking steps to minimize any noise, light or smoke associated with potential flaring activity. at this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
     "posted_datetime": "2026-08-17T07:28:00+00:00",
     "previously_seen": true,
-    "retrieved_datetime": "2026-08-23T22:26:38.087198+00:00",
+    "retrieved_datetime": "2026-08-23T22:50:57.501767+00:00",
     "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
     "status": "previous message still posted",
     "versions": [
@@ -241,7 +241,7 @@
         ],
         "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
         "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
-        "retrieved_datetime": "2026-08-23T22:26:38.087198+00:00",
+        "retrieved_datetime": "2026-08-23T22:50:57.501767+00:00",
         "status": "new"
       },
       {
@@ -252,7 +252,7 @@
         ],
         "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
         "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
-        "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "previous message still posted"
       }
     ]
@@ -265,13 +265,13 @@
     "content_hash": "4632e3e24f28041b576a483598ff9b5ce9f6363bdd216d24b6fba11371b52164",
     "facility": "Baystar",
     "first_seen": "2026-08-20T21:31:47.582042+00:00",
-    "last_seen": "2026-08-23T22:26:38.092014+00:00",
+    "last_seen": "2026-08-23T22:50:57.506419+00:00",
     "message_id": "c7295ecd7d7d2383ff3b3bcdb8fc98931030104826ed0da64753eb9a66ee2027",
     "message_text": "Courtesy Message from Baystar (12212 Port Road, Pasadena): Over the next 24 hours, we will be conducting a controlled shutdown for planned maintenance activities. Our neighbors may be able to see flaring and hear noise. Please note that we utilize a Multi-point Ground Flare. Because it operates at ground level, it looks visually different from a traditional tall stack flare. This flaring is a normal part of our safety and shutdown systems, which has been fully tested to ensure it operates as designed. It poses no danger to the community and residents do not need to take any protective actions. Our team is taking every precaution to minimize the duration of the flaring. We sincerely apologize for any inconvenience or concern this may cause.",
     "normalized_message_text": "courtesy message from baystar (12212 port road, pasadena): over the next 24 hours, we will be conducting a controlled shutdown for planned maintenance activities. our neighbors may be able to see flaring and hear noise. please note that we utilize a multi-point ground flare. because it operates at ground level, it looks visually different from a traditional tall stack flare. this flaring is a normal part of our safety and shutdown systems, which has been fully tested to ensure it operates as designed. it poses no danger to the community and residents do not need to take any protective actions. our team is taking every precaution to minimize the duration of the flaring. we sincerely apologize for any inconvenience or concern this may cause.",
     "posted_datetime": "2026-08-20T15:56:00+00:00",
     "previously_seen": true,
-    "retrieved_datetime": "2026-08-23T22:26:38.087198+00:00",
+    "retrieved_datetime": "2026-08-23T22:50:57.501767+00:00",
     "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
     "status": "previous message still posted",
     "versions": [
@@ -282,7 +282,7 @@
         ],
         "content_hash": "4632e3e24f28041b576a483598ff9b5ce9f6363bdd216d24b6fba11371b52164",
         "message_text": "Courtesy Message from Baystar (12212 Port Road, Pasadena): Over the next 24 hours, we will be conducting a controlled shutdown for planned maintenance activities. Our neighbors may be able to see flaring and hear noise. Please note that we utilize a Multi-point Ground Flare. Because it operates at ground level, it looks visually different from a traditional tall stack flare. This flaring is a normal part of our safety and shutdown systems, which has been fully tested to ensure it operates as designed. It poses no danger to the community and residents do not need to take any protective actions. Our team is taking every precaution to minimize the duration of the flaring. We sincerely apologize for any inconvenience or concern this may cause.",
-        "retrieved_datetime": "2026-08-23T22:26:38.087198+00:00",
+        "retrieved_datetime": "2026-08-23T22:50:57.501767+00:00",
         "status": "new"
       },
       {
@@ -292,7 +292,7 @@
         ],
         "content_hash": "4632e3e24f28041b576a483598ff9b5ce9f6363bdd216d24b6fba11371b52164",
         "message_text": "Courtesy Message from Baystar (12212 Port Road, Pasadena): Over the next 24 hours, we will be conducting a controlled shutdown for planned maintenance activities. Our neighbors may be able to see flaring and hear noise. Please note that we utilize a Multi-point Ground Flare. Because it operates at ground level, it looks visually different from a traditional tall stack flare. This flaring is a normal part of our safety and shutdown systems, which has been fully tested to ensure it operates as designed. It poses no danger to the community and residents do not need to take any protective actions. Our team is taking every precaution to minimize the duration of the flaring. We sincerely apologize for any inconvenience or concern this may cause.",
-        "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "previous message still posted"
       }
     ]
@@ -305,13 +305,13 @@
     "content_hash": "4632e3e24f28041b576a483598ff9b5ce9f6363bdd216d24b6fba11371b52164",
     "facility": "Baystar",
     "first_seen": "2026-08-20T21:31:47.582042+00:00",
-    "last_seen": "2026-08-23T22:26:38.092014+00:00",
+    "last_seen": "2026-08-23T22:50:57.506419+00:00",
     "message_id": "31cb45417c35c88486b3d1e6bd0f5d626326ee31082b5a73603f6c780c60510d",
     "message_text": "Courtesy Message from Baystar (12212 Port Road, Pasadena): Over the next 24 hours, we will be conducting a controlled shutdown for planned maintenance activities. Our neighbors may be able to see flaring and hear noise. Please note that we utilize a Multi-point Ground Flare. Because it operates at ground level, it looks visually different from a traditional tall stack flare. This flaring is a normal part of our safety and shutdown systems, which has been fully tested to ensure it operates as designed. It poses no danger to the community and residents do not need to take any protective actions. Our team is taking every precaution to minimize the duration of the flaring. We sincerely apologize for any inconvenience or concern this may cause.",
     "normalized_message_text": "courtesy message from baystar (12212 port road, pasadena): over the next 24 hours, we will be conducting a controlled shutdown for planned maintenance activities. our neighbors may be able to see flaring and hear noise. please note that we utilize a multi-point ground flare. because it operates at ground level, it looks visually different from a traditional tall stack flare. this flaring is a normal part of our safety and shutdown systems, which has been fully tested to ensure it operates as designed. it poses no danger to the community and residents do not need to take any protective actions. our team is taking every precaution to minimize the duration of the flaring. we sincerely apologize for any inconvenience or concern this may cause.",
     "posted_datetime": "2026-08-20T15:55:00+00:00",
     "previously_seen": true,
-    "retrieved_datetime": "2026-08-23T22:26:38.087198+00:00",
+    "retrieved_datetime": "2026-08-23T22:50:57.501767+00:00",
     "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
     "status": "previous message still posted",
     "versions": [
@@ -322,7 +322,7 @@
         ],
         "content_hash": "4632e3e24f28041b576a483598ff9b5ce9f6363bdd216d24b6fba11371b52164",
         "message_text": "Courtesy Message from Baystar (12212 Port Road, Pasadena): Over the next 24 hours, we will be conducting a controlled shutdown for planned maintenance activities. Our neighbors may be able to see flaring and hear noise. Please note that we utilize a Multi-point Ground Flare. Because it operates at ground level, it looks visually different from a traditional tall stack flare. This flaring is a normal part of our safety and shutdown systems, which has been fully tested to ensure it operates as designed. It poses no danger to the community and residents do not need to take any protective actions. Our team is taking every precaution to minimize the duration of the flaring. We sincerely apologize for any inconvenience or concern this may cause.",
-        "retrieved_datetime": "2026-08-23T22:26:38.087198+00:00",
+        "retrieved_datetime": "2026-08-23T22:50:57.501767+00:00",
         "status": "new"
       },
       {
@@ -332,7 +332,7 @@
         ],
         "content_hash": "4632e3e24f28041b576a483598ff9b5ce9f6363bdd216d24b6fba11371b52164",
         "message_text": "Courtesy Message from Baystar (12212 Port Road, Pasadena): Over the next 24 hours, we will be conducting a controlled shutdown for planned maintenance activities. Our neighbors may be able to see flaring and hear noise. Please note that we utilize a Multi-point Ground Flare. Because it operates at ground level, it looks visually different from a traditional tall stack flare. This flaring is a normal part of our safety and shutdown systems, which has been fully tested to ensure it operates as designed. It poses no danger to the community and residents do not need to take any protective actions. Our team is taking every precaution to minimize the duration of the flaring. We sincerely apologize for any inconvenience or concern this may cause.",
-        "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "previous message still posted"
       }
     ]
@@ -345,13 +345,13 @@
     "content_hash": "409190fe684347c88d6ef2b26aeba20fc68643d0ac6a8cf0fea362bedcaffd74",
     "facility": "Calpine Deer Park",
     "first_seen": "2026-08-19T16:35:34.657275+00:00",
-    "last_seen": "2026-08-23T22:26:38.092014+00:00",
+    "last_seen": "2026-08-23T22:50:57.506419+00:00",
     "message_id": "bf089c3f10c55565c613064e5987101dd059bd51fb92287c2156d7966a2972c1",
     "message_text": "Calpine Deer Park will be conducting Fire Extinguisher Training on Thursday, August 20, 2026 and Friday, August 21, 2026 from 1:00 PM to 5:00 PM on both days.",
     "normalized_message_text": "calpine deer park will be conducting fire extinguisher training on thursday, august 20, 2026 and friday, august 21, 2026 from 1:00 pm to 5:00 pm on both days.",
     "posted_datetime": "2026-08-19T10:55:00+00:00",
     "previously_seen": true,
-    "retrieved_datetime": "2026-08-23T22:26:38.087198+00:00",
+    "retrieved_datetime": "2026-08-23T22:50:57.501767+00:00",
     "source_url": "https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html",
     "status": "previous message still posted",
     "versions": [
@@ -362,7 +362,7 @@
         ],
         "content_hash": "409190fe684347c88d6ef2b26aeba20fc68643d0ac6a8cf0fea362bedcaffd74",
         "message_text": "Calpine Deer Park will be conducting Fire Extinguisher Training on Thursday, August 20, 2026 and Friday, August 21, 2026 from 1:00 PM to 5:00 PM on both days.",
-        "retrieved_datetime": "2026-08-23T22:26:38.087198+00:00",
+        "retrieved_datetime": "2026-08-23T22:50:57.501767+00:00",
         "status": "new"
       },
       {
@@ -372,7 +372,7 @@
         ],
         "content_hash": "409190fe684347c88d6ef2b26aeba20fc68643d0ac6a8cf0fea362bedcaffd74",
         "message_text": "Calpine Deer Park will be conducting Fire Extinguisher Training on Thursday, August 20, 2026 and Friday, August 21, 2026 from 1:00 PM to 5:00 PM on both days.",
-        "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "previous message still posted"
       }
     ]
@@ -443,6 +443,18 @@
         "content_hash": "1b62a25cfda9f87017939f9094441115aac7338cd4b3ab5b89b0966bb32affc4",
         "message_text": "Operational conditions at the LyondellBasell Channelview Complex 8280 Sheldon Road have resulted in flaring at the facility. Flaring is a safety and environmental control device used to manage and combust process materials. The community may notice a bright flame, smoke, or a rumbling noise during this time. You do not need to take any action. We are actively working to stop flaring quickly and safely. Our focus is to minimize inconvenience and protect the safety of the community, the environment, and our employees. Questions can be directed to askchannelview@lyb.com. Las condiciones operativas en el complejo de LyondellBasell Channelview Complex ubicado en 8280 Sheldon Road han resultado en quema en antorcha (o flaring) en las instalaciones. La quema en antorcha (o flaring) es un dispositivo de seguridad y control medio ambiental que se utiliza para gestionar y quemar materiales de proceso. Es posible que la comunidad note una llama brillante, humo o ruidos retumbantesdurante este tiempo. No es necesario que tome ninguna medida. Estamos trabajando activamente para detener la quema en antorcha (o flaring) de forma rapida y segura. Nuestro objetivo es minimizar los inconvenientes y proteger la seguridad de la comunidad, el medio ambiente y nuestros empleados. Se pueden enviar preguntas a askchannelview@lyb.com.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "1b62a25cfda9f87017939f9094441115aac7338cd4b3ab5b89b0966bb32affc4",
+        "message_text": "Operational conditions at the LyondellBasell Channelview Complex 8280 Sheldon Road have resulted in flaring at the facility. Flaring is a safety and environmental control device used to manage and combust process materials. The community may notice a bright flame, smoke, or a rumbling noise during this time. You do not need to take any action. We are actively working to stop flaring quickly and safely. Our focus is to minimize inconvenience and protect the safety of the community, the environment, and our employees. Questions can be directed to askchannelview@lyb.com. Las condiciones operativas en el complejo de LyondellBasell Channelview Complex ubicado en 8280 Sheldon Road han resultado en quema en antorcha (o flaring) en las instalaciones. La quema en antorcha (o flaring) es un dispositivo de seguridad y control medio ambiental que se utiliza para gestionar y quemar materiales de proceso. Es posible que la comunidad note una llama brillante, humo o ruidos retumbantesdurante este tiempo. No es necesario que tome ninguna medida. Estamos trabajando activamente para detener la quema en antorcha (o flaring) de forma rapida y segura. Nuestro objetivo es minimizar los inconvenientes y proteger la seguridad de la comunidad, el medio ambiente y nuestros empleados. Se pueden enviar preguntas a askchannelview@lyb.com.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -673,6 +685,17 @@
         "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
         "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -1266,6 +1289,17 @@
         "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
         "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -2178,6 +2212,17 @@
         "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
         "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -3148,6 +3193,16 @@
         "content_hash": "61341665c839fe95c270a53ed2ff82497c76b869698334e695532eef8e4e5299",
         "message_text": "Our internal emergency crews at the LyondellBasell Channelview Complex 8280 Sheldon Road are responding to a minor non-process-related fire at our property. During this time, the community may hear emergency sirens or see vehicles responding. There is no need for you to take action. We are working quickly and safely to conclude the event, minimizing inconvenience, and protecting the safety of the community, the environment, and our employees. Questions can be directed to askchannelview@lyb.com. Nuestros equipos internos de emergencia en LyondellBasell Channelview Complex ubicado en 8280 Sheldon Road a un incendio menor no relacionado con el proceso en nuestra propiedad. Durante este tiempo, es posible que la comunidad escuche sirenas de emergencia o vea veh\u00c3\u0083\u00c2\u00adculos respondiendo al evento. No es necesario que tome medidas. Estamos trabajando de manera r\u00c3\u0083\u00c2\u00a1pida y segura para concluir el evento, minimizando los inconvenientes y protegiendo la seguridad de la comunidad, del medioambiente y de nuestros empleados. Se pueden enviar preguntas a askchannelview@lyb.com.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Emergency Response",
+          "Incidents"
+        ],
+        "content_hash": "61341665c839fe95c270a53ed2ff82497c76b869698334e695532eef8e4e5299",
+        "message_text": "Our internal emergency crews at the LyondellBasell Channelview Complex 8280 Sheldon Road are responding to a minor non-process-related fire at our property. During this time, the community may hear emergency sirens or see vehicles responding. There is no need for you to take action. We are working quickly and safely to conclude the event, minimizing inconvenience, and protecting the safety of the community, the environment, and our employees. Questions can be directed to askchannelview@lyb.com. Nuestros equipos internos de emergencia en LyondellBasell Channelview Complex ubicado en 8280 Sheldon Road a un incendio menor no relacionado con el proceso en nuestra propiedad. Durante este tiempo, es posible que la comunidad escuche sirenas de emergencia o vea veh\u00c3\u0083\u00c2\u00adculos respondiendo al evento. No es necesario que tome medidas. Estamos trabajando de manera r\u00c3\u0083\u00c2\u00a1pida y segura para concluir el evento, minimizando los inconvenientes y protegiendo la seguridad de la comunidad, del medioambiente y de nuestros empleados. Se pueden enviar preguntas a askchannelview@lyb.com.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -4139,6 +4194,16 @@
         "message_text": "Courtesy Message from Baystar (12212 Port Road, Pasadena): We will be utilizing our Multi-point Ground Flare intermittently over the next few hours. Because this safety system operates at ground level, it looks different than a standard tall stack flare. Our neighbors may see visible flames at ground level and hear noise. There is no danger to the community, and no action is required. The flare has been fully tested and is functioning normally. We apologize for the inconvenience and are working to minimize the duration.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise"
+        ],
+        "content_hash": "1675cd7481c3a2e5956ce6b0fb0451799889c92e20fc66ae3b181a08eee0215d",
+        "message_text": "Courtesy Message from Baystar (12212 Port Road, Pasadena): We will be utilizing our Multi-point Ground Flare intermittently over the next few hours. Because this safety system operates at ground level, it looks different than a standard tall stack flare. Our neighbors may see visible flames at ground level and hear noise. There is no danger to the community, and no action is required. The flare has been fully tested and is functioning normally. We apologize for the inconvenience and are working to minimize the duration.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
       }
     ]
   },
@@ -5128,6 +5193,16 @@
         "content_hash": "cc306f88e83439ee131de47f3f9ed4a3635bb56a1a9147f73ce887375572769b",
         "message_text": "INEOS BMC : located at 1230 Independence Pkwy: La Porte Texas: experienced an accidental activation of our emergency alarm system stating an ambulance was en route to our site for an emergency.....There is no emergency or concern for the community as this was false alarm.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Emergency Response",
+          "Facilities"
+        ],
+        "content_hash": "cc306f88e83439ee131de47f3f9ed4a3635bb56a1a9147f73ce887375572769b",
+        "message_text": "INEOS BMC : located at 1230 Independence Pkwy: La Porte Texas: experienced an accidental activation of our emergency alarm system stating an ambulance was en route to our site for an emergency.....There is no emergency or concern for the community as this was false alarm.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -6304,6 +6379,17 @@
         "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
         "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -7707,6 +7793,18 @@
         "message_text": "Operational conditions at the LyondellBasell Channelview Complex 8280 Sheldon Road have resulted in flaring at the facility. Flaring is a safety and environmental control device used to manage and combust process materials. The community may notice a bright flame, smoke, or a rumbling noise during this time. You do not need to take any action. We are actively working to stop flaring quickly and safely. Our focus is to minimize inconvenience and protect the safety of the community, the environment, and our employees. Questions can be directed to askchannelview@lyb.com. Las condiciones operativas en el complejo de LyondellBasell Channelview Complex ubicado en 8280 Sheldon Road han resultado en quema en antorcha (o flaring) en las instalaciones. La quema en antorcha (o flaring) es un dispositivo de seguridad y control medio ambiental que se utiliza para gestionar y quemar materiales de proceso. Es posible que la comunidad note una llama brillante, humo o ruidos retumbantesdurante este tiempo. No es necesario que tome ninguna medida. Estamos trabajando activamente para detener la quema en antorcha (o flaring) de forma rapida y segura. Nuestro objetivo es minimizar los inconvenientes y proteger la seguridad de la comunidad, el medio ambiente y nuestros empleados. Se pueden enviar preguntas a askchannelview@lyb.com.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "1b62a25cfda9f87017939f9094441115aac7338cd4b3ab5b89b0966bb32affc4",
+        "message_text": "Operational conditions at the LyondellBasell Channelview Complex 8280 Sheldon Road have resulted in flaring at the facility. Flaring is a safety and environmental control device used to manage and combust process materials. The community may notice a bright flame, smoke, or a rumbling noise during this time. You do not need to take any action. We are actively working to stop flaring quickly and safely. Our focus is to minimize inconvenience and protect the safety of the community, the environment, and our employees. Questions can be directed to askchannelview@lyb.com. Las condiciones operativas en el complejo de LyondellBasell Channelview Complex ubicado en 8280 Sheldon Road han resultado en quema en antorcha (o flaring) en las instalaciones. La quema en antorcha (o flaring) es un dispositivo de seguridad y control medio ambiental que se utiliza para gestionar y quemar materiales de proceso. Es posible que la comunidad note una llama brillante, humo o ruidos retumbantesdurante este tiempo. No es necesario que tome ninguna medida. Estamos trabajando activamente para detener la quema en antorcha (o flaring) de forma rapida y segura. Nuestro objetivo es minimizar los inconvenientes y proteger la seguridad de la comunidad, el medio ambiente y nuestros empleados. Se pueden enviar preguntas a askchannelview@lyb.com.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
       }
     ]
   },
@@ -8859,6 +8957,15 @@
         "content_hash": "908478415c6f7324941aabbd5848f768f238574cef2154c766b3acaa35a9fa9a",
         "message_text": "This is the INEOS Styrolution EBSM and ASA Plant located at 12222 Port Road in Pasadena Texas we will be conducting the weekly plant alarm testing at noon. We apologize for any inconvenience this may cause. If you need additional information, please call 281-474-1054.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities"
+        ],
+        "content_hash": "908478415c6f7324941aabbd5848f768f238574cef2154c766b3acaa35a9fa9a",
+        "message_text": "This is the INEOS Styrolution EBSM and ASA Plant located at 12222 Port Road in Pasadena Texas we will be conducting the weekly plant alarm testing at noon. We apologize for any inconvenience this may cause. If you need additional information, please call 281-474-1054.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -10149,6 +10256,16 @@
         "content_hash": "d3d14fb864c973ff899af6da68c68eae4a006e4b33b11db31b293391acdce369",
         "message_text": "his is a message from The Goodyear Tire & Rubber Company, Houston Chemical Plant located at Highway 225 and Goodyear Drive in Houston. Today is [date]. At 10:30 this morning, we are conducting a test of our plant emergency alarm system and CAER Online notification. We apologize for any inconvenience this may cause. If there were an actual event, we would provide appropriate information via CAER Online. Again, this is only a test.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Emergency Response",
+          "Facilities"
+        ],
+        "content_hash": "d3d14fb864c973ff899af6da68c68eae4a006e4b33b11db31b293391acdce369",
+        "message_text": "his is a message from The Goodyear Tire & Rubber Company, Houston Chemical Plant located at Highway 225 and Goodyear Drive in Houston. Today is [date]. At 10:30 this morning, we are conducting a test of our plant emergency alarm system and CAER Online notification. We apologize for any inconvenience this may cause. If there were an actual event, we would provide appropriate information via CAER Online. Again, this is only a test.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -11622,6 +11739,17 @@
         "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
         "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -13202,6 +13330,16 @@
         "content_hash": "63b1d30374b377505e2ef98ab663cb5cf97040b70ec9d5534376b83a1258b321",
         "message_text": "*** DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 10:10 on 8/11/2026, the planned drill concluded at our facility.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Training/Drills"
+        ],
+        "content_hash": "63b1d30374b377505e2ef98ab663cb5cf97040b70ec9d5534376b83a1258b321",
+        "message_text": "*** DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 10:10 on 8/11/2026, the planned drill concluded at our facility.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -14983,6 +15121,17 @@
         "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
         "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -16925,6 +17074,18 @@
         "content_hash": "62083f8021c5a422ef7398c6bfc77a9396a8ea2ff6b3fe596a8bdffb57f0c14e",
         "message_text": "*** THIS IS A DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 09:00 on 8/11/2026, a planned drill will occur at our facility. At this time, Activity, Emergency Vehicles, Sirens, Smoke may be noticeable to the community. No action is required by the community. *** THIS IS A DRILL***",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Emergency Response",
+          "Facilities",
+          "Smoke",
+          "Training/Drills"
+        ],
+        "content_hash": "62083f8021c5a422ef7398c6bfc77a9396a8ea2ff6b3fe596a8bdffb57f0c14e",
+        "message_text": "*** THIS IS A DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 09:00 on 8/11/2026, a planned drill will occur at our facility. At this time, Activity, Emergency Vehicles, Sirens, Smoke may be noticeable to the community. No action is required by the community. *** THIS IS A DRILL***",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -19107,6 +19268,18 @@
         "content_hash": "50866abf5ec764a34142a8783d1fd728cf2edbfc164ba0b249536c7fa4c55260",
         "message_text": "*** DRILL *** This is a message from Kuraray America La Porte located at 12342 Strang Rd. La Porte,TX 77571. At 12:15 on 8/17/2026, an emergency alarm drill will happen at our facility. At that time, Noise, Sirens may be noticeable to the community. Stay tuned for more information. Update will be provided on this site, when needed.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Emergency Response",
+          "Facilities",
+          "Noise",
+          "Training/Drills"
+        ],
+        "content_hash": "50866abf5ec764a34142a8783d1fd728cf2edbfc164ba0b249536c7fa4c55260",
+        "message_text": "*** DRILL *** This is a message from Kuraray America La Porte located at 12342 Strang Rd. La Porte,TX 77571. At 12:15 on 8/17/2026, an emergency alarm drill will happen at our facility. At that time, Noise, Sirens may be noticeable to the community. Stay tuned for more information. Update will be provided on this site, when needed.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -21338,6 +21511,18 @@
         "message_text": "Operational conditions at the LyondellBasell Channelview Complex 8280 Sheldon Road have resulted in flaring at the facility. Flaring is a safety and environmental control device used to manage and combust process materials. The community may notice a bright flame, smoke, or a rumbling noise during this time. You do not need to take any action. We are actively working to stop flaring quickly and safely. Our focus is to minimize inconvenience and protect the safety of the community, the environment, and our employees. Questions can be directed to askchannelview@lyb.com. Las condiciones operativas en el complejo de LyondellBasell Channelview Complex ubicado en 8280 Sheldon Road han resultado en quema en antorcha (o flaring) en las instalaciones. La quema en antorcha (o flaring) es un dispositivo de seguridad y control medio ambiental que se utiliza para gestionar y quemar materiales de proceso. Es posible que la comunidad note una llama brillante, humo o ruidos retumbantesdurante este tiempo. No es necesario que tome ninguna medida. Estamos trabajando activamente para detener la quema en antorcha (o flaring) de forma rapida y segura. Nuestro objetivo es minimizar los inconvenientes y proteger la seguridad de la comunidad, el medio ambiente y nuestros empleados. Se pueden enviar preguntas a askchannelview@lyb.com.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "1b62a25cfda9f87017939f9094441115aac7338cd4b3ab5b89b0966bb32affc4",
+        "message_text": "Operational conditions at the LyondellBasell Channelview Complex 8280 Sheldon Road have resulted in flaring at the facility. Flaring is a safety and environmental control device used to manage and combust process materials. The community may notice a bright flame, smoke, or a rumbling noise during this time. You do not need to take any action. We are actively working to stop flaring quickly and safely. Our focus is to minimize inconvenience and protect the safety of the community, the environment, and our employees. Questions can be directed to askchannelview@lyb.com. Las condiciones operativas en el complejo de LyondellBasell Channelview Complex ubicado en 8280 Sheldon Road han resultado en quema en antorcha (o flaring) en las instalaciones. La quema en antorcha (o flaring) es un dispositivo de seguridad y control medio ambiental que se utiliza para gestionar y quemar materiales de proceso. Es posible que la comunidad note una llama brillante, humo o ruidos retumbantesdurante este tiempo. No es necesario que tome ninguna medida. Estamos trabajando activamente para detener la quema en antorcha (o flaring) de forma rapida y segura. Nuestro objetivo es minimizar los inconvenientes y proteger la seguridad de la comunidad, el medio ambiente y nuestros empleados. Se pueden enviar preguntas a askchannelview@lyb.com.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
       }
     ]
   },
@@ -23012,6 +23197,15 @@
         "content_hash": "e32505475534e2c4d877b47f6a6329b8ea03cd911c2612d85e043ca10e7e8e98",
         "message_text": "This is a message from Baker Hughes Bayport located at 13200 Bay Park Rd. La Porte, TX 77507. At 09:59 on 8/10/2026, a Monday alarm test occurred at our facility. At this time, nothing may be noticeable to the community. We are coordinating with local officials and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities"
+        ],
+        "content_hash": "e32505475534e2c4d877b47f6a6329b8ea03cd911c2612d85e043ca10e7e8e98",
+        "message_text": "This is a message from Baker Hughes Bayport located at 13200 Bay Park Rd. La Porte, TX 77507. At 09:59 on 8/10/2026, a Monday alarm test occurred at our facility. At this time, nothing may be noticeable to the community. We are coordinating with local officials and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -25091,6 +25285,17 @@
         "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
       }
     ]
   },
@@ -27168,6 +27373,17 @@
         "content_hash": "1c556974bb2eba7dc121e48caad1e243a527dbff192deff568a5da3a3700b951",
         "message_text": "This is a courtesy message from INVISTA Houston located at Allen Genoa and La Porte Freeway in Houston. Today is Friday, August 14th. We are progressing through start-up activities after our unit upset on August 12th. We are currently using our safety flare and steam venting systems and nearby neighbors may be able to see the flare and hear the steam venting system. The flaring and steam venting pose no danger to the community and no action is necessary. We will take every precaution to minimize the flaring conditions and duration of the flaring activity. If you have any questions, please feel free to contact us at 713-740-3911. Thank you for using the CAER line.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Flaring",
+          "Pipelines"
+        ],
+        "content_hash": "1c556974bb2eba7dc121e48caad1e243a527dbff192deff568a5da3a3700b951",
+        "message_text": "This is a courtesy message from INVISTA Houston located at Allen Genoa and La Porte Freeway in Houston. Today is Friday, August 14th. We are progressing through start-up activities after our unit upset on August 12th. We are currently using our safety flare and steam venting systems and nearby neighbors may be able to see the flare and hear the steam venting system. The flaring and steam venting pose no danger to the community and no action is necessary. We will take every precaution to minimize the flaring conditions and duration of the flaring activity. If you have any questions, please feel free to contact us at 713-740-3911. Thank you for using the CAER line.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -29247,6 +29463,17 @@
         "message_text": "This is a courtesy message from INVISTA Houston located at Allen Genoa and La Porte Freeway in Houston. Today is Thursday, August 13th____. We are beginning unit start up activities after a unit upset. We are currently using our safety flare and steam venting systems and nearby neighbors may be able to see the flare and hear the steam venting system. The flaring and steam venting pose no danger to the community and no action is necessary. We will take every precaution to minimize the flaring conditions and duration of the flaring activity. If you have any questions, please feel free to contact us at 713-740-3911. Thank you for using the CAER line.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Flaring",
+          "Pipelines"
+        ],
+        "content_hash": "0068383e2b8726676f948b386f8ba1bb75b21a917895a8e7294caef1a5494561",
+        "message_text": "This is a courtesy message from INVISTA Houston located at Allen Genoa and La Porte Freeway in Houston. Today is Thursday, August 13th____. We are beginning unit start up activities after a unit upset. We are currently using our safety flare and steam venting systems and nearby neighbors may be able to see the flare and hear the steam venting system. The flaring and steam venting pose no danger to the community and no action is necessary. We will take every precaution to minimize the flaring conditions and duration of the flaring activity. If you have any questions, please feel free to contact us at 713-740-3911. Thank you for using the CAER line.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
       }
     ]
   },
@@ -31136,6 +31363,16 @@
         "content_hash": "f1de09a16d12bce811003af832a64e1ddcd457acd45dc6e7a96358acf77cabfa",
         "message_text": "This is a courtesy message from INVISTA Houston located at Allen Genoa and La Porte Freeway in Houston. Today is Wednesday, August 12th_. We are currently using our safety flare and steam venting systems and nearby neighbors may be able to see the flare and hear the steam venting system. The flaring and steam venting pose no danger to the community and no action is necessary. We will take every precaution to minimize the flaring conditions and duration of the flaring activity. If you have any questions, please feel free to contact us at 713-740-3911. Thank you for using the CAER line.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Pipelines"
+        ],
+        "content_hash": "f1de09a16d12bce811003af832a64e1ddcd457acd45dc6e7a96358acf77cabfa",
+        "message_text": "This is a courtesy message from INVISTA Houston located at Allen Genoa and La Porte Freeway in Houston. Today is Wednesday, August 12th_. We are currently using our safety flare and steam venting systems and nearby neighbors may be able to see the flare and hear the steam venting system. The flaring and steam venting pose no danger to the community and no action is necessary. We will take every precaution to minimize the flaring conditions and duration of the flaring activity. If you have any questions, please feel free to contact us at 713-740-3911. Thank you for using the CAER line.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -33555,6 +33792,17 @@
         "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
         "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -36530,6 +36778,18 @@
         "message_text": "This is a courtesy message from Chevron Phillips Chemical Company located at 9500 Interstate 10 East in Baytown, Texas. Our facility will be conducting an Emergency Response Drill today. Noise and/or lights, emergency response equipment/personnel movement, and spraying water may be noticeable during this time. There is no expected impact to the community. An ALL CLEAR message will be posted upon completion of the drill.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [
+          "Emergency Response",
+          "Facilities",
+          "Noise",
+          "Training/Drills"
+        ],
+        "content_hash": "036b7aa3065931544d1f0a3e06cc93fbfea24c0ac7b56563f8ee6dba5df69eef",
+        "message_text": "This is a courtesy message from Chevron Phillips Chemical Company located at 9500 Interstate 10 East in Baytown, Texas. Our facility will be conducting an Emergency Response Drill today. Noise and/or lights, emergency response equipment/personnel movement, and spraying water may be noticeable during this time. There is no expected impact to the community. An ALL CLEAR message will be posted upon completion of the drill.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
       }
     ]
   },
@@ -39311,6 +39571,17 @@
         "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
         "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -42391,6 +42662,17 @@
         "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "d04b4dc8ae3b228317519de2e9524a89352f0455177e766b58f47e06cfa2ae06",
+        "message_text": "This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
       }
     ]
   },
@@ -45340,6 +45622,16 @@
         "content_hash": "0275702a6347f486c66f9286c6db726fb748ea56bfd7286bf000d396db582d2d",
         "message_text": "Report This is a courtesy message from INVISTA Houston located at Allen Genoa and La Porte Freeway in Houston. Today is Wednesday, August 12th_. We are currently using our safety flare and steam venting systems and nearby neighbors may be able to see the flare and hear the steam venting system. The flaring and steam venting pose no danger to the community and no action is necessary. We will take every precaution to minimize the flaring conditions and duration of the flaring activity. If you have any questions, please feel free to contact us at 713-740-3911. Thank you for using the CAER line.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Pipelines"
+        ],
+        "content_hash": "0275702a6347f486c66f9286c6db726fb748ea56bfd7286bf000d396db582d2d",
+        "message_text": "Report This is a courtesy message from INVISTA Houston located at Allen Genoa and La Porte Freeway in Houston. Today is Wednesday, August 12th_. We are currently using our safety flare and steam venting systems and nearby neighbors may be able to see the flare and hear the steam venting system. The flaring and steam venting pose no danger to the community and no action is necessary. We will take every precaution to minimize the flaring conditions and duration of the flaring activity. If you have any questions, please feel free to contact us at 713-740-3911. Thank you for using the CAER line.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -48879,6 +49171,18 @@
         "message_text": "Report *** THIS IS A DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 09:00 on 8/11/2026, a planned drill will occur at our facility. At this time, Activity, Emergency Vehicles, Sirens, Smoke may be noticeable to the community. No action is required by the community. *** THIS IS A DRILL***",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [
+          "Emergency Response",
+          "Facilities",
+          "Smoke",
+          "Training/Drills"
+        ],
+        "content_hash": "1e87e0804159277bfb74f426776a3dacccf50fe26bafbcd11e73b6d0085e16e9",
+        "message_text": "Report *** THIS IS A DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 09:00 on 8/11/2026, a planned drill will occur at our facility. At this time, Activity, Emergency Vehicles, Sirens, Smoke may be noticeable to the community. No action is required by the community. *** THIS IS A DRILL***",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
       }
     ]
   },
@@ -51534,6 +51838,15 @@
         "content_hash": "9cabba370f8279cfe82395c3f1536c06602f5281262be4548d4554b98cdb93c3",
         "message_text": "Report This is a message from Baker Hughes Bayport located at 13200 Bay Park Rd. La Porte, TX 77507. At 09:59 on 8/10/2026, a Monday alarm test occurred at our facility. At this time, nothing may be noticeable to the community. We are coordinating with local officials and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities"
+        ],
+        "content_hash": "9cabba370f8279cfe82395c3f1536c06602f5281262be4548d4554b98cdb93c3",
+        "message_text": "Report This is a message from Baker Hughes Bayport located at 13200 Bay Park Rd. La Porte, TX 77507. At 09:59 on 8/10/2026, a Monday alarm test occurred at our facility. At this time, nothing may be noticeable to the community. We are coordinating with local officials and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -54790,6 +55103,17 @@
         "message_text": "*** DRILL *** This is a message from Kuraray America Septon located at 11414 Choate Rd. Pasadena,TX 77507. At 01:50 on 8/12/2026, a(n) Chemical, Fire, Medical incident occurred at our facility. At 14:51 on 8/12/2026 we are issuing the all clear for this incident.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Incidents",
+          "Training/Drills"
+        ],
+        "content_hash": "ce0fd76b6edee2e0aee4df424825bb19c45d119862a68c59b1e3b2030309dcb8",
+        "message_text": "*** DRILL *** This is a message from Kuraray America Septon located at 11414 Choate Rd. Pasadena,TX 77507. At 01:50 on 8/12/2026, a(n) Chemical, Fire, Medical incident occurred at our facility. At 14:51 on 8/12/2026 we are issuing the all clear for this incident.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
       }
     ]
   },
@@ -56864,6 +57188,13 @@
         "content_hash": "996587a8fb0ee921d675c705073d7896b4cd2c5feac093f5abb02323009d54bb",
         "message_text": "All Clear on weekly Alarm Test.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [],
+        "content_hash": "996587a8fb0ee921d675c705073d7896b4cd2c5feac093f5abb02323009d54bb",
+        "message_text": "All Clear on weekly Alarm Test.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -60142,6 +60473,17 @@
         "message_text": "Clear *** DRILL *** This is a message from Kuraray America Septon located at 11414 Choate Rd. Pasadena,TX 77507. At 01:50 on 8/12/2026, a(n) Chemical, Fire, Medical incident occurred at our facility. At 14:51 on 8/12/2026 we are issuing the all clear for this incident.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Incidents",
+          "Training/Drills"
+        ],
+        "content_hash": "3a0cca97a95c279935a885be24e144df80c586e728e4ec6c7a3142d5f05c6ec4",
+        "message_text": "Clear *** DRILL *** This is a message from Kuraray America Septon located at 11414 Choate Rd. Pasadena,TX 77507. At 01:50 on 8/12/2026, a(n) Chemical, Fire, Medical incident occurred at our facility. At 14:51 on 8/12/2026 we are issuing the all clear for this incident.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
       }
     ]
   },
@@ -62230,6 +62572,13 @@
         "content_hash": "7e1e5ddc4a474ef4d232a7f664abad63f715a60719880d25b099977e53010175",
         "message_text": "Clear All Clear on weekly Alarm Test.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [],
+        "content_hash": "7e1e5ddc4a474ef4d232a7f664abad63f715a60719880d25b099977e53010175",
+        "message_text": "Clear All Clear on weekly Alarm Test.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -65519,6 +65868,17 @@
         "message_text": "7 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "9e323193dd7b628789c125f63120c08d014c9b912cd6637aa4b63cf527210b14",
+        "message_text": "7 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
       }
     ]
   },
@@ -68806,6 +69166,17 @@
         "content_hash": "99a9d19ffa8ffe1020af4eddbad3de86f103773ef7247021c1d8c5109cdab2de",
         "message_text": "6 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "99a9d19ffa8ffe1020af4eddbad3de86f103773ef7247021c1d8c5109cdab2de",
+        "message_text": "6 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -72095,6 +72466,17 @@
         "message_text": "5 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "fd2a936be9ceb2c08427cc031e6a8db9991202c3a9556cdf0854ef58d9d5e2eb",
+        "message_text": "5 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
       }
     ]
   },
@@ -75382,6 +75764,17 @@
         "content_hash": "32156c9d07755decb9a818c8bf66ca935cc4b8343b650a85adb75d64d2490c03",
         "message_text": "4 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "32156c9d07755decb9a818c8bf66ca935cc4b8343b650a85adb75d64d2490c03",
+        "message_text": "4 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -78671,6 +79064,17 @@
         "message_text": "3 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "097c3a023d1edd6c5e0201c57f40e5daef27001c5adf3834262fcde9322d602b",
+        "message_text": "3 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
       }
     ]
   },
@@ -81958,6 +82362,17 @@
         "content_hash": "05a9c929394bded2a1e2db18b1c1fdc0eeb34f31023b37a023960645251882e2",
         "message_text": "2 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "05a9c929394bded2a1e2db18b1c1fdc0eeb34f31023b37a023960645251882e2",
+        "message_text": "2 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -85247,6 +85662,17 @@
         "message_text": "1 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [
+          "Flaring",
+          "Noise",
+          "Smoke"
+        ],
+        "content_hash": "e3a895bb1a2a78868fffa1a3c0f68fe2299f85f54b25be2f36fb6882c84f3ffe",
+        "message_text": "1 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
       }
     ]
   },
@@ -88237,6 +88663,16 @@
         "message_text": "2 *** DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 10:10 on 8/11/2026, the planned drill concluded at our facility.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [
+          "Facilities",
+          "Training/Drills"
+        ],
+        "content_hash": "33fba66be5c9e84c81ddf1d279ce2945b4becd122576f87f25ff94089a4de0d9",
+        "message_text": "2 *** DRILL *** This is a message from TotalEnergies La Porte located at 1818 Independence Pkwy La Porte,TX 77571. At 10:10 on 8/11/2026, the planned drill concluded at our facility.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
       }
     ]
   },
@@ -91147,6 +91583,16 @@
         "message_text": "Clear This is a courtesy message from Chevron Phillips Chemical Company located at 9500 Interstate 10 East in Baytown, Texas. We are issuing an ALL CLEAR for the Emergency Response Drill.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [
+          "Emergency Response",
+          "Training/Drills"
+        ],
+        "content_hash": "2b3c750ed4dea76fd7c0ffd664264b13c141854340eaafb4580d0da7bfa98043",
+        "message_text": "Clear This is a courtesy message from Chevron Phillips Chemical Company located at 9500 Interstate 10 East in Baytown, Texas. We are issuing an ALL CLEAR for the Emergency Response Drill.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
       }
     ]
   },
@@ -93587,6 +94033,16 @@
         "message_text": "Clear This is a courtesy message from Chevron Phillips Chemical Company located at 9500 Interstate 10 East in Baytown, Texas. We are issuing an ALL CLEAR for the Emergency Response Drill.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [
+          "Emergency Response",
+          "Training/Drills"
+        ],
+        "content_hash": "2b3c750ed4dea76fd7c0ffd664264b13c141854340eaafb4580d0da7bfa98043",
+        "message_text": "Clear This is a courtesy message from Chevron Phillips Chemical Company located at 9500 Interstate 10 East in Baytown, Texas. We are issuing an ALL CLEAR for the Emergency Response Drill.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
       }
     ]
   },
@@ -95867,6 +96323,16 @@
         "message_text": "Clear This is a courtesy message from Chevron Phillips Chemical Company located at 9500 Interstate 10 East in Baytown, Texas. We are issuing an ALL CLEAR for the Emergency Response Drill.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [
+          "Emergency Response",
+          "Training/Drills"
+        ],
+        "content_hash": "2b3c750ed4dea76fd7c0ffd664264b13c141854340eaafb4580d0da7bfa98043",
+        "message_text": "Clear This is a courtesy message from Chevron Phillips Chemical Company located at 9500 Interstate 10 East in Baytown, Texas. We are issuing an ALL CLEAR for the Emergency Response Drill.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
       }
     ]
   },
@@ -97143,6 +97609,13 @@
         "content_hash": "b9cd464cc44d901a2144cfae122e0dcd3d703d8738fcce9a27338fa3bb3d163b",
         "message_text": "Clear An earlier event at the LyondellBasell Channelview Complex 8280 Sheldon Road ended at 9:55:59 AM. Questions can be directed to askchannelview@lyb.com. Un evento anterior en complejo de LyondellBasell Channelview Complex ubicado en 8280 Sheldon Road termino a las 9:55:59 AM. Se pueden enviar preguntas a askchannelview@lyb.com.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [],
+        "content_hash": "b9cd464cc44d901a2144cfae122e0dcd3d703d8738fcce9a27338fa3bb3d163b",
+        "message_text": "Clear An earlier event at the LyondellBasell Channelview Complex 8280 Sheldon Road ended at 9:55:59 AM. Questions can be directed to askchannelview@lyb.com. Un evento anterior en complejo de LyondellBasell Channelview Complex ubicado en 8280 Sheldon Road termino a las 9:55:59 AM. Se pueden enviar preguntas a askchannelview@lyb.com.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -99123,6 +99596,17 @@
         "message_text": "Clear *** DRILL *** This is a message from Kuraray America La Porte located at 12342 Strang Rd. La Porte,TX 77571. At 12:15 on 8/17/2026, an emergency alarm drill happened at our facility. At 12:31 on 8/17/2026 we are issuing the all clear for this drill.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [
+          "Emergency Response",
+          "Facilities",
+          "Training/Drills"
+        ],
+        "content_hash": "95e5ad244562239976403f884151b412cac0a22d42b90c40a3aa73a1d12d6cb6",
+        "message_text": "Clear *** DRILL *** This is a message from Kuraray America La Porte located at 12342 Strang Rd. La Porte,TX 77571. At 12:15 on 8/17/2026, an emergency alarm drill happened at our facility. At 12:31 on 8/17/2026 we are issuing the all clear for this drill.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
       }
     ]
   },
@@ -100001,6 +100485,13 @@
         "message_text": "Clear All clear on INEOS weekly alarms",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [],
+        "content_hash": "49e4b2f24552a06bf27115440b17b18d9fb4c3c8b517294190f66158f1f34c50",
+        "message_text": "Clear All clear on INEOS weekly alarms",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
       }
     ]
   },
@@ -100858,6 +101349,13 @@
         "message_text": "Clear All Clear On The Weekly Alarms-Testing",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [],
+        "content_hash": "621e9fdb222b88c5beb889573a1c8c38a401ae3adefbe3d63a48aa061ea24c7e",
+        "message_text": "Clear All Clear On The Weekly Alarms-Testing",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
       }
     ]
   },
@@ -101666,6 +102164,13 @@
         "message_text": "Clear An earlier event at the LyondellBasell Channelview Complex 8280 Sheldon Road ended at 8:32:14 PM. Questions can be directed to askchannelview@lyb.com. Un evento anterior en complejo de LyondellBasell Channelview Complex ubicado en 8280 Sheldon Road termino a las 8:32:14 PM. Se pueden enviar preguntas a askchannelview@lyb.com.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [],
+        "content_hash": "c2328af665b2375a20f1ea73fb0515d9d5e6d34612c036342a4d5fa85ccb1e27",
+        "message_text": "Clear An earlier event at the LyondellBasell Channelview Complex 8280 Sheldon Road ended at 8:32:14 PM. Questions can be directed to askchannelview@lyb.com. Un evento anterior en complejo de LyondellBasell Channelview Complex ubicado en 8280 Sheldon Road termino a las 8:32:14 PM. Se pueden enviar preguntas a askchannelview@lyb.com.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
       }
     ]
   },
@@ -102326,6 +102831,13 @@
         "content_hash": "0f5ef2c3db3246fd7f26b07a615f53f910385b66fef1e4f79dcf2eacf2abb3c2",
         "message_text": "Clear An earlier event at the LyondellBasell Channelview Complex 8280 Sheldon Road ended at 4:48:43 PM. Questions can be directed to askchannelview@lyb.com. Un evento anterior en complejo de LyondellBasell Channelview Complex ubicado en 8280 Sheldon Road termino a las 4:48:43 PM. Se pueden enviar preguntas a askchannelview@lyb.com.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
+        "status": "cleared"
+      },
+      {
+        "category": [],
+        "content_hash": "0f5ef2c3db3246fd7f26b07a615f53f910385b66fef1e4f79dcf2eacf2abb3c2",
+        "message_text": "Clear An earlier event at the LyondellBasell Channelview Complex 8280 Sheldon Road ended at 4:48:43 PM. Questions can be directed to askchannelview@lyb.com. Un evento anterior en complejo de LyondellBasell Channelview Complex ubicado en 8280 Sheldon Road termino a las 4:48:43 PM. Se pueden enviar preguntas a askchannelview@lyb.com.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
         "status": "cleared"
       }
     ]
@@ -103003,6 +103515,39 @@
         "message_text": "Clear This is a message from Chevron Phillips Chemical Company located at 9500 Interstate 10 East in Baytown, Texas. We are issuing an ALL CLEAR for the incident we experienced.",
         "retrieved_datetime": "2026-08-23T22:26:38.092014+00:00",
         "status": "cleared"
+      },
+      {
+        "category": [
+          "Incidents"
+        ],
+        "content_hash": "e4292ed0fbdd8dd3e1984f7148518f9187d1cb2dd3361ddb94e060b9230c5d3c",
+        "message_text": "Clear This is a message from Chevron Phillips Chemical Company located at 9500 Interstate 10 East in Baytown, Texas. We are issuing an ALL CLEAR for the incident we experienced.",
+        "retrieved_datetime": "2026-08-23T22:50:57.506419+00:00",
+        "status": "cleared"
+      }
+    ]
+  },
+  {
+    "category": [],
+    "content_hash": "80853b3373bdeb224a20cecf3175416a76a8bf4c00d44004f73fc3988923feab",
+    "facility": "LyondellBasell - Channelview",
+    "first_seen": "2026-08-23T22:50:57.678765+00:00",
+    "last_seen": "2026-08-23T22:50:57.678765+00:00",
+    "message_id": "93c7f607785abebba40940465296470d92f835ad992233cbc688c2aa35030cd0",
+    "message_text": "Clear An earlier event at the LyondellBasell Channelview Complex 8280 Sheldon Road ended at 4:30:10 PM. Questions can be directed to askchannelview@lyb.com. Un evento anterior en complejo de LyondellBasell Channelview Complex ubicado en 8280 Sheldon Road termino a las 4:30:10 PM. Se pueden enviar preguntas a askchannelview@lyb.com.",
+    "normalized_message_text": "clear an earlier event at the lyondellbasell channelview complex 8280 sheldon road ended at 4:30:10 pm. questions can be directed to askchannelview@lyb.com. un evento anterior en complejo de lyondellbasell channelview complex ubicado en 8280 sheldon road termino a las 4:30:10 pm. se pueden enviar preguntas a askchannelview@lyb.com.",
+    "posted_datetime": "2026-08-23T16:30:00+00:00",
+    "previously_seen": false,
+    "retrieved_datetime": "2026-08-23T22:50:57.678765+00:00",
+    "source_url": "https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html",
+    "status": "new",
+    "versions": [
+      {
+        "category": [],
+        "content_hash": "80853b3373bdeb224a20cecf3175416a76a8bf4c00d44004f73fc3988923feab",
+        "message_text": "Clear An earlier event at the LyondellBasell Channelview Complex 8280 Sheldon Road ended at 4:30:10 PM. Questions can be directed to askchannelview@lyb.com. Un evento anterior en complejo de LyondellBasell Channelview Complex ubicado en 8280 Sheldon Road termino a las 4:30:10 PM. Se pueden enviar preguntas a askchannelview@lyb.com.",
+        "retrieved_datetime": "2026-08-23T22:50:57.678765+00:00",
+        "status": "new"
       }
     ]
   }
