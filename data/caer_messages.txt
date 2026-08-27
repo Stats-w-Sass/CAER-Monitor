@@ -4,12 +4,29 @@ CAER MESSAGE
 Message ID: 58a48b938baf3d0bcbb2f130e6c869d9a08f173054a03ec80f73e82b646d1454
 Facility: Baystar
 Posted: 2026-08-27T05:25:00+00:00
-Retrieved: 2026-08-27T11:01:39.955001+00:00
-Status: new
-Previously Seen: False
+Retrieved: 2026-08-27T21:05:11.182762+00:00
+Status: previous message still posted
+Previously Seen: True
 Category: Facilities, Flaring, Noise
 First Seen: 2026-08-27T11:01:39.955001+00:00
-Last Seen: 2026-08-27T11:01:39.960041+00:00
+Last Seen: 2026-08-27T21:05:11.184416+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+Courtesy Message from Baystar (12212 Port Road, Pasadena): We are planning to re-start one of our processing units. There may be intermittent periods of flaring from our Multi-point Ground Flare over the next 24 hours as we bring the unit fully online. Being at ground level, the Multi-point Ground Flare looks different than a typical Stack Flare. Our neighbors may be able to see flaring and hear noise. The flaring poses no danger to the community and no action is necessary. The flare is part of the facilitys safety system. It has been fully tested to ensure it will operate as designed. We will take every precaution to minimize the duration of flaring and apologize for any inconvenience this may cause. We sincerely apologize for any inconvenience or concern this may cause.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: c16966f9bcd9d00f6820fe7013b027c7a068dea8a2cfa4df80713e7e7553c178
+Facility: Baystar
+Posted: 2026-08-21T13:46:00+00:00
+Retrieved: 2026-08-27T21:05:11.182762+00:00
+Status: previous message still posted
+Previously Seen: True
+Category: Facilities, Flaring, Noise
+First Seen: 2026-08-21T19:28:25.874192+00:00
+Last Seen: 2026-08-27T21:05:11.184416+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -22,7 +39,7 @@ Message ID: 112398f7259fc28598f761fa14f9385e4278364f500a419a3d69ab22f5585aa7
 Facility: PEMEX Deer Park
 Posted: 2026-08-26T09:00:00+00:00
 Retrieved: 2026-08-27T11:01:39.955001+00:00
-Status: previous message still posted
+Status: cleared
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-26T14:12:16.408147+00:00
@@ -39,7 +56,7 @@ Message ID: 1aa95c7fe052b77f7f308fd0288a87869b06e0c52ea3abdadf22cecd8094ce94
 Facility: PEMEX Deer Park
 Posted: 2026-08-25T06:25:00+00:00
 Retrieved: 2026-08-27T11:01:39.955001+00:00
-Status: previous message still posted
+Status: cleared
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-25T11:32:18.855712+00:00
@@ -56,7 +73,7 @@ Message ID: 855915f640ff9a7ee61f782c5aa8c10094b01c2b12761565d9e7de072784deff
 Facility: PEMEX Deer Park
 Posted: 2026-08-21T09:34:00+00:00
 Retrieved: 2026-08-27T11:01:39.955001+00:00
-Status: previous message still posted
+Status: cleared
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-21T14:39:17.649376+00:00
@@ -73,7 +90,7 @@ Message ID: b80ab2c72a8ff210d7158891d12759d6c943aa14ae9560ea61001c7b7943c0ef
 Facility: PEMEX Deer Park
 Posted: 2026-08-20T06:58:00+00:00
 Retrieved: 2026-08-27T11:01:39.955001+00:00
-Status: previous message still posted
+Status: cleared
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-20T12:56:10.040185+00:00
@@ -86,28 +103,11 @@ This is an update from PEMEX Deer Park. We are still performing planned work act
 ============================================================
 CAER MESSAGE
 ============================================================
-Message ID: c16966f9bcd9d00f6820fe7013b027c7a068dea8a2cfa4df80713e7e7553c178
-Facility: Baystar
-Posted: 2026-08-21T13:46:00+00:00
-Retrieved: 2026-08-27T11:01:39.955001+00:00
-Status: previous message still posted
-Previously Seen: True
-Category: Facilities, Flaring, Noise
-First Seen: 2026-08-21T19:28:25.874192+00:00
-Last Seen: 2026-08-27T11:01:39.960041+00:00
-Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
-------------------------------------------------------------
-Message:
-Courtesy Message from Baystar (12212 Port Road, Pasadena): We are planning to re-start one of our processing units. There may be intermittent periods of flaring from our Multi-point Ground Flare over the next 24 hours as we bring the unit fully online. Being at ground level, the Multi-point Ground Flare looks different than a typical Stack Flare. Our neighbors may be able to see flaring and hear noise. The flaring poses no danger to the community and no action is necessary. The flare is part of the facilitys safety system. It has been fully tested to ensure it will operate as designed. We will take every precaution to minimize the duration of flaring and apologize for any inconvenience this may cause. We sincerely apologize for any inconvenience or concern this may cause.
-============================================================
-============================================================
-CAER MESSAGE
-============================================================
 Message ID: c7295ecd7d7d2383ff3b3bcdb8fc98931030104826ed0da64753eb9a66ee2027
 Facility: Baystar
 Posted: 2026-08-20T15:56:00+00:00
 Retrieved: 2026-08-27T11:01:39.955001+00:00
-Status: previous message still posted
+Status: cleared
 Previously Seen: True
 Category: Flaring, Noise
 First Seen: 2026-08-20T21:31:47.582042+00:00
@@ -124,7 +124,7 @@ Message ID: 31cb45417c35c88486b3d1e6bd0f5d626326ee31082b5a73603f6c780c60510d
 Facility: Baystar
 Posted: 2026-08-20T15:55:00+00:00
 Retrieved: 2026-08-27T11:01:39.955001+00:00
-Status: previous message still posted
+Status: cleared
 Previously Seen: True
 Category: Flaring, Noise
 First Seen: 2026-08-20T21:31:47.582042+00:00
@@ -1204,4 +1204,38 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 ------------------------------------------------------------
 Message:
 Clear All clear on the weekly alarms.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 7a30f77c72a8b537522ac4664dc084e80a006d80736ef31e9cde24e76f28a274
+Facility: LyondellBasell Bayport Polymers
+Posted: 2026-08-27T11:25:00+00:00
+Retrieved: 2026-08-27T21:05:11.398687+00:00
+Status: new
+Previously Seen: False
+Category: Facilities
+First Seen: 2026-08-27T21:05:11.398687+00:00
+Last Seen: 2026-08-27T21:05:11.398687+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear An earlier event at the LyondellBasell Bayport Polymers site, 12001 Bay Area Blvd., Pasadena, TX. 77507 is All Clear. Questions can be directed to askbayport@lyb.com. Un evento anterior en complejo de LyondellBasell Bayport Polymers site, ubicado en 12001 Bay Area Blvd., Pasadena, TX. 77507 estÃÂ¡ todo claro. Se pueden enviar preguntas a askbayport@lyb.com.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: e48de6c56147e0e74821b8c3d67d63ce06f7e441d9639db22ce829722680b00c
+Facility: Chevron Phillips - Baytown
+Posted: 2026-08-27T10:54:00+00:00
+Retrieved: 2026-08-27T21:05:11.398687+00:00
+Status: new
+Previously Seen: False
+Category: Emergency Response, Training/Drills
+First Seen: 2026-08-27T21:05:11.398687+00:00
+Last Seen: 2026-08-27T21:05:11.398687+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear This is a courtesy message from Chevron Phillips Chemical Company located at 9500 Interstate 10 East in Baytown, Texas. We are issuing an ALL CLEAR for the Emergency Response Drill.
 ============================================================
