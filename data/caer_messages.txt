@@ -1,15 +1,49 @@
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: f18cc18f6f50ac121d103e0469771ef9ebdd1f5b2ce115cf68b0a210ff6fecf9
+Facility: Raven Butene-1
+Posted: 2026-08-26T19:33:00+00:00
+Retrieved: 2026-08-27T00:34:04.079424+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Incidents
+First Seen: 2026-08-27T00:34:04.079424+00:00
+Last Seen: 2026-08-27T00:34:04.084076+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+Clear This is a message from Raven Butene-1 located at 9520 East Freeway Baytown,TX 77521. At 18:00 on 8/26/2026, a(n) Process Upset incident occurred at our facility. At 19:33 on 8/26/2026 we are issuing the all clear for this incident.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 8e49e588cc9ce5aff1772558c067f4f42103caed6236a860d23559574574f507
+Facility: Raven Butene-1
+Posted: 2026-08-26T18:10:00+00:00
+Retrieved: 2026-08-27T00:34:04.079424+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Flaring, Incidents, Smoke
+First Seen: 2026-08-27T00:34:04.079424+00:00
+Last Seen: 2026-08-27T00:34:04.084076+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is a message from Raven Butene-1 located at 9520 East Freeway Baytown,TX 77521. At 18:00 on 8/26/2026, a(n) Process Upset incident occurred at our facility. At this time, Flames, Flaring, Smoke may be noticeable to the community. We are coordinating with local officials, and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: 112398f7259fc28598f761fa14f9385e4278364f500a419a3d69ab22f5585aa7
 Facility: PEMEX Deer Park
 Posted: 2026-08-26T09:00:00+00:00
-Retrieved: 2026-08-26T20:35:47.403178+00:00
+Retrieved: 2026-08-27T00:34:04.079424+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-26T14:12:16.408147+00:00
-Last Seen: 2026-08-26T20:35:47.407181+00:00
+Last Seen: 2026-08-27T00:34:04.084076+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -21,12 +55,12 @@ CAER MESSAGE
 Message ID: 1aa95c7fe052b77f7f308fd0288a87869b06e0c52ea3abdadf22cecd8094ce94
 Facility: PEMEX Deer Park
 Posted: 2026-08-25T06:25:00+00:00
-Retrieved: 2026-08-26T20:35:47.403178+00:00
+Retrieved: 2026-08-27T00:34:04.079424+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-25T11:32:18.855712+00:00
-Last Seen: 2026-08-26T20:35:47.407181+00:00
+Last Seen: 2026-08-27T00:34:04.084076+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -38,12 +72,12 @@ CAER MESSAGE
 Message ID: 855915f640ff9a7ee61f782c5aa8c10094b01c2b12761565d9e7de072784deff
 Facility: PEMEX Deer Park
 Posted: 2026-08-21T09:34:00+00:00
-Retrieved: 2026-08-26T20:35:47.403178+00:00
+Retrieved: 2026-08-27T00:34:04.079424+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-21T14:39:17.649376+00:00
-Last Seen: 2026-08-26T20:35:47.407181+00:00
+Last Seen: 2026-08-27T00:34:04.084076+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -55,12 +89,12 @@ CAER MESSAGE
 Message ID: b80ab2c72a8ff210d7158891d12759d6c943aa14ae9560ea61001c7b7943c0ef
 Facility: PEMEX Deer Park
 Posted: 2026-08-20T06:58:00+00:00
-Retrieved: 2026-08-26T20:35:47.403178+00:00
+Retrieved: 2026-08-27T00:34:04.079424+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-08-20T12:56:10.040185+00:00
-Last Seen: 2026-08-26T20:35:47.407181+00:00
+Last Seen: 2026-08-27T00:34:04.084076+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -72,12 +106,12 @@ CAER MESSAGE
 Message ID: c16966f9bcd9d00f6820fe7013b027c7a068dea8a2cfa4df80713e7e7553c178
 Facility: Baystar
 Posted: 2026-08-21T13:46:00+00:00
-Retrieved: 2026-08-26T20:35:47.403178+00:00
+Retrieved: 2026-08-27T00:34:04.079424+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Noise
 First Seen: 2026-08-21T19:28:25.874192+00:00
-Last Seen: 2026-08-26T20:35:47.407181+00:00
+Last Seen: 2026-08-27T00:34:04.084076+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -89,12 +123,12 @@ CAER MESSAGE
 Message ID: c7295ecd7d7d2383ff3b3bcdb8fc98931030104826ed0da64753eb9a66ee2027
 Facility: Baystar
 Posted: 2026-08-20T15:56:00+00:00
-Retrieved: 2026-08-26T20:35:47.403178+00:00
+Retrieved: 2026-08-27T00:34:04.079424+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise
 First Seen: 2026-08-20T21:31:47.582042+00:00
-Last Seen: 2026-08-26T20:35:47.407181+00:00
+Last Seen: 2026-08-27T00:34:04.084076+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -106,12 +140,12 @@ CAER MESSAGE
 Message ID: 31cb45417c35c88486b3d1e6bd0f5d626326ee31082b5a73603f6c780c60510d
 Facility: Baystar
 Posted: 2026-08-20T15:55:00+00:00
-Retrieved: 2026-08-26T20:35:47.403178+00:00
+Retrieved: 2026-08-27T00:34:04.079424+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise
 First Seen: 2026-08-20T21:31:47.582042+00:00
-Last Seen: 2026-08-26T20:35:47.407181+00:00
+Last Seen: 2026-08-27T00:34:04.084076+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -1127,8 +1161,8 @@ Message ID: 6d2caf706d5c14630c3eaa3c3fefa984c346a9c8a727221a1737a2f6d5dcb732
 Facility: LyondellBasell - Channelview
 Posted: 2026-08-26T12:20:00+00:00
 Retrieved: 2026-08-26T20:35:47.686117+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Training/Drills
 First Seen: 2026-08-26T20:35:47.686117+00:00
 Last Seen: 2026-08-26T20:35:47.686117+00:00
@@ -1144,8 +1178,8 @@ Message ID: a9bb4b939b7764460047482305bc1fbbb2158a85281e81a542b1e51b0b4133af
 Facility: INEOS Styrolution - Port Rd.
 Posted: 2026-08-26T12:15:00+00:00
 Retrieved: 2026-08-26T20:35:47.686117+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: 
 First Seen: 2026-08-26T20:35:47.686117+00:00
 Last Seen: 2026-08-26T20:35:47.686117+00:00
