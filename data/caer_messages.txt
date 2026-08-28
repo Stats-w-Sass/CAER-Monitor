@@ -4,12 +4,12 @@ CAER MESSAGE
 Message ID: 58a48b938baf3d0bcbb2f130e6c869d9a08f173054a03ec80f73e82b646d1454
 Facility: Baystar
 Posted: 2026-08-27T05:25:00+00:00
-Retrieved: 2026-08-27T21:05:11.182762+00:00
+Retrieved: 2026-08-28T05:32:23.217681+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Noise
 First Seen: 2026-08-27T11:01:39.955001+00:00
-Last Seen: 2026-08-27T21:05:11.184416+00:00
+Last Seen: 2026-08-28T05:32:23.220800+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -21,12 +21,12 @@ CAER MESSAGE
 Message ID: c16966f9bcd9d00f6820fe7013b027c7a068dea8a2cfa4df80713e7e7553c178
 Facility: Baystar
 Posted: 2026-08-21T13:46:00+00:00
-Retrieved: 2026-08-27T21:05:11.182762+00:00
+Retrieved: 2026-08-28T05:32:23.217681+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Noise
 First Seen: 2026-08-21T19:28:25.874192+00:00
-Last Seen: 2026-08-27T21:05:11.184416+00:00
+Last Seen: 2026-08-28T05:32:23.220800+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -1212,8 +1212,8 @@ Message ID: 7a30f77c72a8b537522ac4664dc084e80a006d80736ef31e9cde24e76f28a274
 Facility: LyondellBasell Bayport Polymers
 Posted: 2026-08-27T11:25:00+00:00
 Retrieved: 2026-08-27T21:05:11.398687+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Facilities
 First Seen: 2026-08-27T21:05:11.398687+00:00
 Last Seen: 2026-08-27T21:05:11.398687+00:00
@@ -1229,11 +1229,28 @@ Message ID: e48de6c56147e0e74821b8c3d67d63ce06f7e441d9639db22ce829722680b00c
 Facility: Chevron Phillips - Baytown
 Posted: 2026-08-27T10:54:00+00:00
 Retrieved: 2026-08-27T21:05:11.398687+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Emergency Response, Training/Drills
 First Seen: 2026-08-27T21:05:11.398687+00:00
 Last Seen: 2026-08-27T21:05:11.398687+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear This is a courtesy message from Chevron Phillips Chemical Company located at 9500 Interstate 10 East in Baytown, Texas. We are issuing an ALL CLEAR for the Emergency Response Drill.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 9bf40c31892eea54944e63983082dbf4180161a6ae01fbd41faa614aad6d253a
+Facility: Chevron Phillips - Baytown
+Posted: 2026-08-27T21:39:00+00:00
+Retrieved: 2026-08-28T05:32:23.437487+00:00
+Status: new
+Previously Seen: False
+Category: Emergency Response, Training/Drills
+First Seen: 2026-08-28T05:32:23.437487+00:00
+Last Seen: 2026-08-28T05:32:23.437487+00:00
 Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
 ------------------------------------------------------------
 Message:
