@@ -1,15 +1,32 @@
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: 1f1094603d5ae27c297e5e656f9645a04e33f47e76d357fe6c5a1d12e49ce5ca
+Facility: Chevron Phillips - Baytown
+Posted: 2026-08-29T09:02:00+00:00
+Retrieved: 2026-08-29T14:15:53.997798+00:00
+Status: new
+Previously Seen: False
+Category: Emergency Response, Facilities, Noise, Training/Drills
+First Seen: 2026-08-29T14:15:53.997798+00:00
+Last Seen: 2026-08-29T14:15:53.999775+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is a courtesy message from Chevron Phillips Chemical Company located at 9500 Interstate 10 East in Baytown, Texas. Our facility will be conducting an Emergency Response Drill today. Noise and/or lights, emergency response equipment/personnel movement, and spraying water may be noticeable during this time. There is no expected impact to the community. An ALL-CLEAR message will be posted upon completion of the drill.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: 58a48b938baf3d0bcbb2f130e6c869d9a08f173054a03ec80f73e82b646d1454
 Facility: Baystar
 Posted: 2026-08-27T05:25:00+00:00
-Retrieved: 2026-08-29T08:46:59.686772+00:00
+Retrieved: 2026-08-29T14:15:53.997798+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Noise
 First Seen: 2026-08-27T11:01:39.955001+00:00
-Last Seen: 2026-08-29T08:46:59.688456+00:00
+Last Seen: 2026-08-29T14:15:53.999775+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
