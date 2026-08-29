@@ -1,12 +1,29 @@
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: 58a48b938baf3d0bcbb2f130e6c869d9a08f173054a03ec80f73e82b646d1454
+Facility: Baystar
+Posted: 2026-08-27T05:25:00+00:00
+Retrieved: 2026-08-29T20:42:10.547451+00:00
+Status: previous message still posted
+Previously Seen: True
+Category: Facilities, Flaring, Noise
+First Seen: 2026-08-27T11:01:39.955001+00:00
+Last Seen: 2026-08-29T20:42:10.548907+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+Courtesy Message from Baystar (12212 Port Road, Pasadena): We are planning to re-start one of our processing units. There may be intermittent periods of flaring from our Multi-point Ground Flare over the next 24 hours as we bring the unit fully online. Being at ground level, the Multi-point Ground Flare looks different than a typical Stack Flare. Our neighbors may be able to see flaring and hear noise. The flaring poses no danger to the community and no action is necessary. The flare is part of the facilitys safety system. It has been fully tested to ensure it will operate as designed. We will take every precaution to minimize the duration of flaring and apologize for any inconvenience this may cause. We sincerely apologize for any inconvenience or concern this may cause.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: 2601d15780143191fbbd161fabeaf98e2687496a7985a4eac7abda90e021346a
 Facility: Lubrizol DP
 Posted: 2026-08-29T11:48:00+00:00
 Retrieved: 2026-08-29T17:47:15.361299+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Facilities, Odors
 First Seen: 2026-08-29T17:47:15.361299+00:00
 Last Seen: 2026-08-29T17:47:15.363451+00:00
@@ -14,23 +31,6 @@ Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
 This is a message from Lubrizol DP located at 41 Tidal Rd Deer Park,TX 77536. At 11:30 on 8/29/2026, There is a planned maintenance situation that may result in some odors to the surrounding areas. At this time, Odor may be noticeable to the community. There are no hazards at this time.. Stay tuned to local officials for more information. Update will be provided on this site, when needed.
-============================================================
-============================================================
-CAER MESSAGE
-============================================================
-Message ID: 58a48b938baf3d0bcbb2f130e6c869d9a08f173054a03ec80f73e82b646d1454
-Facility: Baystar
-Posted: 2026-08-27T05:25:00+00:00
-Retrieved: 2026-08-29T17:47:15.361299+00:00
-Status: previous message still posted
-Previously Seen: True
-Category: Facilities, Flaring, Noise
-First Seen: 2026-08-27T11:01:39.955001+00:00
-Last Seen: 2026-08-29T17:47:15.363451+00:00
-Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
-------------------------------------------------------------
-Message:
-Courtesy Message from Baystar (12212 Port Road, Pasadena): We are planning to re-start one of our processing units. There may be intermittent periods of flaring from our Multi-point Ground Flare over the next 24 hours as we bring the unit fully online. Being at ground level, the Multi-point Ground Flare looks different than a typical Stack Flare. Our neighbors may be able to see flaring and hear noise. The flaring poses no danger to the community and no action is necessary. The flare is part of the facilitys safety system. It has been fully tested to ensure it will operate as designed. We will take every precaution to minimize the duration of flaring and apologize for any inconvenience this may cause. We sincerely apologize for any inconvenience or concern this may cause.
 ============================================================
 ============================================================
 CAER MESSAGE
@@ -1297,8 +1297,8 @@ Message ID: 542a401e0237d52a77d11f4b615595a8e23d6c15ac0a3a20285b578b6f884a8f
 Facility: Chevron Phillips - Baytown
 Posted: 2026-08-29T09:29:00+00:00
 Retrieved: 2026-08-29T17:47:15.594332+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Emergency Response, Training/Drills
 First Seen: 2026-08-29T17:47:15.594332+00:00
 Last Seen: 2026-08-29T17:47:15.594332+00:00
@@ -1306,4 +1306,21 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 ------------------------------------------------------------
 Message:
 Clear his is a courtesy message from Chevron Phillips Chemical Company located at 9500 Interstate 10 East in Baytown, Texas. We are issuing an ALL CLEAR for the Emergency Response Drill.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 9e4f68126e9317690bac6008d0ad9bef983ec3e042a426ce7ed3deac58c3fe7f
+Facility: Lubrizol DP
+Posted: 2026-08-29T14:30:00+00:00
+Retrieved: 2026-08-29T20:42:10.752152+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Incidents, Odors
+First Seen: 2026-08-29T20:42:10.752152+00:00
+Last Seen: 2026-08-29T20:42:10.752152+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear This is a message from Lubrizol DP located at 41 Tidal Rd Deer Park,TX 77536. At 11:30 on 8/29/2026, a(n) Odor incident occurred at our facility. At 14:29 on 8/29/2026 we are issuing the all clear for this incident.
 ============================================================
