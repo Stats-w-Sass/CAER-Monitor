@@ -4,12 +4,12 @@ CAER MESSAGE
 Message ID: 58a48b938baf3d0bcbb2f130e6c869d9a08f173054a03ec80f73e82b646d1454
 Facility: Baystar
 Posted: 2026-08-27T05:25:00+00:00
-Retrieved: 2026-08-31T16:17:27.588647+00:00
+Retrieved: 2026-08-31T21:33:27.555099+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Noise
 First Seen: 2026-08-27T11:01:39.955001+00:00
-Last Seen: 2026-08-31T16:17:27.590385+00:00
+Last Seen: 2026-08-31T21:33:27.556273+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -1340,4 +1340,21 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 ------------------------------------------------------------
 Message:
 Clear This is a message from Lubrizol DP located at 41 Tidal Rd Deer Park,TX 77536. At 11:30 on 8/29/2026, a(n) Odor incident occurred at our facility. At 14:29 on 8/29/2026 we are issuing the all clear for this incident.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: fa9b9fff555701bf5e33ff951b1fce5c7cda8b3ad64be1c292a0042fe9876421
+Facility: Kuraray America La Porte
+Posted: 2026-08-31T12:35:00+00:00
+Retrieved: 2026-08-31T21:33:27.721336+00:00
+Status: new
+Previously Seen: False
+Category: Emergency Response, Facilities, Training/Drills
+First Seen: 2026-08-31T21:33:27.721336+00:00
+Last Seen: 2026-08-31T21:33:27.721336+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear *** DRILL *** This is a message from Kuraray America La Porte located at 12342 Strang Rd. La Porte,TX 77571. At 12:15 on 8/31/2026, an emergency alarm drill was conducted at our facility. At 12:33 on 8/31/2026 we are issuing the all clear for this emergency alarm drill.
 ============================================================
