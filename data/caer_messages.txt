@@ -1,12 +1,29 @@
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: 58a48b938baf3d0bcbb2f130e6c869d9a08f173054a03ec80f73e82b646d1454
+Facility: Baystar
+Posted: 2026-08-27T05:25:00+00:00
+Retrieved: 2026-09-02T14:12:21.722071+00:00
+Status: previous message still posted
+Previously Seen: True
+Category: Facilities, Flaring, Noise
+First Seen: 2026-08-27T11:01:39.955001+00:00
+Last Seen: 2026-09-02T14:12:21.723208+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+Courtesy Message from Baystar (12212 Port Road, Pasadena): We are planning to re-start one of our processing units. There may be intermittent periods of flaring from our Multi-point Ground Flare over the next 24 hours as we bring the unit fully online. Being at ground level, the Multi-point Ground Flare looks different than a typical Stack Flare. Our neighbors may be able to see flaring and hear noise. The flaring poses no danger to the community and no action is necessary. The flare is part of the facilitys safety system. It has been fully tested to ensure it will operate as designed. We will take every precaution to minimize the duration of flaring and apologize for any inconvenience this may cause. We sincerely apologize for any inconvenience or concern this may cause.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: 36abcf77799bbdfb1e65180d0cae6885cfc6515664a1bf9a6f44c6676a399212
 Facility: INEOS Styrolution - Port Rd.
 Posted: 2026-09-02T00:03:00+00:00
 Retrieved: 2026-09-02T09:29:17.983528+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Facilities, Flaring
 First Seen: 2026-09-02T09:29:17.983528+00:00
 Last Seen: 2026-09-02T09:29:17.985654+00:00
@@ -14,23 +31,6 @@ Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
 The INEOS Styrolution Bayport Plant located at 12222 Port Road in Pasadena Texas. We will be starting up our sites process units. We will be using the sites safety flare during this process, and you could hear some loud noises as steam is being released. We apologize for any inconvenience that this may cause. If you need additional information, please call 281-474-1054.
-============================================================
-============================================================
-CAER MESSAGE
-============================================================
-Message ID: 58a48b938baf3d0bcbb2f130e6c869d9a08f173054a03ec80f73e82b646d1454
-Facility: Baystar
-Posted: 2026-08-27T05:25:00+00:00
-Retrieved: 2026-09-02T09:29:17.983528+00:00
-Status: previous message still posted
-Previously Seen: True
-Category: Facilities, Flaring, Noise
-First Seen: 2026-08-27T11:01:39.955001+00:00
-Last Seen: 2026-09-02T09:29:17.985654+00:00
-Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
-------------------------------------------------------------
-Message:
-Courtesy Message from Baystar (12212 Port Road, Pasadena): We are planning to re-start one of our processing units. There may be intermittent periods of flaring from our Multi-point Ground Flare over the next 24 hours as we bring the unit fully online. Being at ground level, the Multi-point Ground Flare looks different than a typical Stack Flare. Our neighbors may be able to see flaring and hear noise. The flaring poses no danger to the community and no action is necessary. The flare is part of the facilitys safety system. It has been fully tested to ensure it will operate as designed. We will take every precaution to minimize the duration of flaring and apologize for any inconvenience this may cause. We sincerely apologize for any inconvenience or concern this may cause.
 ============================================================
 ============================================================
 CAER MESSAGE
@@ -1374,4 +1374,21 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 ------------------------------------------------------------
 Message:
 Clear *** DRILL *** This is a message from Kuraray America La Porte located at 12342 Strang Rd. La Porte,TX 77571. At 12:15 on 8/31/2026, an emergency alarm drill was conducted at our facility. At 12:33 on 8/31/2026 we are issuing the all clear for this emergency alarm drill.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: eedec040332fcd954c11127a27d0530ac2c4f841696d6b12af7ea2c5924d4d6b
+Facility: INEOS Styrolution - Port Rd.
+Posted: 2026-09-02T07:18:00+00:00
+Retrieved: 2026-09-02T14:12:21.954724+00:00
+Status: new
+Previously Seen: False
+Category: 
+First Seen: 2026-09-02T14:12:21.954724+00:00
+Last Seen: 2026-09-02T14:12:21.954724+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear All Clear on the ASA San Start up..
 ============================================================
