@@ -1,15 +1,32 @@
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: 36abcf77799bbdfb1e65180d0cae6885cfc6515664a1bf9a6f44c6676a399212
+Facility: INEOS Styrolution - Port Rd.
+Posted: 2026-09-02T00:03:00+00:00
+Retrieved: 2026-09-02T09:29:17.983528+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Flaring
+First Seen: 2026-09-02T09:29:17.983528+00:00
+Last Seen: 2026-09-02T09:29:17.985654+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+The INEOS Styrolution Bayport Plant located at 12222 Port Road in Pasadena Texas. We will be starting up our sites process units. We will be using the sites safety flare during this process, and you could hear some loud noises as steam is being released. We apologize for any inconvenience that this may cause. If you need additional information, please call 281-474-1054.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: 58a48b938baf3d0bcbb2f130e6c869d9a08f173054a03ec80f73e82b646d1454
 Facility: Baystar
 Posted: 2026-08-27T05:25:00+00:00
-Retrieved: 2026-09-02T04:59:00.368914+00:00
+Retrieved: 2026-09-02T09:29:17.983528+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Noise
 First Seen: 2026-08-27T11:01:39.955001+00:00
-Last Seen: 2026-09-02T04:59:00.370093+00:00
+Last Seen: 2026-09-02T09:29:17.985654+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
