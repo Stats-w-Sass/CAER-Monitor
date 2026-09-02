@@ -4,12 +4,12 @@ CAER MESSAGE
 Message ID: 58a48b938baf3d0bcbb2f130e6c869d9a08f173054a03ec80f73e82b646d1454
 Facility: Baystar
 Posted: 2026-08-27T05:25:00+00:00
-Retrieved: 2026-09-02T14:12:21.722071+00:00
+Retrieved: 2026-09-02T17:59:30.923308+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Noise
 First Seen: 2026-08-27T11:01:39.955001+00:00
-Last Seen: 2026-09-02T14:12:21.723208+00:00
+Last Seen: 2026-09-02T17:59:30.924833+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -1382,8 +1382,8 @@ Message ID: eedec040332fcd954c11127a27d0530ac2c4f841696d6b12af7ea2c5924d4d6b
 Facility: INEOS Styrolution - Port Rd.
 Posted: 2026-09-02T07:18:00+00:00
 Retrieved: 2026-09-02T14:12:21.954724+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: 
 First Seen: 2026-09-02T14:12:21.954724+00:00
 Last Seen: 2026-09-02T14:12:21.954724+00:00
@@ -1391,4 +1391,21 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 ------------------------------------------------------------
 Message:
 Clear All Clear on the ASA San Start up..
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 1e8a0cbef477ba62d69ea65180d9758216e32a8396b346cb92b3c6447e6a2204
+Facility: LyondellBasell LaPorte
+Posted: 2026-09-02T10:14:00+00:00
+Retrieved: 2026-09-02T17:59:31.160785+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Incidents
+First Seen: 2026-09-02T17:59:31.160785+00:00
+Last Seen: 2026-09-02T17:59:31.160785+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear This is a message from LyondellBasell LaPorte located at 1515 Miller Cut-Off Road La Porte,TX 77571. At 09:35 on 9/2/2026, a(n) Fire incident occurred at our facility. At 09:45 on 9/2/2026 we are issuing the all clear for this incident. Questions can be directed to asklaporte@lyb.com Un evento anterior en complejo de LyondellBasell La Porte Complex ubicado en 1515 Miller Cut Off Rd. terminÃÂ³ a las 09:45 on 9/2/2026 .Se pueden enviar preguntas a asklaporte@lyb.com
 ============================================================
