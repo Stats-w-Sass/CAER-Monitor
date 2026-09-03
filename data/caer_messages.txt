@@ -5,8 +5,8 @@ Message ID: fc6fcd5d50991c02a1775396152f472e4fa21d52b07b32eba234c195757cb2ab
 Facility: Chevron Phillips - Baytown
 Posted: 2026-09-03T01:04:00+00:00
 Retrieved: 2026-09-03T06:14:50.276973+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Emergency Response, Facilities, Incidents
 First Seen: 2026-09-03T06:14:50.276973+00:00
 Last Seen: 2026-09-03T06:14:50.278859+00:00
@@ -22,7 +22,7 @@ Message ID: 58a48b938baf3d0bcbb2f130e6c869d9a08f173054a03ec80f73e82b646d1454
 Facility: Baystar
 Posted: 2026-08-27T05:25:00+00:00
 Retrieved: 2026-09-03T06:14:50.276973+00:00
-Status: previous message still posted
+Status: cleared
 Previously Seen: True
 Category: Facilities, Flaring, Noise
 First Seen: 2026-08-27T11:01:39.955001+00:00
@@ -1459,4 +1459,21 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 ------------------------------------------------------------
 Message:
 Clear All Clear on our weekly alarms.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: da1b2890a01ca992d2664e789a98158bd2cd59ea171003a2fe7b829b0ec0f011
+Facility: Chevron Phillips - Baytown
+Posted: 2026-09-03T01:32:00+00:00
+Retrieved: 2026-09-03T11:32:45.593172+00:00
+Status: new
+Previously Seen: False
+Category: 
+First Seen: 2026-09-03T11:32:45.593172+00:00
+Last Seen: 2026-09-03T11:32:45.593172+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear This is the Chevron Phillips Chemical Company in Baytown. We are announcing an All Clear. Repeat: This is an All Clear.
 ============================================================
