@@ -4,12 +4,12 @@ CAER MESSAGE
 Message ID: 8da9edefc88a6ebb8df24862369d5c9390a218043e3d10d59252bb564a96a9ae
 Facility: Underground Storage - Houston
 Posted: 2026-09-03T11:08:00+00:00
-Retrieved: 2026-09-03T19:21:47.164894+00:00
-Status: new
-Previously Seen: False
+Retrieved: 2026-09-03T21:49:46.890506+00:00
+Status: previous message still posted
+Previously Seen: True
 Category: Emergency Response, Facilities, Incidents, Noise, Training/Drills
 First Seen: 2026-09-03T19:21:47.164894+00:00
-Last Seen: 2026-09-03T19:21:47.165859+00:00
+Last Seen: 2026-09-03T21:49:46.891463+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -1501,8 +1501,8 @@ Message ID: 7a2c20f077045a33b620b5534ecf1d1bb5c40510e7e9e14dfd2e35031b1da64b
 Facility: Underground Storage - Houston
 Posted: 2026-09-03T11:27:00+00:00
 Retrieved: 2026-09-03T19:21:47.288839+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Facilities, Incidents, Training/Drills
 First Seen: 2026-09-03T19:21:47.288839+00:00
 Last Seen: 2026-09-03T19:21:47.288839+00:00
@@ -1510,4 +1510,21 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 ------------------------------------------------------------
 Message:
 Clear *** All Clear This is DRILL *** This is a message from Underground Storage - Houston located at 3000 Feldman St. Houston,TX 77045. At 10:50 on 9/3/2026, a(n) Security, Other incident occurred at our facility. At 11:26 on 9/3/2026 we are issuing the all clear for this incident.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 2a7af7654d8c15d7ce3567da8e3ccee7de0128a31e1bca59868599385f48ef1c
+Facility: Chevron Phillips - Baytown
+Posted: 2026-09-03T14:10:00+00:00
+Retrieved: 2026-09-03T21:49:47.097709+00:00
+Status: new
+Previously Seen: False
+Category: Incidents, Training/Drills
+First Seen: 2026-09-03T21:49:47.097709+00:00
+Last Seen: 2026-09-03T21:49:47.097709+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear This is a courtesy message from Chevron Phillips Chemical Company located at 9500 Interstate 10 East in Baytown, Texas. We are issuing an ALL CLEAR for the Fire Extinguisher Training.
 ============================================================
