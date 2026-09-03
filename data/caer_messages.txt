@@ -1,6 +1,23 @@
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: 8da9edefc88a6ebb8df24862369d5c9390a218043e3d10d59252bb564a96a9ae
+Facility: Underground Storage - Houston
+Posted: 2026-09-03T11:08:00+00:00
+Retrieved: 2026-09-03T19:21:47.164894+00:00
+Status: new
+Previously Seen: False
+Category: Emergency Response, Facilities, Incidents, Noise, Training/Drills
+First Seen: 2026-09-03T19:21:47.164894+00:00
+Last Seen: 2026-09-03T19:21:47.165859+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+*** This is a DRILL *** This is a message from Underground Storage - Houston located at 3000 Feldman St. Houston,TX 77045. At 10:44 on 9/3/2026, a(n) Other incident occurred at our facility. At this time, Activity, Emergency Vehicles, Noise, Sirens may be noticeable to the community. We are coordinating with local officials, and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: fc6fcd5d50991c02a1775396152f472e4fa21d52b07b32eba234c195757cb2ab
 Facility: Chevron Phillips - Baytown
 Posted: 2026-09-03T01:04:00+00:00
@@ -1476,4 +1493,21 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 ------------------------------------------------------------
 Message:
 Clear This is the Chevron Phillips Chemical Company in Baytown. We are announcing an All Clear. Repeat: This is an All Clear.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 7a2c20f077045a33b620b5534ecf1d1bb5c40510e7e9e14dfd2e35031b1da64b
+Facility: Underground Storage - Houston
+Posted: 2026-09-03T11:27:00+00:00
+Retrieved: 2026-09-03T19:21:47.288839+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Incidents, Training/Drills
+First Seen: 2026-09-03T19:21:47.288839+00:00
+Last Seen: 2026-09-03T19:21:47.288839+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear *** All Clear This is DRILL *** This is a message from Underground Storage - Houston located at 3000 Feldman St. Houston,TX 77045. At 10:50 on 9/3/2026, a(n) Security, Other incident occurred at our facility. At 11:26 on 9/3/2026 we are issuing the all clear for this incident.
 ============================================================
