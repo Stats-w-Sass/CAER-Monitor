@@ -1467,8 +1467,8 @@ Message ID: da1b2890a01ca992d2664e789a98158bd2cd59ea171003a2fe7b829b0ec0f011
 Facility: Chevron Phillips - Baytown
 Posted: 2026-09-03T01:32:00+00:00
 Retrieved: 2026-09-03T11:32:45.593172+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: 
 First Seen: 2026-09-03T11:32:45.593172+00:00
 Last Seen: 2026-09-03T11:32:45.593172+00:00
