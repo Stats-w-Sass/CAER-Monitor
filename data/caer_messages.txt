@@ -4,12 +4,12 @@ CAER MESSAGE
 Message ID: 8da9edefc88a6ebb8df24862369d5c9390a218043e3d10d59252bb564a96a9ae
 Facility: Underground Storage - Houston
 Posted: 2026-09-03T11:08:00+00:00
-Retrieved: 2026-09-05T17:15:13.894008+00:00
+Retrieved: 2026-09-05T19:17:43.137851+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Emergency Response, Facilities, Incidents, Noise, Training/Drills
 First Seen: 2026-09-03T19:21:47.164894+00:00
-Last Seen: 2026-09-05T17:15:13.894718+00:00
+Last Seen: 2026-09-05T19:17:43.138383+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -1586,8 +1586,8 @@ Message ID: ce2b0fb41c3960d03e1bb02b679c85071097073b45a479133f051f340f86aeb6
 Facility: Lubrizol DP
 Posted: 2026-09-05T09:32:00+00:00
 Retrieved: 2026-09-05T17:15:14.094555+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Facilities, Incidents
 First Seen: 2026-09-05T17:15:14.094555+00:00
 Last Seen: 2026-09-05T17:15:14.094555+00:00
