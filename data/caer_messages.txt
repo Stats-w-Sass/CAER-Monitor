@@ -1,11 +1,28 @@
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: 8da9edefc88a6ebb8df24862369d5c9390a218043e3d10d59252bb564a96a9ae
+Facility: Underground Storage - Houston
+Posted: 2026-09-03T11:08:00+00:00
+Retrieved: 2026-09-05T14:57:52.661307+00:00
+Status: previous message still posted
+Previously Seen: True
+Category: Emergency Response, Facilities, Incidents, Noise, Training/Drills
+First Seen: 2026-09-03T19:21:47.164894+00:00
+Last Seen: 2026-09-05T14:57:52.662172+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+*** This is a DRILL *** This is a message from Underground Storage - Houston located at 3000 Feldman St. Houston,TX 77045. At 10:44 on 9/3/2026, a(n) Other incident occurred at our facility. At this time, Activity, Emergency Vehicles, Noise, Sirens may be noticeable to the community. We are coordinating with local officials, and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: d6437aed36ec44afd3d91d8e730641b6fd93db44eb3bd4685f68b5bd51938928
 Facility: Lubrizol DP
 Posted: 2026-09-05T01:04:00+00:00
 Retrieved: 2026-09-05T11:56:03.890996+00:00
-Status: previous message still posted
+Status: cleared
 Previously Seen: True
 Category: Emergency Response, Facilities, Incidents, Noise
 First Seen: 2026-09-05T08:12:56.341636+00:00
@@ -22,7 +39,7 @@ Message ID: 9eb9347eee8823815ec961a013a310283166d05254f00477f943b7c9e6c3743d
 Facility: Lubrizol DP
 Posted: 2026-09-04T23:37:00+00:00
 Retrieved: 2026-09-05T11:56:03.890996+00:00
-Status: previous message still posted
+Status: cleared
 Previously Seen: True
 Category: Emergency Response, Facilities, Incidents, Noise
 First Seen: 2026-09-05T08:12:56.341636+00:00
@@ -31,23 +48,6 @@ Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
 This is a message from Lubrizol DP located at 41 Tidal Rd Deer Park,TX 77536. At 22:45 on 9/4/2026, a(n) Process Upset incident occurred at our facility. At this time, Emergency Vehicles, Noise, Sirens may be noticeable to the community. We are coordinating with local officials, and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed. As of 23:30, all natural gas leaks have been contained.
-============================================================
-============================================================
-CAER MESSAGE
-============================================================
-Message ID: 8da9edefc88a6ebb8df24862369d5c9390a218043e3d10d59252bb564a96a9ae
-Facility: Underground Storage - Houston
-Posted: 2026-09-03T11:08:00+00:00
-Retrieved: 2026-09-05T11:56:03.890996+00:00
-Status: previous message still posted
-Previously Seen: True
-Category: Emergency Response, Facilities, Incidents, Noise, Training/Drills
-First Seen: 2026-09-03T19:21:47.164894+00:00
-Last Seen: 2026-09-05T11:56:03.892618+00:00
-Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
-------------------------------------------------------------
-Message:
-*** This is a DRILL *** This is a message from Underground Storage - Houston located at 3000 Feldman St. Houston,TX 77045. At 10:44 on 9/3/2026, a(n) Other incident occurred at our facility. At this time, Activity, Emergency Vehicles, Noise, Sirens may be noticeable to the community. We are coordinating with local officials, and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed.
 ============================================================
 ============================================================
 CAER MESSAGE
@@ -1561,4 +1561,21 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 ------------------------------------------------------------
 Message:
 Clear This is a courtesy message from Chevron Phillips Chemical Company located at 9500 Interstate 10 East in Baytown, Texas. We are issuing an ALL CLEAR for the Fire Extinguisher Training.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: da01fbc8a15e23d20d128160b68d7ec2af7d2777ef20499b3b082239edf44f33
+Facility: Chevron Phillips - Baytown
+Posted: 2026-09-05T06:18:00+00:00
+Retrieved: 2026-09-05T14:57:52.834123+00:00
+Status: new
+Previously Seen: False
+Category: Incidents
+First Seen: 2026-09-05T14:57:52.834123+00:00
+Last Seen: 2026-09-05T14:57:52.834123+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear This is a message from Chevron Phillips Chemical Company located at 9500 Interstate 10 East in Baytown, Texas. We are issuing an ALL CLEAR for the incident we experienced.
 ============================================================
