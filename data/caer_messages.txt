@@ -4,12 +4,12 @@ CAER MESSAGE
 Message ID: 8da9edefc88a6ebb8df24862369d5c9390a218043e3d10d59252bb564a96a9ae
 Facility: Underground Storage - Houston
 Posted: 2026-09-03T11:08:00+00:00
-Retrieved: 2026-09-06T08:30:35.398410+00:00
+Retrieved: 2026-09-06T12:43:32.355763+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Emergency Response, Facilities, Incidents, Noise, Training/Drills
 First Seen: 2026-09-03T19:21:47.164894+00:00
-Last Seen: 2026-09-06T08:30:35.399379+00:00
+Last Seen: 2026-09-06T12:43:32.356620+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
