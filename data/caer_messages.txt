@@ -4,12 +4,12 @@ CAER MESSAGE
 Message ID: 8da9edefc88a6ebb8df24862369d5c9390a218043e3d10d59252bb564a96a9ae
 Facility: Underground Storage - Houston
 Posted: 2026-09-03T11:08:00+00:00
-Retrieved: 2026-09-08T13:25:08.574193+00:00
+Retrieved: 2026-09-08T17:22:07.787295+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Emergency Response, Facilities, Incidents, Noise, Training/Drills
 First Seen: 2026-09-03T19:21:47.164894+00:00
-Last Seen: 2026-09-08T13:25:08.575177+00:00
+Last Seen: 2026-09-08T17:22:07.788259+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -1595,4 +1595,21 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 ------------------------------------------------------------
 Message:
 Clear This is a message from Lubrizol DP located at 41 Tidal Rd Deer Park,TX 77536. At 22:45 on 9/5/2026, a(n) Process Upset incident occurred at our facility. At 0230 on 9/5/2026 we issued an all-clear. At 09:30 on 9/5/2026 we are issuing the all clear for this incident.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 2c05def3b25ebc2f53500cfbe3029d86f72db30a77ce77b76ee3ab58db9a9b14
+Facility: Next Wave Energy Partners
+Posted: 2026-09-08T09:27:00+00:00
+Retrieved: 2026-09-08T17:22:07.956334+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Incidents
+First Seen: 2026-09-08T17:22:07.956334+00:00
+Last Seen: 2026-09-08T17:22:07.956334+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear This is a message from Next Wave Energy Partners located at 601 N. South Street, Pasadena Texas 77503. At 0840 on 9/8/2026Ã¢â¬Â a chemical release incident occurred at our facility. At 0925 on 9/8/26 we are issuing an all clear for this incident.
 ============================================================
