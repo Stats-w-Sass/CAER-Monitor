@@ -1,12 +1,29 @@
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: 8da9edefc88a6ebb8df24862369d5c9390a218043e3d10d59252bb564a96a9ae
+Facility: Underground Storage - Houston
+Posted: 2026-09-03T11:08:00+00:00
+Retrieved: 2026-09-09T19:22:13.914465+00:00
+Status: previous message still posted
+Previously Seen: True
+Category: Emergency Response, Facilities, Incidents, Noise, Training/Drills
+First Seen: 2026-09-03T19:21:47.164894+00:00
+Last Seen: 2026-09-09T19:22:13.915283+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+*** This is a DRILL *** This is a message from Underground Storage - Houston located at 3000 Feldman St. Houston,TX 77045. At 10:44 on 9/3/2026, a(n) Other incident occurred at our facility. At this time, Activity, Emergency Vehicles, Noise, Sirens may be noticeable to the community. We are coordinating with local officials, and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: 597a0a128a83592928bf14397271c0aa8236888fe68356653b897788fd6851b3
 Facility: INEOS Styrolution - Port Rd.
 Posted: 2026-09-09T11:07:00+00:00
 Retrieved: 2026-09-09T16:15:10.550455+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Facilities
 First Seen: 2026-09-09T16:15:10.550455+00:00
 Last Seen: 2026-09-09T16:15:10.552112+00:00
@@ -14,23 +31,6 @@ Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
 This is the INEOS Styrolution EBSM and ASA Plant located at 12222 Port Road in Pasadena Texas we will be conducting the weekly plant alarm testing at noon. We apologize for any inconvenience this may cause. If you need additional information, please call 281-474-1054
-============================================================
-============================================================
-CAER MESSAGE
-============================================================
-Message ID: 8da9edefc88a6ebb8df24862369d5c9390a218043e3d10d59252bb564a96a9ae
-Facility: Underground Storage - Houston
-Posted: 2026-09-03T11:08:00+00:00
-Retrieved: 2026-09-09T16:15:10.550455+00:00
-Status: previous message still posted
-Previously Seen: True
-Category: Emergency Response, Facilities, Incidents, Noise, Training/Drills
-First Seen: 2026-09-03T19:21:47.164894+00:00
-Last Seen: 2026-09-09T16:15:10.552112+00:00
-Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
-------------------------------------------------------------
-Message:
-*** This is a DRILL *** This is a message from Underground Storage - Houston located at 3000 Feldman St. Houston,TX 77045. At 10:44 on 9/3/2026, a(n) Other incident occurred at our facility. At this time, Activity, Emergency Vehicles, Noise, Sirens may be noticeable to the community. We are coordinating with local officials, and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed.
 ============================================================
 ============================================================
 CAER MESSAGE
@@ -1629,4 +1629,38 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 ------------------------------------------------------------
 Message:
 Clear This is a message from Next Wave Energy Partners located at 601 N. South Street, Pasadena Texas 77503. At 0840 on 9/8/2026Ã¢â¬Â a chemical release incident occurred at our facility. At 0925 on 9/8/26 we are issuing an all clear for this incident.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: e88d56aa804fb77b74652b6d857848564c0bc5299b3fb022a5cde014b6adc6db
+Facility: Evonik Bayport
+Posted: 2026-09-09T12:34:00+00:00
+Retrieved: 2026-09-09T19:22:14.131841+00:00
+Status: new
+Previously Seen: False
+Category: Facilities
+First Seen: 2026-09-09T19:22:14.131841+00:00
+Last Seen: 2026-09-09T19:22:14.131841+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear This is Christopher Irvine of the Evonik Bayport facility, located in the Bayport Industrial district. We are physically located at 12000 Bay Area Boulevard, between Choate Road and Fairmont Parkway. This is a Level One Courtesy Message for the City of LaPorte and all Bayport Industrial Complex area companies. THIS IS ONLY A TEST. At 12:06 on WEDNESDAY 09/09/2026, we will be conducting our weekly Plant Siren Test. The test is conducted every WEDNESDAY at Noon to ensure our Site and Community warning system is fully functional and operational. If you are in the vicinity of our site you may hear the siren. Again THIS IS ONLY A TEST. If you need or request any additional information you may call our Control Room at 281 474 8750 or our Public Information Officer at 281 474 8755. The management staff and all employees here at Evonik Bayport apologize for any inconvenience that has, or may occur to the public, neighboring plants, and our surrounding communities as a result of this Weekly Siren test. Thank you.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 61afa9f55799ba67908bd1256b306e2ce7c6ce36ef32ab20e96a0976346c1254
+Facility: INEOS Styrolution - Port Rd.
+Posted: 2026-09-09T12:12:00+00:00
+Retrieved: 2026-09-09T19:22:14.131841+00:00
+Status: new
+Previously Seen: False
+Category: 
+First Seen: 2026-09-09T19:22:14.131841+00:00
+Last Seen: 2026-09-09T19:22:14.131841+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear All Clear on the weekly Alarm test.
 ============================================================
