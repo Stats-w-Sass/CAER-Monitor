@@ -4,12 +4,12 @@ CAER MESSAGE
 Message ID: 8da9edefc88a6ebb8df24862369d5c9390a218043e3d10d59252bb564a96a9ae
 Facility: Underground Storage - Houston
 Posted: 2026-09-03T11:08:00+00:00
-Retrieved: 2026-09-09T19:22:13.914465+00:00
+Retrieved: 2026-09-09T21:50:26.151548+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Emergency Response, Facilities, Incidents, Noise, Training/Drills
 First Seen: 2026-09-03T19:21:47.164894+00:00
-Last Seen: 2026-09-09T19:22:13.915283+00:00
+Last Seen: 2026-09-09T21:50:26.152500+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -1637,8 +1637,8 @@ Message ID: e88d56aa804fb77b74652b6d857848564c0bc5299b3fb022a5cde014b6adc6db
 Facility: Evonik Bayport
 Posted: 2026-09-09T12:34:00+00:00
 Retrieved: 2026-09-09T19:22:14.131841+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Facilities
 First Seen: 2026-09-09T19:22:14.131841+00:00
 Last Seen: 2026-09-09T19:22:14.131841+00:00
@@ -1654,8 +1654,8 @@ Message ID: 61afa9f55799ba67908bd1256b306e2ce7c6ce36ef32ab20e96a0976346c1254
 Facility: INEOS Styrolution - Port Rd.
 Posted: 2026-09-09T12:12:00+00:00
 Retrieved: 2026-09-09T19:22:14.131841+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: 
 First Seen: 2026-09-09T19:22:14.131841+00:00
 Last Seen: 2026-09-09T19:22:14.131841+00:00
