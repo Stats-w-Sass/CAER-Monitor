@@ -1671,8 +1671,8 @@ Message ID: cb8bbf0567d0ae4c7f889bb20ede40dc2da037c54219cd3dfbb3fce8a6632116
 Facility: Nouryon Battleground
 Posted: 2026-09-10T11:34:00+00:00
 Retrieved: 2026-09-10T17:34:57.994531+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Facilities
 First Seen: 2026-09-10T17:34:57.994531+00:00
 Last Seen: 2026-09-10T17:34:57.994531+00:00
