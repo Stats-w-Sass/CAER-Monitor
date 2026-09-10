@@ -5,7 +5,7 @@ Message ID: 8da9edefc88a6ebb8df24862369d5c9390a218043e3d10d59252bb564a96a9ae
 Facility: Underground Storage - Houston
 Posted: 2026-09-03T11:08:00+00:00
 Retrieved: 2026-09-10T13:44:58.161426+00:00
-Status: previous message still posted
+Status: cleared
 Previously Seen: True
 Category: Emergency Response, Facilities, Incidents, Noise, Training/Drills
 First Seen: 2026-09-03T19:21:47.164894+00:00
@@ -1663,4 +1663,21 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 ------------------------------------------------------------
 Message:
 Clear All Clear on the weekly Alarm test.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: cb8bbf0567d0ae4c7f889bb20ede40dc2da037c54219cd3dfbb3fce8a6632116
+Facility: Nouryon Battleground
+Posted: 2026-09-10T11:34:00+00:00
+Retrieved: 2026-09-10T17:34:57.994531+00:00
+Status: new
+Previously Seen: False
+Category: Facilities
+First Seen: 2026-09-10T17:34:57.994531+00:00
+Last Seen: 2026-09-10T17:34:57.994531+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear This is a message from Nouryon Battleground located at 730 Independence Pkwy South La Porte,TX 77571. We have concluded our on-site demonstration. At 11:30 on 9/10/2026 we are issuing an all clear.
 ============================================================
