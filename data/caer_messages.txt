@@ -1688,8 +1688,8 @@ Message ID: e898cdca2ac376d81558cbfdfe5fcce66e61bbfac8cb396b73e259f29df7bd58
 Facility: OxyChem - Pasadena PVC
 Posted: 2026-09-11T03:33:00+00:00
 Retrieved: 2026-09-11T11:44:17.963970+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Facilities, Incidents
 First Seen: 2026-09-11T11:44:17.963970+00:00
 Last Seen: 2026-09-11T11:44:17.963970+00:00
