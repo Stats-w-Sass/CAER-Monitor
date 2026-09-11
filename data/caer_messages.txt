@@ -1681,3 +1681,20 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 Message:
 Clear This is a message from Nouryon Battleground located at 730 Independence Pkwy South La Porte,TX 77571. We have concluded our on-site demonstration. At 11:30 on 9/10/2026 we are issuing an all clear.
 ============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: e898cdca2ac376d81558cbfdfe5fcce66e61bbfac8cb396b73e259f29df7bd58
+Facility: OxyChem - Pasadena PVC
+Posted: 2026-09-11T03:33:00+00:00
+Retrieved: 2026-09-11T11:44:17.963970+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Incidents
+First Seen: 2026-09-11T11:44:17.963970+00:00
+Last Seen: 2026-09-11T11:44:17.963970+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear This is a message from OxyChem - Pasadena PVC located at 4403 Pasadena Freeway Pasadena,TX 77503. At 03:27 on 9/11/2026, a(n) Fire incident occurred at our facility. At 03:33 on 9/11/2026 we are issuing the all clear for this incident.
+============================================================
