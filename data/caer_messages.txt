@@ -1,6 +1,23 @@
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: 4b41c86dd19651d31e35f7fa365b7e9112ae866579ad5e8a104f9356913bba89
+Facility: Pasadena Refinery
+Posted: 2026-09-14T11:22:00+00:00
+Retrieved: 2026-09-14T16:28:48.396636+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Flaring
+First Seen: 2026-09-14T16:28:48.396636+00:00
+Last Seen: 2026-09-14T16:28:48.397558+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is a courtesy message from Pasadena Refining System, Inc. (PRSI). Maintenance activities this week at the Pasadena Refinery may require the intermittent use of flaring to safely burn excess material and minimize potential emissions. No community impacts are anticipated. Updates will be provided on this site as needed.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: 8da9edefc88a6ebb8df24862369d5c9390a218043e3d10d59252bb564a96a9ae
 Facility: Underground Storage - Houston
 Posted: 2026-09-03T11:08:00+00:00
