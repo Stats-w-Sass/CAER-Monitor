@@ -1,15 +1,49 @@
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: 4e385c681c4fb79d4555d76f56cf75b30f524fd4e7a1ef6240149294b5b0433b
+Facility: TPC Group - Houston
+Posted: 2026-09-14T14:59:00+00:00
+Retrieved: 2026-09-14T20:27:37.632389+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Flaring, Incidents, Smoke
+First Seen: 2026-09-14T20:27:37.632389+00:00
+Last Seen: 2026-09-14T20:27:37.634080+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is TPC Group Houston Operations, located at 8600 Park Place Boulevard. Today is Monday, September 9/14 at approximately 2:51:48 PM. This is a courtesy message to notify our neighbors that there is unusual flaring and black smoke at the facility due to a power outage at the plant. We do not expect any impact to our employees, industrial or community neighbors, as we work to resolve the issue safely and quickly. We apologize for any inconvenience this incident may have caused. Should you have any concerns or questions, please contact Sara Cronin at 713.502.0656.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 7983c05d04385dd0b336b993dda141fd0daab88fee3a991d19a517a0fbbae990
+Facility: TPC Group - Houston
+Posted: 2026-09-14T14:58:00+00:00
+Retrieved: 2026-09-14T20:27:37.632389+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Flaring, Incidents, Smoke
+First Seen: 2026-09-14T20:27:37.632389+00:00
+Last Seen: 2026-09-14T20:27:37.634080+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is TPC Group Houston Operations, located at 8600 Park Place Boulevard. Today is Monday, September 9/14 at approximately 2:51:48 PM. This is a courtesy message to notify our neighbors that there is unusual flaring and black smoke at the facility due to a power outage at the plant. We do not expect any impact to our employees, industrial or community neighbors, as we work to resolve the issue safely and quickly. We apologize for any inconvenience this incident may have caused. Should you have any concerns or questions, please contact Sara Cronin at 713.502.0656.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: 4b41c86dd19651d31e35f7fa365b7e9112ae866579ad5e8a104f9356913bba89
 Facility: Pasadena Refinery
 Posted: 2026-09-14T11:22:00+00:00
-Retrieved: 2026-09-14T16:28:48.396636+00:00
-Status: new
-Previously Seen: False
+Retrieved: 2026-09-14T20:27:37.632389+00:00
+Status: previous message still posted
+Previously Seen: True
 Category: Facilities, Flaring
 First Seen: 2026-09-14T16:28:48.396636+00:00
-Last Seen: 2026-09-14T16:28:48.397558+00:00
+Last Seen: 2026-09-14T20:27:37.634080+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
