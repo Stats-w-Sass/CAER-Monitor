@@ -1,15 +1,32 @@
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: 9563349336ff1f4b95350858cb05ffea8d2ce6fcb6f70c9bdf3c1e19d1cee5f9
+Facility: Mitsubishi Chemical La Porte
+Posted: 2026-09-15T08:11:00+00:00
+Retrieved: 2026-09-15T17:33:36.384369+00:00
+Status: new
+Previously Seen: False
+Category: Emergency Response, Facilities, Incidents, Training/Drills
+First Seen: 2026-09-15T17:33:36.384369+00:00
+Last Seen: 2026-09-15T17:33:36.388944+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+DRILL DRILL DRILL THIS IS A DRILL This is a message from Mitsubishi Chemical located at 12220 Strang Rd. La Porte, TX 77571. At 8:10:37 AM on 15 9/15/2026, a Chemical EXPOSURE INCIDENT occurred at our facility. At this time ACTIVITY AND EMERGENCY VEHICLES may be noticeable to the community. Our Emergency Response Teams are responding to this situation and coordinating with local officials to resolve the issue as soon as possible. Stay tuned to local officials or this site for more information. An update will be provided on this site when possible or as conditions change.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: 5b9105eadfc3f921ac9f99b673b81e3daa40448f8bb9ef76cce3cdf59fac8ef1
 Facility: TPC Group - Houston
 Posted: 2026-09-14T20:15:00+00:00
-Retrieved: 2026-09-15T12:51:22.266556+00:00
+Retrieved: 2026-09-15T17:33:36.384369+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Smoke
 First Seen: 2026-09-15T01:44:45.698466+00:00
-Last Seen: 2026-09-15T12:51:22.271133+00:00
+Last Seen: 2026-09-15T17:33:36.388944+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -21,12 +38,12 @@ CAER MESSAGE
 Message ID: 61cf0653705c62de1cf4e8512e736f0a49b770af32300a01cbc1c69d92882946
 Facility: TPC Group - Houston
 Posted: 2026-09-14T20:15:00+00:00
-Retrieved: 2026-09-15T12:51:22.266556+00:00
+Retrieved: 2026-09-15T17:33:36.384369+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Smoke
 First Seen: 2026-09-15T01:44:45.698466+00:00
-Last Seen: 2026-09-15T12:51:22.271133+00:00
+Last Seen: 2026-09-15T17:33:36.388944+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -38,12 +55,12 @@ CAER MESSAGE
 Message ID: 08902c818a1ee491eeb7c452deef172eb222b9c9b9ffb480ec6962c0a6e43a54
 Facility: TPC Group - Houston
 Posted: 2026-09-14T16:24:00+00:00
-Retrieved: 2026-09-15T12:51:22.266556+00:00
+Retrieved: 2026-09-15T17:33:36.384369+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Smoke
 First Seen: 2026-09-14T23:22:31.087595+00:00
-Last Seen: 2026-09-15T12:51:22.271133+00:00
+Last Seen: 2026-09-15T17:33:36.388944+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -55,12 +72,12 @@ CAER MESSAGE
 Message ID: 4e385c681c4fb79d4555d76f56cf75b30f524fd4e7a1ef6240149294b5b0433b
 Facility: TPC Group - Houston
 Posted: 2026-09-14T14:59:00+00:00
-Retrieved: 2026-09-15T12:51:22.266556+00:00
+Retrieved: 2026-09-15T17:33:36.384369+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Incidents, Smoke
 First Seen: 2026-09-14T20:27:37.632389+00:00
-Last Seen: 2026-09-15T12:51:22.271133+00:00
+Last Seen: 2026-09-15T17:33:36.388944+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -72,12 +89,12 @@ CAER MESSAGE
 Message ID: 7983c05d04385dd0b336b993dda141fd0daab88fee3a991d19a517a0fbbae990
 Facility: TPC Group - Houston
 Posted: 2026-09-14T14:58:00+00:00
-Retrieved: 2026-09-15T12:51:22.266556+00:00
+Retrieved: 2026-09-15T17:33:36.384369+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Incidents, Smoke
 First Seen: 2026-09-14T20:27:37.632389+00:00
-Last Seen: 2026-09-15T12:51:22.271133+00:00
+Last Seen: 2026-09-15T17:33:36.388944+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -86,12 +103,29 @@ This is TPC Group Houston Operations, located at 8600 Park Place Boulevard. Toda
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: 4b41c86dd19651d31e35f7fa365b7e9112ae866579ad5e8a104f9356913bba89
+Facility: Pasadena Refinery
+Posted: 2026-09-14T11:22:00+00:00
+Retrieved: 2026-09-15T17:33:36.384369+00:00
+Status: previous message still posted
+Previously Seen: True
+Category: Facilities, Flaring
+First Seen: 2026-09-14T16:28:48.396636+00:00
+Last Seen: 2026-09-15T17:33:36.388944+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is a courtesy message from Pasadena Refining System, Inc. (PRSI). Maintenance activities this week at the Pasadena Refinery may require the intermittent use of flaring to safely burn excess material and minimize potential emissions. No community impacts are anticipated. Updates will be provided on this site as needed.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: 9389a91c941d6c7b5fd88cc64c3ce443406eba151ed0dcfd341dee7058979e28
 Facility: ExxonMobil Baytown Complex
 Posted: 2026-09-15T07:45:58+00:00
 Retrieved: 2026-09-15T12:51:22.266556+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: 
 First Seen: 2026-09-15T12:51:22.266556+00:00
 Last Seen: 2026-09-15T12:51:22.271133+00:00
@@ -107,7 +141,7 @@ Message ID: a2a027d0d47dc967362f2bf72de4a449728491407d5ab40d7230d70796a75b87
 Facility: ExxonMobil Baytown Complex
 Posted: 2026-09-14T18:16:00+00:00
 Retrieved: 2026-09-15T12:51:22.266556+00:00
-Status: previous message still posted
+Status: cleared
 Previously Seen: True
 Category: Facilities, Flaring, Noise
 First Seen: 2026-09-14T23:22:31.087595+00:00
@@ -116,23 +150,6 @@ Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
 This is the ExxonMobil Baytown Complex located at 5000 Bayway Drive in Baytown. Today is Monday, September 14, at 6:10pm. We're in the process of a planned unit startup at our facility resulting in safety flaring and noise. Personnel are working to complete activities as soon as possible. We apologize for any impacts this may have on neighbors. Thank you for using CAER Online.
-============================================================
-============================================================
-CAER MESSAGE
-============================================================
-Message ID: 4b41c86dd19651d31e35f7fa365b7e9112ae866579ad5e8a104f9356913bba89
-Facility: Pasadena Refinery
-Posted: 2026-09-14T11:22:00+00:00
-Retrieved: 2026-09-15T12:51:22.266556+00:00
-Status: previous message still posted
-Previously Seen: True
-Category: Facilities, Flaring
-First Seen: 2026-09-14T16:28:48.396636+00:00
-Last Seen: 2026-09-15T12:51:22.271133+00:00
-Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
-------------------------------------------------------------
-Message:
-This is a courtesy message from Pasadena Refining System, Inc. (PRSI). Maintenance activities this week at the Pasadena Refinery may require the intermittent use of flaring to safely burn excess material and minimize potential emissions. No community impacts are anticipated. Updates will be provided on this site as needed.
 ============================================================
 ============================================================
 CAER MESSAGE
@@ -1833,4 +1850,55 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 ------------------------------------------------------------
 Message:
 Clear This is a message from OxyChem - Pasadena PVC located at 4403 Pasadena Freeway Pasadena,TX 77503. At 03:27 on 9/11/2026, a(n) Fire incident occurred at our facility. At 03:33 on 9/11/2026 we are issuing the all clear for this incident.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 24673e6efeefa74394531ea88307202d01d20c4e3c8d998f637a9d18288b6ca3
+Facility: Kuraray America La Porte
+Posted: 2026-09-15T10:37:00+00:00
+Retrieved: 2026-09-15T17:33:36.591163+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Incidents, Odors, Training/Drills
+First Seen: 2026-09-15T17:33:36.591163+00:00
+Last Seen: 2026-09-15T17:33:36.591163+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear *** DRILL *** This is a message from Kuraray America La Porte located at 12342 Strang Rd. La Porte,TX 77571. At 10:36 on 9/15/2026, a(n) Chemical, Odor incident occurred at our facility. At 10:37 on 9/15/2026 we are issuing the all clear for this incident.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 525f183c5992b6ead056d9a7f669ba97e1e6dcf5abcd20f92a94daccfdcc51a1
+Facility: Chemours La Porte
+Posted: 2026-09-15T10:22:00+00:00
+Retrieved: 2026-09-15T17:33:36.591163+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Incidents, Training/Drills
+First Seen: 2026-09-15T17:33:36.591163+00:00
+Last Seen: 2026-09-15T17:33:36.591163+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear *** DRILL *** This is a message from Chemours La Porte located at 12350 Strang Rd. La Porte,TX 77571. At 08:03 on 9/15/2026, a(n) Chemical incident occurred at our facility. At 10:21 on 9/15/2026 we are issuing the ALL CLEAR for this incident. The CIMA Drill is complete.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 2299be7bb41d37132e4b09c0daef7dd9f488e9bbbf789b9889bf98584d28c850
+Facility: ExxonMobil Baytown Complex
+Posted: 2026-09-15T09:18:00+00:00
+Retrieved: 2026-09-15T17:33:36.591163+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Flaring, Incidents
+First Seen: 2026-09-15T17:33:36.591163+00:00
+Last Seen: 2026-09-15T17:33:36.591163+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear This is a message from ExxonMobil Baytown Complex located at 5000 Bayway Drive Baytown,TX 77520. At 17:51 on 9/14/2026, a(n) unit startup resulting in flaring occurred at our facility. At 07:46 on 9/15/2026 we are issuing the all clear for this incident.
 ============================================================
