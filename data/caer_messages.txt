@@ -4,12 +4,12 @@ CAER MESSAGE
 Message ID: 9563349336ff1f4b95350858cb05ffea8d2ce6fcb6f70c9bdf3c1e19d1cee5f9
 Facility: Mitsubishi Chemical La Porte
 Posted: 2026-09-15T08:11:00+00:00
-Retrieved: 2026-09-15T17:33:36.384369+00:00
-Status: new
-Previously Seen: False
+Retrieved: 2026-09-15T21:02:10.700914+00:00
+Status: previous message still posted
+Previously Seen: True
 Category: Emergency Response, Facilities, Incidents, Training/Drills
 First Seen: 2026-09-15T17:33:36.384369+00:00
-Last Seen: 2026-09-15T17:33:36.388944+00:00
+Last Seen: 2026-09-15T21:02:10.705424+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -21,12 +21,12 @@ CAER MESSAGE
 Message ID: 5b9105eadfc3f921ac9f99b673b81e3daa40448f8bb9ef76cce3cdf59fac8ef1
 Facility: TPC Group - Houston
 Posted: 2026-09-14T20:15:00+00:00
-Retrieved: 2026-09-15T17:33:36.384369+00:00
+Retrieved: 2026-09-15T21:02:10.700914+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Smoke
 First Seen: 2026-09-15T01:44:45.698466+00:00
-Last Seen: 2026-09-15T17:33:36.388944+00:00
+Last Seen: 2026-09-15T21:02:10.705424+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -38,12 +38,12 @@ CAER MESSAGE
 Message ID: 61cf0653705c62de1cf4e8512e736f0a49b770af32300a01cbc1c69d92882946
 Facility: TPC Group - Houston
 Posted: 2026-09-14T20:15:00+00:00
-Retrieved: 2026-09-15T17:33:36.384369+00:00
+Retrieved: 2026-09-15T21:02:10.700914+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Smoke
 First Seen: 2026-09-15T01:44:45.698466+00:00
-Last Seen: 2026-09-15T17:33:36.388944+00:00
+Last Seen: 2026-09-15T21:02:10.705424+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -55,12 +55,12 @@ CAER MESSAGE
 Message ID: 08902c818a1ee491eeb7c452deef172eb222b9c9b9ffb480ec6962c0a6e43a54
 Facility: TPC Group - Houston
 Posted: 2026-09-14T16:24:00+00:00
-Retrieved: 2026-09-15T17:33:36.384369+00:00
+Retrieved: 2026-09-15T21:02:10.700914+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Smoke
 First Seen: 2026-09-14T23:22:31.087595+00:00
-Last Seen: 2026-09-15T17:33:36.388944+00:00
+Last Seen: 2026-09-15T21:02:10.705424+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -72,12 +72,12 @@ CAER MESSAGE
 Message ID: 4e385c681c4fb79d4555d76f56cf75b30f524fd4e7a1ef6240149294b5b0433b
 Facility: TPC Group - Houston
 Posted: 2026-09-14T14:59:00+00:00
-Retrieved: 2026-09-15T17:33:36.384369+00:00
+Retrieved: 2026-09-15T21:02:10.700914+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Incidents, Smoke
 First Seen: 2026-09-14T20:27:37.632389+00:00
-Last Seen: 2026-09-15T17:33:36.388944+00:00
+Last Seen: 2026-09-15T21:02:10.705424+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -89,12 +89,12 @@ CAER MESSAGE
 Message ID: 7983c05d04385dd0b336b993dda141fd0daab88fee3a991d19a517a0fbbae990
 Facility: TPC Group - Houston
 Posted: 2026-09-14T14:58:00+00:00
-Retrieved: 2026-09-15T17:33:36.384369+00:00
+Retrieved: 2026-09-15T21:02:10.700914+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Incidents, Smoke
 First Seen: 2026-09-14T20:27:37.632389+00:00
-Last Seen: 2026-09-15T17:33:36.388944+00:00
+Last Seen: 2026-09-15T21:02:10.705424+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -106,12 +106,12 @@ CAER MESSAGE
 Message ID: 4b41c86dd19651d31e35f7fa365b7e9112ae866579ad5e8a104f9356913bba89
 Facility: Pasadena Refinery
 Posted: 2026-09-14T11:22:00+00:00
-Retrieved: 2026-09-15T17:33:36.384369+00:00
+Retrieved: 2026-09-15T21:02:10.700914+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring
 First Seen: 2026-09-14T16:28:48.396636+00:00
-Last Seen: 2026-09-15T17:33:36.388944+00:00
+Last Seen: 2026-09-15T21:02:10.705424+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -1858,8 +1858,8 @@ Message ID: 24673e6efeefa74394531ea88307202d01d20c4e3c8d998f637a9d18288b6ca3
 Facility: Kuraray America La Porte
 Posted: 2026-09-15T10:37:00+00:00
 Retrieved: 2026-09-15T17:33:36.591163+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Facilities, Incidents, Odors, Training/Drills
 First Seen: 2026-09-15T17:33:36.591163+00:00
 Last Seen: 2026-09-15T17:33:36.591163+00:00
@@ -1875,8 +1875,8 @@ Message ID: 525f183c5992b6ead056d9a7f669ba97e1e6dcf5abcd20f92a94daccfdcc51a1
 Facility: Chemours La Porte
 Posted: 2026-09-15T10:22:00+00:00
 Retrieved: 2026-09-15T17:33:36.591163+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Facilities, Incidents, Training/Drills
 First Seen: 2026-09-15T17:33:36.591163+00:00
 Last Seen: 2026-09-15T17:33:36.591163+00:00
@@ -1892,8 +1892,8 @@ Message ID: 2299be7bb41d37132e4b09c0daef7dd9f488e9bbbf789b9889bf98584d28c850
 Facility: ExxonMobil Baytown Complex
 Posted: 2026-09-15T09:18:00+00:00
 Retrieved: 2026-09-15T17:33:36.591163+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Facilities, Flaring, Incidents
 First Seen: 2026-09-15T17:33:36.591163+00:00
 Last Seen: 2026-09-15T17:33:36.591163+00:00
