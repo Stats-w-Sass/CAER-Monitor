@@ -1,15 +1,49 @@
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: 0cd7715d5fd970d06bd5c7dd5c4a2c9fcb7998e644cd99344b7eaad8c5e694ff
+Facility: Chevron Phillips - Baytown
+Posted: 2026-09-17T14:02:00+00:00
+Retrieved: 2026-09-17T19:10:28.161342+00:00
+Status: new
+Previously Seen: False
+Category: Incidents, Training/Drills
+First Seen: 2026-09-17T19:10:28.161342+00:00
+Last Seen: 2026-09-17T19:10:28.163873+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+Clear This is a courtesy message from Chevron Phillips Chemical Company located at 9500 Interstate 10 East in Baytown, Texas. We are issuing an ALL CLEAR for the Fire Extinguisher Training.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: deaa1c1310d1ef3e6ff9ec2261dba50a8c6c903c9f998ea0d13bdfb5ed017120
+Facility: Chevron Phillips - Baytown
+Posted: 2026-09-17T13:20:00+00:00
+Retrieved: 2026-09-17T19:10:28.161342+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Incidents, Smoke, Training/Drills
+First Seen: 2026-09-17T19:10:28.161342+00:00
+Last Seen: 2026-09-17T19:10:28.163873+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is a courtesy message from Chevron Phillips Chemical Company located at 9500 Interstate 10 East in Baytown, Texas. Our facility will be conducting Fire Extinguisher Training today. Fire and/or smoke may be noticeable during this time. There is no expected impact to the community. An ALL CLEAR message will be posted upon completion of the training.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: 82fdf1d545cd210a6eb97942c673e1c180d35efb7be8004e79e297d1324c1928
 Facility: PEMEX Deer Park
 Posted: 2026-09-16T15:03:00+00:00
-Retrieved: 2026-09-17T15:11:15.089391+00:00
+Retrieved: 2026-09-17T19:10:28.161342+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-16T21:32:55.207931+00:00
-Last Seen: 2026-09-17T15:11:15.091805+00:00
+Last Seen: 2026-09-17T19:10:28.163873+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -21,12 +55,12 @@ CAER MESSAGE
 Message ID: 3bd438a2f6e3752782ca9d259792f1b289156368370a2cdec113f403ad3391a4
 Facility: PEMEX Deer Park
 Posted: 2026-09-15T18:31:00+00:00
-Retrieved: 2026-09-17T15:11:15.089391+00:00
+Retrieved: 2026-09-17T19:10:28.161342+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-15T23:35:40.675453+00:00
-Last Seen: 2026-09-17T15:11:15.091805+00:00
+Last Seen: 2026-09-17T19:10:28.163873+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -38,12 +72,12 @@ CAER MESSAGE
 Message ID: 4b41c86dd19651d31e35f7fa365b7e9112ae866579ad5e8a104f9356913bba89
 Facility: Pasadena Refinery
 Posted: 2026-09-14T11:22:00+00:00
-Retrieved: 2026-09-17T15:11:15.089391+00:00
+Retrieved: 2026-09-17T19:10:28.161342+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring
 First Seen: 2026-09-14T16:28:48.396636+00:00
-Last Seen: 2026-09-17T15:11:15.091805+00:00
+Last Seen: 2026-09-17T19:10:28.163873+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -1977,8 +2011,8 @@ Message ID: fc43827d52c182bcf15a5bd415badfffa12554704e8032e5e77313775cbd71f9
 Facility: American Acryl
 Posted: 2026-09-17T08:40:00+00:00
 Retrieved: 2026-09-17T15:11:15.254957+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Training/Drills
 First Seen: 2026-09-17T15:11:15.254957+00:00
 Last Seen: 2026-09-17T15:11:15.254957+00:00
@@ -1986,4 +2020,21 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 ------------------------------------------------------------
 Message:
 Clear All Clear-This is a message from American Acryl located at 4631 Old Hwy 146, Pasadena, TX 77507. We have concluded the routine accountability drill.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 787cb1ee8fdfb2826e640829166eb92594d1f8ca4ada3c7bf5b64454836a32e2
+Facility: LyondellBasell Bayport Polymers
+Posted: 2026-09-17T11:29:00+00:00
+Retrieved: 2026-09-17T19:10:28.346578+00:00
+Status: new
+Previously Seen: False
+Category: Facilities
+First Seen: 2026-09-17T19:10:28.346578+00:00
+Last Seen: 2026-09-17T19:10:28.346578+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear An earlier event at the LyondellBasell Bayport Polymers site, 12001 Bay Area Blvd., Pasadena, TX. 77507 is All Clear. Questions can be directed to askbayport@lyb.com. Un evento anterior en complejo de LyondellBasell Bayport Polymers site, ubicado en 12001 Bay Area Blvd., Pasadena, TX. 77507 estÃÂ¡ todo claro. Se pueden enviar preguntas a askbayport@lyb.com.
 ============================================================
