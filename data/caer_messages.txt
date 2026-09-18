@@ -4,12 +4,12 @@ CAER MESSAGE
 Message ID: 69205e28fe897fc942305552c3f37d3bed211d202a1bb1bedd08001dc9b72ac8
 Facility: PEMEX Deer Park
 Posted: 2026-09-17T15:40:00+00:00
-Retrieved: 2026-09-18T10:52:02.314015+00:00
+Retrieved: 2026-09-18T14:51:06.347590+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-17T22:21:15.845273+00:00
-Last Seen: 2026-09-18T10:52:02.316872+00:00
+Last Seen: 2026-09-18T14:51:06.350203+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -21,12 +21,12 @@ CAER MESSAGE
 Message ID: 82fdf1d545cd210a6eb97942c673e1c180d35efb7be8004e79e297d1324c1928
 Facility: PEMEX Deer Park
 Posted: 2026-09-16T15:03:00+00:00
-Retrieved: 2026-09-18T10:52:02.314015+00:00
+Retrieved: 2026-09-18T14:51:06.347590+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-16T21:32:55.207931+00:00
-Last Seen: 2026-09-18T10:52:02.316872+00:00
+Last Seen: 2026-09-18T14:51:06.350203+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -38,12 +38,12 @@ CAER MESSAGE
 Message ID: 3bd438a2f6e3752782ca9d259792f1b289156368370a2cdec113f403ad3391a4
 Facility: PEMEX Deer Park
 Posted: 2026-09-15T18:31:00+00:00
-Retrieved: 2026-09-18T10:52:02.314015+00:00
+Retrieved: 2026-09-18T14:51:06.347590+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-15T23:35:40.675453+00:00
-Last Seen: 2026-09-18T10:52:02.316872+00:00
+Last Seen: 2026-09-18T14:51:06.350203+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -55,12 +55,12 @@ CAER MESSAGE
 Message ID: 4b41c86dd19651d31e35f7fa365b7e9112ae866579ad5e8a104f9356913bba89
 Facility: Pasadena Refinery
 Posted: 2026-09-14T11:22:00+00:00
-Retrieved: 2026-09-18T10:52:02.314015+00:00
+Retrieved: 2026-09-18T14:51:06.347590+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring
 First Seen: 2026-09-14T16:28:48.396636+00:00
-Last Seen: 2026-09-18T10:52:02.316872+00:00
+Last Seen: 2026-09-18T14:51:06.350203+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -2054,4 +2054,21 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 ------------------------------------------------------------
 Message:
 Clear An earlier event at the LyondellBasell Bayport Polymers site, 12001 Bay Area Blvd., Pasadena, TX. 77507 is All Clear. Questions can be directed to askbayport@lyb.com. Un evento anterior en complejo de LyondellBasell Bayport Polymers site, ubicado en 12001 Bay Area Blvd., Pasadena, TX. 77507 estÃÂ¡ todo claro. Se pueden enviar preguntas a askbayport@lyb.com.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 86697c3bc0ffe1210f8dfe4eeb9f92bb80d260fd55b069ff9ee3b0a8dd7c39aa
+Facility: LyondellBasell LaPorte
+Posted: 2026-09-18T08:30:00+00:00
+Retrieved: 2026-09-18T14:51:06.629948+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Training/Drills
+First Seen: 2026-09-18T14:51:06.629948+00:00
+Last Seen: 2026-09-18T14:51:06.629948+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear *** DRILL *** This is a message from LyondellBasell LaPorte located at 1515 Miller Cut-Off Road La Porte,TX 77571. At 07:30 on 9/18/2026, a planned training/drill occurred at our facility. At 08:30 on 9/18/2026 we are issuing the all clear for this drill/training.
 ============================================================
