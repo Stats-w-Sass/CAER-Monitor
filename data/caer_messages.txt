@@ -4,12 +4,12 @@ CAER MESSAGE
 Message ID: 38ff7203f143f1ad2a68ccc7e5daa552e60ded5a95ca02c12fd97bfe1b1eb35b
 Facility: PEMEX Deer Park
 Posted: 2026-09-21T08:28:00+00:00
-Retrieved: 2026-09-21T19:09:41.451136+00:00
+Retrieved: 2026-09-21T22:44:02.275945+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-21T13:53:31.560099+00:00
-Last Seen: 2026-09-21T19:09:41.454388+00:00
+Last Seen: 2026-09-21T22:44:02.279162+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -21,12 +21,12 @@ CAER MESSAGE
 Message ID: 8156f96ada0a7a02d48cde55c6e8f5ec2d814ada20badf6ae2f4d26a12d0aade
 Facility: PEMEX Deer Park
 Posted: 2026-09-20T09:15:00+00:00
-Retrieved: 2026-09-21T19:09:41.451136+00:00
+Retrieved: 2026-09-21T22:44:02.275945+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-20T16:22:58.555661+00:00
-Last Seen: 2026-09-21T19:09:41.454388+00:00
+Last Seen: 2026-09-21T22:44:02.279162+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -38,12 +38,12 @@ CAER MESSAGE
 Message ID: 4f0a5c55ee6f72141f00145da08b8c0b80833cd8e96b9e096df575da633a0fb6
 Facility: PEMEX Deer Park
 Posted: 2026-09-19T11:36:00+00:00
-Retrieved: 2026-09-21T19:09:41.451136+00:00
+Retrieved: 2026-09-21T22:44:02.275945+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-19T18:43:35.114182+00:00
-Last Seen: 2026-09-21T19:09:41.454388+00:00
+Last Seen: 2026-09-21T22:44:02.279162+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -55,12 +55,12 @@ CAER MESSAGE
 Message ID: 827234594dace883b2f2e049994654419fbd65c7b0efdda7af9b0eda2f7a3cb5
 Facility: PEMEX Deer Park
 Posted: 2026-09-18T14:37:00+00:00
-Retrieved: 2026-09-21T19:09:41.451136+00:00
+Retrieved: 2026-09-21T22:44:02.275945+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-18T21:07:33.744219+00:00
-Last Seen: 2026-09-21T19:09:41.454388+00:00
+Last Seen: 2026-09-21T22:44:02.279162+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -72,12 +72,12 @@ CAER MESSAGE
 Message ID: 69205e28fe897fc942305552c3f37d3bed211d202a1bb1bedd08001dc9b72ac8
 Facility: PEMEX Deer Park
 Posted: 2026-09-17T15:40:00+00:00
-Retrieved: 2026-09-21T19:09:41.451136+00:00
+Retrieved: 2026-09-21T22:44:02.275945+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-17T22:21:15.845273+00:00
-Last Seen: 2026-09-21T19:09:41.454388+00:00
+Last Seen: 2026-09-21T22:44:02.279162+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -89,12 +89,12 @@ CAER MESSAGE
 Message ID: 82fdf1d545cd210a6eb97942c673e1c180d35efb7be8004e79e297d1324c1928
 Facility: PEMEX Deer Park
 Posted: 2026-09-16T15:03:00+00:00
-Retrieved: 2026-09-21T19:09:41.451136+00:00
+Retrieved: 2026-09-21T22:44:02.275945+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-16T21:32:55.207931+00:00
-Last Seen: 2026-09-21T19:09:41.454388+00:00
+Last Seen: 2026-09-21T22:44:02.279162+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -106,12 +106,12 @@ CAER MESSAGE
 Message ID: 3bd438a2f6e3752782ca9d259792f1b289156368370a2cdec113f403ad3391a4
 Facility: PEMEX Deer Park
 Posted: 2026-09-15T18:31:00+00:00
-Retrieved: 2026-09-21T19:09:41.451136+00:00
+Retrieved: 2026-09-21T22:44:02.275945+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-15T23:35:40.675453+00:00
-Last Seen: 2026-09-21T19:09:41.454388+00:00
+Last Seen: 2026-09-21T22:44:02.279162+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -2164,8 +2164,8 @@ Message ID: a8f69fa8ebbf5524aeb2ae1af86129b74956e20aeb37c302f1b780a35da6f1b3
 Facility: Braskem La Porte Site
 Posted: 2026-09-21T09:14:00+00:00
 Retrieved: 2026-09-21T19:09:41.654229+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Facilities, Incidents
 First Seen: 2026-09-21T19:09:41.654229+00:00
 Last Seen: 2026-09-21T19:09:41.654229+00:00
@@ -2181,8 +2181,8 @@ Message ID: df468448e7cb760c811045b586178bf6ba7ca4f7517d40ddf6c10d81aaea32a6
 Facility: Braskem La Porte Site
 Posted: 2026-09-21T09:10:00+00:00
 Retrieved: 2026-09-21T19:09:41.654229+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Facilities, Incidents
 First Seen: 2026-09-21T19:09:41.654229+00:00
 Last Seen: 2026-09-21T19:09:41.654229+00:00
@@ -2190,4 +2190,38 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 ------------------------------------------------------------
 Message:
 Clear This is a message from Braskem La Porte Site located at 8811 Strang Road La Porte,TX 77571. At 11:15 on 7/21/2026, an alarm occurred at our facility. At 09:09 on 9/21/2026 we are issuing the all clear for this incident.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 8d254eedd289b61935b3e94fdc3735c651929ec7820644e08ffe52f06a2ef37f
+Facility: Kuraray America La Porte
+Posted: 2026-09-21T13:23:00+00:00
+Retrieved: 2026-09-21T22:44:02.440530+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Incidents, Training/Drills
+First Seen: 2026-09-21T22:44:02.440530+00:00
+Last Seen: 2026-09-21T22:44:02.440530+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear *** DRILL *** This is a message from Kuraray America La Porte located at 12342 Strang Rd. La Porte,TX 77571. At 12:15 on 9/21/2026, a(n) Plant weekly alarm. At 13:22 on 9/21/2026 we are issuing all clear for this incident.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 8d254eedd289b61935b3e94fdc3735c651929ec7820644e08ffe52f06a2ef37f
+Facility: Kuraray America La Porte
+Posted: 2026-09-21T13:23:00+00:00
+Retrieved: 2026-09-21T22:44:02.440530+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Incidents, Training/Drills
+First Seen: 2026-09-21T22:44:02.440530+00:00
+Last Seen: 2026-09-21T22:44:02.440530+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear *** DRILL *** This is a message from Kuraray America La Porte located at 12342 Strang Rd. La Porte,TX 77571. At 12:15 on 9/21/2026, a(n) Plant weekly alarm. At 13:22 on 9/21/2026 we are issuing all clear for this incident.
 ============================================================
