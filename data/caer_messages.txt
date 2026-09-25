@@ -4,12 +4,12 @@ CAER MESSAGE
 Message ID: a051dc964593bd8e6a63b3bea97c789710be4649ebd606b6c777a62714eab374
 Facility: INEOS Styrolution - Port Rd.
 Posted: 2026-09-24T16:55:00+00:00
-Retrieved: 2026-09-24T23:18:28.768924+00:00
-Status: new
-Previously Seen: False
+Retrieved: 2026-09-25T01:44:46.497467+00:00
+Status: previous message still posted
+Previously Seen: True
 Category: Facilities, Flaring
 First Seen: 2026-09-24T23:18:28.768924+00:00
-Last Seen: 2026-09-24T23:18:28.773293+00:00
+Last Seen: 2026-09-25T01:44:46.499983+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -21,12 +21,12 @@ CAER MESSAGE
 Message ID: 2162d20a084d2dfcf8d5695853e1e5cca12e0de3dc354baeb9c70fc35f9c7895
 Facility: PEMEX Deer Park
 Posted: 2026-09-24T09:30:00+00:00
-Retrieved: 2026-09-24T23:18:28.768924+00:00
+Retrieved: 2026-09-25T01:44:46.497467+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-24T16:49:08.306021+00:00
-Last Seen: 2026-09-24T23:18:28.773293+00:00
+Last Seen: 2026-09-25T01:44:46.499983+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -38,12 +38,12 @@ CAER MESSAGE
 Message ID: 4f05e7e8652af4572802feb342e39cad141cbc3855d7eb92f687b2ee893783e0
 Facility: PEMEX Deer Park
 Posted: 2026-09-23T08:58:00+00:00
-Retrieved: 2026-09-24T23:18:28.768924+00:00
+Retrieved: 2026-09-25T01:44:46.497467+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-23T14:20:22.921854+00:00
-Last Seen: 2026-09-24T23:18:28.773293+00:00
+Last Seen: 2026-09-25T01:44:46.499983+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -55,12 +55,12 @@ CAER MESSAGE
 Message ID: e115f8a7780824110fdad43b2d3c3b918294b3fb3e28782c12ec460b8fa5bb13
 Facility: PEMEX Deer Park
 Posted: 2026-09-22T09:04:00+00:00
-Retrieved: 2026-09-24T23:18:28.768924+00:00
+Retrieved: 2026-09-25T01:44:46.497467+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-22T17:42:00.881772+00:00
-Last Seen: 2026-09-24T23:18:28.773293+00:00
+Last Seen: 2026-09-25T01:44:46.499983+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -72,12 +72,12 @@ CAER MESSAGE
 Message ID: 38ff7203f143f1ad2a68ccc7e5daa552e60ded5a95ca02c12fd97bfe1b1eb35b
 Facility: PEMEX Deer Park
 Posted: 2026-09-21T08:28:00+00:00
-Retrieved: 2026-09-24T23:18:28.768924+00:00
+Retrieved: 2026-09-25T01:44:46.497467+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-21T13:53:31.560099+00:00
-Last Seen: 2026-09-24T23:18:28.773293+00:00
+Last Seen: 2026-09-25T01:44:46.499983+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -89,12 +89,12 @@ CAER MESSAGE
 Message ID: 8156f96ada0a7a02d48cde55c6e8f5ec2d814ada20badf6ae2f4d26a12d0aade
 Facility: PEMEX Deer Park
 Posted: 2026-09-20T09:15:00+00:00
-Retrieved: 2026-09-24T23:18:28.768924+00:00
+Retrieved: 2026-09-25T01:44:46.497467+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-20T16:22:58.555661+00:00
-Last Seen: 2026-09-24T23:18:28.773293+00:00
+Last Seen: 2026-09-25T01:44:46.499983+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -106,12 +106,12 @@ CAER MESSAGE
 Message ID: 4f0a5c55ee6f72141f00145da08b8c0b80833cd8e96b9e096df575da633a0fb6
 Facility: PEMEX Deer Park
 Posted: 2026-09-19T11:36:00+00:00
-Retrieved: 2026-09-24T23:18:28.768924+00:00
+Retrieved: 2026-09-25T01:44:46.497467+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-19T18:43:35.114182+00:00
-Last Seen: 2026-09-24T23:18:28.773293+00:00
+Last Seen: 2026-09-25T01:44:46.499983+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -123,12 +123,12 @@ CAER MESSAGE
 Message ID: 827234594dace883b2f2e049994654419fbd65c7b0efdda7af9b0eda2f7a3cb5
 Facility: PEMEX Deer Park
 Posted: 2026-09-18T14:37:00+00:00
-Retrieved: 2026-09-24T23:18:28.768924+00:00
+Retrieved: 2026-09-25T01:44:46.497467+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-18T21:07:33.744219+00:00
-Last Seen: 2026-09-24T23:18:28.773293+00:00
+Last Seen: 2026-09-25T01:44:46.499983+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -140,12 +140,12 @@ CAER MESSAGE
 Message ID: 25a101c270bc9e59091b2f834cd5e66ce80b9c0f4fc701c7beb4d07e1d81c1f2
 Facility: TPC Group - Houston
 Posted: 2026-09-23T19:14:00+00:00
-Retrieved: 2026-09-24T23:18:28.768924+00:00
+Retrieved: 2026-09-25T01:44:46.497467+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Noise
 First Seen: 2026-09-24T00:44:30.934642+00:00
-Last Seen: 2026-09-24T23:18:28.773293+00:00
+Last Seen: 2026-09-25T01:44:46.499983+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -157,12 +157,12 @@ CAER MESSAGE
 Message ID: fbdd87cce24f159a6cd597ff66383abce2e6023893eb19d7b775ed316db8866d
 Facility: Shell Chemical Company - Deer Park
 Posted: 2026-09-22T20:43:00+00:00
-Retrieved: 2026-09-24T23:18:28.768924+00:00
+Retrieved: 2026-09-25T01:44:46.497467+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring
 First Seen: 2026-09-23T04:03:43.090638+00:00
-Last Seen: 2026-09-24T23:18:28.773293+00:00
+Last Seen: 2026-09-25T01:44:46.499983+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -174,12 +174,12 @@ CAER MESSAGE
 Message ID: 7fe83130e8bd3072cff45923458281efd9c6eaf8188ee55baec72547438c354d
 Facility: Shell Chemical Company - Deer Park
 Posted: 2026-09-22T14:19:00+00:00
-Retrieved: 2026-09-24T23:18:28.768924+00:00
+Retrieved: 2026-09-25T01:44:46.497467+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-22T21:03:31.176851+00:00
-Last Seen: 2026-09-24T23:18:28.773293+00:00
+Last Seen: 2026-09-25T01:44:46.499983+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
