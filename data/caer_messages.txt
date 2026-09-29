@@ -1,32 +1,15 @@
 ============================================================
 CAER MESSAGE
 ============================================================
-Message ID: 3da43e6a274f08e30ee7d729808dada594560c43e623db71bdea80f01307e728
-Facility: Braskem La Porte Site
-Posted: 2026-09-28T08:13:00+00:00
-Retrieved: 2026-09-28T21:42:11.416711+00:00
-Status: previous message still posted
-Previously Seen: True
-Category: Facilities, Flaring
-First Seen: 2026-09-28T15:46:59.801005+00:00
-Last Seen: 2026-09-28T21:42:11.420529+00:00
-Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
-------------------------------------------------------------
-Message:
-This is a message from Braskem La Porte Site located at 8811 Strang Road La Porte,TX 77571. At 08:10 on 9/28/2026, Chevron will be utilizing a temporary ground flare on the road leading to Area 51 to complete prover work. At this time, Flaring may be noticeable to the community. Stay tuned to local officials for more information. Update will be provided on this site, when needed.
-============================================================
-============================================================
-CAER MESSAGE
-============================================================
 Message ID: af77890f2e49bd210a17cf454201cd9af9ac26d51192183f9074c534843b1b5e
 Facility: Baystar
 Posted: 2026-09-26T23:47:00+00:00
-Retrieved: 2026-09-28T21:42:11.416711+00:00
+Retrieved: 2026-09-29T01:37:15.346070+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise
 First Seen: 2026-09-27T10:25:09.748594+00:00
-Last Seen: 2026-09-28T21:42:11.420529+00:00
+Last Seen: 2026-09-29T01:37:15.348819+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -38,12 +21,12 @@ CAER MESSAGE
 Message ID: 2162d20a084d2dfcf8d5695853e1e5cca12e0de3dc354baeb9c70fc35f9c7895
 Facility: PEMEX Deer Park
 Posted: 2026-09-24T09:30:00+00:00
-Retrieved: 2026-09-28T21:42:11.416711+00:00
+Retrieved: 2026-09-29T01:37:15.346070+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-24T16:49:08.306021+00:00
-Last Seen: 2026-09-28T21:42:11.420529+00:00
+Last Seen: 2026-09-29T01:37:15.348819+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -55,12 +38,12 @@ CAER MESSAGE
 Message ID: 4f05e7e8652af4572802feb342e39cad141cbc3855d7eb92f687b2ee893783e0
 Facility: PEMEX Deer Park
 Posted: 2026-09-23T08:58:00+00:00
-Retrieved: 2026-09-28T21:42:11.416711+00:00
+Retrieved: 2026-09-29T01:37:15.346070+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-23T14:20:22.921854+00:00
-Last Seen: 2026-09-28T21:42:11.420529+00:00
+Last Seen: 2026-09-29T01:37:15.348819+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -72,12 +55,12 @@ CAER MESSAGE
 Message ID: e115f8a7780824110fdad43b2d3c3b918294b3fb3e28782c12ec460b8fa5bb13
 Facility: PEMEX Deer Park
 Posted: 2026-09-22T09:04:00+00:00
-Retrieved: 2026-09-28T21:42:11.416711+00:00
+Retrieved: 2026-09-29T01:37:15.346070+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-22T17:42:00.881772+00:00
-Last Seen: 2026-09-28T21:42:11.420529+00:00
+Last Seen: 2026-09-29T01:37:15.348819+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -89,12 +72,12 @@ CAER MESSAGE
 Message ID: fbdd87cce24f159a6cd597ff66383abce2e6023893eb19d7b775ed316db8866d
 Facility: Shell Chemical Company - Deer Park
 Posted: 2026-09-22T20:43:00+00:00
-Retrieved: 2026-09-28T21:42:11.416711+00:00
+Retrieved: 2026-09-29T01:37:15.346070+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring
 First Seen: 2026-09-23T04:03:43.090638+00:00
-Last Seen: 2026-09-28T21:42:11.420529+00:00
+Last Seen: 2026-09-29T01:37:15.348819+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -106,16 +89,33 @@ CAER MESSAGE
 Message ID: 7fe83130e8bd3072cff45923458281efd9c6eaf8188ee55baec72547438c354d
 Facility: Shell Chemical Company - Deer Park
 Posted: 2026-09-22T14:19:00+00:00
-Retrieved: 2026-09-28T21:42:11.416711+00:00
+Retrieved: 2026-09-29T01:37:15.346070+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-22T21:03:31.176851+00:00
-Last Seen: 2026-09-28T21:42:11.420529+00:00
+Last Seen: 2026-09-29T01:37:15.348819+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
 This is the Environmental Duty Representative at Shell Deer Park. We are performing work activities resulting in flaring. We are taking steps to minimize any noise, light, or smoke associated with this flaring activity. There is no threat to the community or our industry neighbors. We apologize for any inconvenience our flaring activity might cause our neighbors.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 3da43e6a274f08e30ee7d729808dada594560c43e623db71bdea80f01307e728
+Facility: Braskem La Porte Site
+Posted: 2026-09-28T08:13:00+00:00
+Retrieved: 2026-09-28T21:42:11.416711+00:00
+Status: cleared
+Previously Seen: True
+Category: Facilities, Flaring
+First Seen: 2026-09-28T15:46:59.801005+00:00
+Last Seen: 2026-09-28T21:42:11.420529+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is a message from Braskem La Porte Site located at 8811 Strang Road La Porte,TX 77571. At 08:10 on 9/28/2026, Chevron will be utilizing a temporary ground flare on the road leading to Area 51 to complete prover work. At this time, Flaring may be noticeable to the community. Stay tuned to local officials for more information. Update will be provided on this site, when needed.
 ============================================================
 ============================================================
 CAER MESSAGE
@@ -2623,8 +2623,8 @@ Message ID: 05c92d14683e106d7c295617c4595a4d5e8c74dfeaddd37839aba6db80593faf
 Facility: Pasadena Refinery
 Posted: 2026-09-28T14:18:00+00:00
 Retrieved: 2026-09-28T21:42:11.667144+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Facilities, Incidents, Training/Drills
 First Seen: 2026-09-28T21:42:11.667144+00:00
 Last Seen: 2026-09-28T21:42:11.667144+00:00
@@ -2640,8 +2640,8 @@ Message ID: f1fd86032749ec1d6892aef843a0f2da2d70332d216d03ad257f8c6577e1bf00
 Facility: Kuraray America Septon
 Posted: 2026-09-28T13:50:00+00:00
 Retrieved: 2026-09-28T21:42:11.667144+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Facilities, Incidents, Training/Drills
 First Seen: 2026-09-28T21:42:11.667144+00:00
 Last Seen: 2026-09-28T21:42:11.667144+00:00
@@ -2657,8 +2657,8 @@ Message ID: 64b899c269c8f5f6b4ff3b822f07a2b3abba456124c264fdafeacce68b1ae319
 Facility: Kuraray America La Porte
 Posted: 2026-09-28T12:33:00+00:00
 Retrieved: 2026-09-28T21:42:11.667144+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Emergency Response, Facilities, Training/Drills
 First Seen: 2026-09-28T21:42:11.667144+00:00
 Last Seen: 2026-09-28T21:42:11.667144+00:00
@@ -2666,4 +2666,21 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 ------------------------------------------------------------
 Message:
 Clear *** DRILL *** This is a message from Kuraray America La Porte located at 12342 Strang Rd. La Porte,TX 77571. At 12:15 on 9/28/2026, an emergency alarm drill was conducted at our facility. At 12:31 on 9/28/2026 we are issuing the all clear for this emergency alarm drill.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 2c3f7a0972733c219cd0a6079e43417e207e26286c87bde3468ac9eaa77f9069
+Facility: Braskem La Porte Site
+Posted: 2026-09-28T18:02:00+00:00
+Retrieved: 2026-09-29T01:37:15.547032+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Pipelines
+First Seen: 2026-09-29T01:37:15.547032+00:00
+Last Seen: 2026-09-29T01:37:15.547032+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear This is a message from Braskem La Porte Site located at 8811 Strang Road La Porte,TX 77571. The pipeline work is completed.
 ============================================================
