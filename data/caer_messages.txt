@@ -1,32 +1,15 @@
 ============================================================
 CAER MESSAGE
 ============================================================
-Message ID: a85911652680940cc97814963ddf9820e58b3e38c3520a0ef5620934c0e5e9b3
-Facility: INEOS Styrolution - Port Rd.
-Posted: 2026-09-30T11:06:00+00:00
-Retrieved: 2026-09-30T16:55:38.740296+00:00
-Status: new
-Previously Seen: False
-Category: Facilities
-First Seen: 2026-09-30T16:55:38.740296+00:00
-Last Seen: 2026-09-30T16:55:38.743181+00:00
-Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
-------------------------------------------------------------
-Message:
-This is the INEOS Styrolution EBSM and ASA Plant located at 12222 Port Road in Pasadena Texas we will be conducting the weekly plant alarm testing at noon. We apologize for any inconvenience this may cause. If you need additional information, please call 281-474-1054.
-============================================================
-============================================================
-CAER MESSAGE
-============================================================
 Message ID: af77890f2e49bd210a17cf454201cd9af9ac26d51192183f9074c534843b1b5e
 Facility: Baystar
 Posted: 2026-09-26T23:47:00+00:00
-Retrieved: 2026-09-30T16:55:38.740296+00:00
+Retrieved: 2026-09-30T21:19:30.853955+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise
 First Seen: 2026-09-27T10:25:09.748594+00:00
-Last Seen: 2026-09-30T16:55:38.743181+00:00
+Last Seen: 2026-09-30T21:19:30.856277+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -38,16 +21,33 @@ CAER MESSAGE
 Message ID: 2162d20a084d2dfcf8d5695853e1e5cca12e0de3dc354baeb9c70fc35f9c7895
 Facility: PEMEX Deer Park
 Posted: 2026-09-24T09:30:00+00:00
-Retrieved: 2026-09-30T16:55:38.740296+00:00
+Retrieved: 2026-09-30T21:19:30.853955+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-24T16:49:08.306021+00:00
-Last Seen: 2026-09-30T16:55:38.743181+00:00
+Last Seen: 2026-09-30T21:19:30.856277+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: a85911652680940cc97814963ddf9820e58b3e38c3520a0ef5620934c0e5e9b3
+Facility: INEOS Styrolution - Port Rd.
+Posted: 2026-09-30T11:06:00+00:00
+Retrieved: 2026-09-30T16:55:38.740296+00:00
+Status: cleared
+Previously Seen: True
+Category: Facilities
+First Seen: 2026-09-30T16:55:38.740296+00:00
+Last Seen: 2026-09-30T16:55:38.743181+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is the INEOS Styrolution EBSM and ASA Plant located at 12222 Port Road in Pasadena Texas we will be conducting the weekly plant alarm testing at noon. We apologize for any inconvenience this may cause. If you need additional information, please call 281-474-1054.
 ============================================================
 ============================================================
 CAER MESSAGE
@@ -2717,4 +2717,21 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 ------------------------------------------------------------
 Message:
 Clear *** DRILL *** This is a message from Zeon Chemicals located at 11235 Choate Rd. Pasadena,TX 77507. At 10:10 on 9/29/2026, a(n) Chemical incident occurred at our facility. At 10:35 on 9/29/2026 we are issuing the all clear for this incident.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 8479f7fb0aafed5c94384ce5a19e2f0cf191f170693b2af092f37e7fb5630c7f
+Facility: INEOS Styrolution - Port Rd.
+Posted: 2026-09-30T12:13:00+00:00
+Retrieved: 2026-09-30T21:19:30.991211+00:00
+Status: new
+Previously Seen: False
+Category: 
+First Seen: 2026-09-30T21:19:30.991211+00:00
+Last Seen: 2026-09-30T21:19:30.991211+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear All clear on the weekly alarms
 ============================================================
