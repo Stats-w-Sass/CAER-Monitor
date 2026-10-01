@@ -4,12 +4,12 @@ CAER MESSAGE
 Message ID: af77890f2e49bd210a17cf454201cd9af9ac26d51192183f9074c534843b1b5e
 Facility: Baystar
 Posted: 2026-09-26T23:47:00+00:00
-Retrieved: 2026-09-30T21:19:30.853955+00:00
+Retrieved: 2026-10-01T00:42:31.778820+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise
 First Seen: 2026-09-27T10:25:09.748594+00:00
-Last Seen: 2026-09-30T21:19:30.856277+00:00
+Last Seen: 2026-10-01T00:42:31.780147+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -21,12 +21,12 @@ CAER MESSAGE
 Message ID: 2162d20a084d2dfcf8d5695853e1e5cca12e0de3dc354baeb9c70fc35f9c7895
 Facility: PEMEX Deer Park
 Posted: 2026-09-24T09:30:00+00:00
-Retrieved: 2026-09-30T21:19:30.853955+00:00
+Retrieved: 2026-10-01T00:42:31.778820+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-24T16:49:08.306021+00:00
-Last Seen: 2026-09-30T21:19:30.856277+00:00
+Last Seen: 2026-10-01T00:42:31.780147+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -2725,8 +2725,8 @@ Message ID: 8479f7fb0aafed5c94384ce5a19e2f0cf191f170693b2af092f37e7fb5630c7f
 Facility: INEOS Styrolution - Port Rd.
 Posted: 2026-09-30T12:13:00+00:00
 Retrieved: 2026-09-30T21:19:30.991211+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: 
 First Seen: 2026-09-30T21:19:30.991211+00:00
 Last Seen: 2026-09-30T21:19:30.991211+00:00
