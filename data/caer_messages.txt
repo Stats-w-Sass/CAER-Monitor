@@ -1,15 +1,49 @@
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: f418fa649c25f16a0e24f7d3d171bbfd773a06d1d1beece33522e240b6d20577
+Facility: PEMEX Deer Park
+Posted: 2026-10-01T07:04:00+00:00
+Retrieved: 2026-10-01T14:40:47.370596+00:00
+Status: new
+Previously Seen: False
+Category: Flaring, Noise, Smoke
+First Seen: 2026-10-01T14:40:47.370596+00:00
+Last Seen: 2026-10-01T14:40:47.374083+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: ea6c2dc58e13287a8805cff192d206deaa37da158c81263d69bf153402d75100
+Facility: OxyChem - Pasadena PVC
+Posted: 2026-10-01T07:00:00+00:00
+Retrieved: 2026-10-01T14:40:47.370596+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Flaring, Noise, Pipelines
+First Seen: 2026-10-01T14:40:47.370596+00:00
+Last Seen: 2026-10-01T14:40:47.374083+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is a courtesy message from OxyChem - Pasadena PVC located at 4403 Pasadena Freeway Pasadena,TX 77503 that a temporary flare is being used by the pipeline company Koch Industries during planned pipeline maintenance activities inside our facility. Light and/or noise may be noticeable during periods of intermittent flaring. There is no off-site impact and no action required by the community.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: af77890f2e49bd210a17cf454201cd9af9ac26d51192183f9074c534843b1b5e
 Facility: Baystar
 Posted: 2026-09-26T23:47:00+00:00
-Retrieved: 2026-10-01T07:00:32.283901+00:00
+Retrieved: 2026-10-01T14:40:47.370596+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise
 First Seen: 2026-09-27T10:25:09.748594+00:00
-Last Seen: 2026-10-01T07:00:32.285992+00:00
+Last Seen: 2026-10-01T14:40:47.374083+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -22,7 +56,7 @@ Message ID: 2162d20a084d2dfcf8d5695853e1e5cca12e0de3dc354baeb9c70fc35f9c7895
 Facility: PEMEX Deer Park
 Posted: 2026-09-24T09:30:00+00:00
 Retrieved: 2026-10-01T07:00:32.283901+00:00
-Status: previous message still posted
+Status: cleared
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-09-24T16:49:08.306021+00:00
