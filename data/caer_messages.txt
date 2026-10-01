@@ -4,12 +4,12 @@ CAER MESSAGE
 Message ID: f418fa649c25f16a0e24f7d3d171bbfd773a06d1d1beece33522e240b6d20577
 Facility: PEMEX Deer Park
 Posted: 2026-10-01T07:04:00+00:00
-Retrieved: 2026-10-01T14:40:47.370596+00:00
-Status: new
-Previously Seen: False
+Retrieved: 2026-10-01T20:13:03.241234+00:00
+Status: previous message still posted
+Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-10-01T14:40:47.370596+00:00
-Last Seen: 2026-10-01T14:40:47.374083+00:00
+Last Seen: 2026-10-01T20:13:03.243083+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -21,12 +21,12 @@ CAER MESSAGE
 Message ID: ea6c2dc58e13287a8805cff192d206deaa37da158c81263d69bf153402d75100
 Facility: OxyChem - Pasadena PVC
 Posted: 2026-10-01T07:00:00+00:00
-Retrieved: 2026-10-01T14:40:47.370596+00:00
-Status: new
-Previously Seen: False
+Retrieved: 2026-10-01T20:13:03.241234+00:00
+Status: previous message still posted
+Previously Seen: True
 Category: Facilities, Flaring, Noise, Pipelines
 First Seen: 2026-10-01T14:40:47.370596+00:00
-Last Seen: 2026-10-01T14:40:47.374083+00:00
+Last Seen: 2026-10-01T20:13:03.243083+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -38,12 +38,12 @@ CAER MESSAGE
 Message ID: af77890f2e49bd210a17cf454201cd9af9ac26d51192183f9074c534843b1b5e
 Facility: Baystar
 Posted: 2026-09-26T23:47:00+00:00
-Retrieved: 2026-10-01T14:40:47.370596+00:00
+Retrieved: 2026-10-01T20:13:03.241234+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise
 First Seen: 2026-09-27T10:25:09.748594+00:00
-Last Seen: 2026-10-01T14:40:47.374083+00:00
+Last Seen: 2026-10-01T20:13:03.243083+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -2768,4 +2768,21 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 ------------------------------------------------------------
 Message:
 Clear All clear on the weekly alarms
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 23505eae863b1bbeb448700fc4dd232dbd3e45a956ae990a0e5c07d097ec03a1
+Facility: Chevron Phillips Pasadena
+Posted: 2026-10-01T09:24:00+00:00
+Retrieved: 2026-10-01T20:13:03.434007+00:00
+Status: new
+Previously Seen: False
+Category: Training/Drills
+First Seen: 2026-10-01T20:13:03.434007+00:00
+Last Seen: 2026-10-01T20:13:03.434007+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear Drill has completed
 ============================================================
