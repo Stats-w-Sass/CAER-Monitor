@@ -4,12 +4,12 @@ CAER MESSAGE
 Message ID: e082080b068cf369a93990135e0c95b255c3a0f297dd5d75b59ce188491d7ad2
 Facility: INEOS Styrolution - Port Rd.
 Posted: 2026-10-01T17:55:00+00:00
-Retrieved: 2026-10-02T00:02:20.969053+00:00
-Status: new
-Previously Seen: False
+Retrieved: 2026-10-02T06:00:21.931633+00:00
+Status: previous message still posted
+Previously Seen: True
 Category: Facilities, Flaring
 First Seen: 2026-10-02T00:02:20.969053+00:00
-Last Seen: 2026-10-02T00:02:20.972094+00:00
+Last Seen: 2026-10-02T06:00:21.934250+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -21,12 +21,12 @@ CAER MESSAGE
 Message ID: f418fa649c25f16a0e24f7d3d171bbfd773a06d1d1beece33522e240b6d20577
 Facility: PEMEX Deer Park
 Posted: 2026-10-01T07:04:00+00:00
-Retrieved: 2026-10-02T00:02:20.969053+00:00
+Retrieved: 2026-10-02T06:00:21.931633+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-10-01T14:40:47.370596+00:00
-Last Seen: 2026-10-02T00:02:20.972094+00:00
+Last Seen: 2026-10-02T06:00:21.934250+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -38,12 +38,12 @@ CAER MESSAGE
 Message ID: ea6c2dc58e13287a8805cff192d206deaa37da158c81263d69bf153402d75100
 Facility: OxyChem - Pasadena PVC
 Posted: 2026-10-01T07:00:00+00:00
-Retrieved: 2026-10-02T00:02:20.969053+00:00
+Retrieved: 2026-10-02T06:00:21.931633+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Noise, Pipelines
 First Seen: 2026-10-01T14:40:47.370596+00:00
-Last Seen: 2026-10-02T00:02:20.972094+00:00
+Last Seen: 2026-10-02T06:00:21.934250+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -55,12 +55,12 @@ CAER MESSAGE
 Message ID: af77890f2e49bd210a17cf454201cd9af9ac26d51192183f9074c534843b1b5e
 Facility: Baystar
 Posted: 2026-09-26T23:47:00+00:00
-Retrieved: 2026-10-02T00:02:20.969053+00:00
+Retrieved: 2026-10-02T06:00:21.931633+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise
 First Seen: 2026-09-27T10:25:09.748594+00:00
-Last Seen: 2026-10-02T00:02:20.972094+00:00
+Last Seen: 2026-10-02T06:00:21.934250+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
