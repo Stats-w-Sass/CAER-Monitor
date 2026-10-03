@@ -1,15 +1,32 @@
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: 46afeb7d1796a9fc5f290565c806eb2e10f5536a39a7fd90b06b97e2d55e4a76
+Facility: TPC Group - Houston
+Posted: 2026-10-03T13:15:00+00:00
+Retrieved: 2026-10-03T19:43:12.621906+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Flaring, Incidents, Noise
+First Seen: 2026-10-03T19:43:12.621906+00:00
+Last Seen: 2026-10-03T19:43:12.624963+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is TPC Group Houston Operations, located at 8600 Park Place Boulevard. Today is Saturday, October 3, 2026. This is a courtesy message to notify our neighbors due to a unit startup, there may be unusual noise and / or flaring at our facility. We do not expect any impact to our employees, industrial or community neighbors. We apologize for any inconvenience this incident may have caused. Should you have any concerns or questions, please contact Lauren Perez at 281.785.7241. Thank you.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: e082080b068cf369a93990135e0c95b255c3a0f297dd5d75b59ce188491d7ad2
 Facility: INEOS Styrolution - Port Rd.
 Posted: 2026-10-01T17:55:00+00:00
-Retrieved: 2026-10-03T16:35:40.619263+00:00
+Retrieved: 2026-10-03T19:43:12.621906+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring
 First Seen: 2026-10-02T00:02:20.969053+00:00
-Last Seen: 2026-10-03T16:35:40.622041+00:00
+Last Seen: 2026-10-03T19:43:12.624963+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -21,12 +38,12 @@ CAER MESSAGE
 Message ID: f418fa649c25f16a0e24f7d3d171bbfd773a06d1d1beece33522e240b6d20577
 Facility: PEMEX Deer Park
 Posted: 2026-10-01T07:04:00+00:00
-Retrieved: 2026-10-03T16:35:40.619263+00:00
+Retrieved: 2026-10-03T19:43:12.621906+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-10-01T14:40:47.370596+00:00
-Last Seen: 2026-10-03T16:35:40.622041+00:00
+Last Seen: 2026-10-03T19:43:12.624963+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -38,12 +55,12 @@ CAER MESSAGE
 Message ID: af77890f2e49bd210a17cf454201cd9af9ac26d51192183f9074c534843b1b5e
 Facility: Baystar
 Posted: 2026-09-26T23:47:00+00:00
-Retrieved: 2026-10-03T16:35:40.619263+00:00
+Retrieved: 2026-10-03T19:43:12.621906+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise
 First Seen: 2026-09-27T10:25:09.748594+00:00
-Last Seen: 2026-10-03T16:35:40.622041+00:00
+Last Seen: 2026-10-03T19:43:12.624963+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -2878,8 +2895,8 @@ Message ID: a4e7cd89219ae8b90b5ead8c84b64860bfb78705e2db64121f07c86327fb0bd4
 Facility: OxyChem - Pasadena PVC
 Posted: 2026-10-03T07:12:00+00:00
 Retrieved: 2026-10-03T16:35:40.842290+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Facilities, Flaring, Pipelines
 First Seen: 2026-10-03T16:35:40.842290+00:00
 Last Seen: 2026-10-03T16:35:40.842290+00:00
@@ -2887,4 +2904,21 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 ------------------------------------------------------------
 Message:
 Clear This is a courtesy message from OxyChem - Pasadena PVC located at 4403 Pasadena Freeway Pasadena,TX 77503. A temporary flare was being used by the pipeline company Koch Industries during planned pipeline maintenance activities inside our facility. At 07:08 on 10/3/2026 we are issuing the all clear for this.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 9c1a66bee7bfb14e18f851e596b29e9f433e28b926a500b38777ab518c820b15
+Facility: TotalEnergies La Porte
+Posted: 2026-10-03T11:14:00+00:00
+Retrieved: 2026-10-03T19:43:12.855099+00:00
+Status: new
+Previously Seen: False
+Category: Facilities
+First Seen: 2026-10-03T19:43:12.855099+00:00
+Last Seen: 2026-10-03T19:43:12.855099+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear This is a message from TotalEnergies La Porte Plant. At 11:13 on 10/3/2026 we are issuing the all clear for the road closure.
 ============================================================
