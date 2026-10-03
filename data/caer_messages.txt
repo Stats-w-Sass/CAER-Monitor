@@ -1,15 +1,32 @@
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: 75ced694ee1ee0f5fb7ce6757b493c14c194d64a67877e6abac47804060fa113
+Facility: TotalEnergies La Porte
+Posted: 2026-10-03T06:58:00+00:00
+Retrieved: 2026-10-03T12:22:01.960167+00:00
+Status: new
+Previously Seen: False
+Category: Emergency Response, Facilities
+First Seen: 2026-10-03T12:22:01.960167+00:00
+Last Seen: 2026-10-03T12:22:01.963301+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is the TotalEnergies La Porte Polypropylene Plant located at 1818 Independence Parkway, La Porte, TX. At 8:00 on October 3, a portion of Independence Parkway near our facility will be temporarily closed for a planned heavy equipment delivery. The closure is expected to last approximately one hour. This is a planned activity and not an emergency. We appreciate your patience and understanding.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: e082080b068cf369a93990135e0c95b255c3a0f297dd5d75b59ce188491d7ad2
 Facility: INEOS Styrolution - Port Rd.
 Posted: 2026-10-01T17:55:00+00:00
-Retrieved: 2026-10-03T06:53:58.700294+00:00
+Retrieved: 2026-10-03T12:22:01.960167+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring
 First Seen: 2026-10-02T00:02:20.969053+00:00
-Last Seen: 2026-10-03T06:53:58.705811+00:00
+Last Seen: 2026-10-03T12:22:01.963301+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -21,12 +38,12 @@ CAER MESSAGE
 Message ID: f418fa649c25f16a0e24f7d3d171bbfd773a06d1d1beece33522e240b6d20577
 Facility: PEMEX Deer Park
 Posted: 2026-10-01T07:04:00+00:00
-Retrieved: 2026-10-03T06:53:58.700294+00:00
+Retrieved: 2026-10-03T12:22:01.960167+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-10-01T14:40:47.370596+00:00
-Last Seen: 2026-10-03T06:53:58.705811+00:00
+Last Seen: 2026-10-03T12:22:01.963301+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -35,11 +52,28 @@ This is an update from PEMEX Deer Park. We are still performing planned work act
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: af77890f2e49bd210a17cf454201cd9af9ac26d51192183f9074c534843b1b5e
+Facility: Baystar
+Posted: 2026-09-26T23:47:00+00:00
+Retrieved: 2026-10-03T12:22:01.960167+00:00
+Status: previous message still posted
+Previously Seen: True
+Category: Flaring, Noise
+First Seen: 2026-09-27T10:25:09.748594+00:00
+Last Seen: 2026-10-03T12:22:01.963301+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+Courtesy Message from Baystar (12212 Port Road, Pasadena): We will be utilizing our Multi-point Ground Flare intermittently over the next few hours. Because this safety system operates at ground level, it looks different than a standard tall stack flare. Our neighbors may see visible flames at ground level and hear noise. There is no danger to the community, and no action is required. The flare has been fully tested and is functioning normally. We apologize for the inconvenience and are working to minimize the duration.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: ea6c2dc58e13287a8805cff192d206deaa37da158c81263d69bf153402d75100
 Facility: OxyChem - Pasadena PVC
 Posted: 2026-10-01T07:00:00+00:00
 Retrieved: 2026-10-03T06:53:58.700294+00:00
-Status: previous message still posted
+Status: cleared
 Previously Seen: True
 Category: Facilities, Flaring, Noise, Pipelines
 First Seen: 2026-10-01T14:40:47.370596+00:00
@@ -48,23 +82,6 @@ Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
 This is a courtesy message from OxyChem - Pasadena PVC located at 4403 Pasadena Freeway Pasadena,TX 77503 that a temporary flare is being used by the pipeline company Koch Industries during planned pipeline maintenance activities inside our facility. Light and/or noise may be noticeable during periods of intermittent flaring. There is no off-site impact and no action required by the community.
-============================================================
-============================================================
-CAER MESSAGE
-============================================================
-Message ID: af77890f2e49bd210a17cf454201cd9af9ac26d51192183f9074c534843b1b5e
-Facility: Baystar
-Posted: 2026-09-26T23:47:00+00:00
-Retrieved: 2026-10-03T06:53:58.700294+00:00
-Status: previous message still posted
-Previously Seen: True
-Category: Flaring, Noise
-First Seen: 2026-09-27T10:25:09.748594+00:00
-Last Seen: 2026-10-03T06:53:58.705811+00:00
-Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
-------------------------------------------------------------
-Message:
-Courtesy Message from Baystar (12212 Port Road, Pasadena): We will be utilizing our Multi-point Ground Flare intermittently over the next few hours. Because this safety system operates at ground level, it looks different than a standard tall stack flare. Our neighbors may see visible flames at ground level and hear noise. There is no danger to the community, and no action is required. The flare has been fully tested and is functioning normally. We apologize for the inconvenience and are working to minimize the duration.
 ============================================================
 ============================================================
 CAER MESSAGE
@@ -2827,8 +2844,8 @@ Message ID: 0f22b26f10e4e2c616fd0e29ad61a5392ec7ff67783d10b02636b90b0612b6e0
 Facility: LyondellBasell - Channelview
 Posted: 2026-10-02T21:33:00+00:00
 Retrieved: 2026-10-03T06:53:58.954558+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: 
 First Seen: 2026-10-03T06:53:58.954558+00:00
 Last Seen: 2026-10-03T06:53:58.954558+00:00
@@ -2844,8 +2861,8 @@ Message ID: 0f22b26f10e4e2c616fd0e29ad61a5392ec7ff67783d10b02636b90b0612b6e0
 Facility: LyondellBasell - Channelview
 Posted: 2026-10-02T21:33:00+00:00
 Retrieved: 2026-10-03T06:53:58.954558+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: 
 First Seen: 2026-10-03T06:53:58.954558+00:00
 Last Seen: 2026-10-03T06:53:58.954558+00:00
