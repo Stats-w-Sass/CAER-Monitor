@@ -1,32 +1,15 @@
 ============================================================
 CAER MESSAGE
 ============================================================
-Message ID: 46afeb7d1796a9fc5f290565c806eb2e10f5536a39a7fd90b06b97e2d55e4a76
-Facility: TPC Group - Houston
-Posted: 2026-10-03T13:15:00+00:00
-Retrieved: 2026-10-04T14:42:11.639962+00:00
-Status: previous message still posted
-Previously Seen: True
-Category: Facilities, Flaring, Incidents, Noise
-First Seen: 2026-10-03T19:43:12.621906+00:00
-Last Seen: 2026-10-04T14:42:11.642208+00:00
-Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
-------------------------------------------------------------
-Message:
-This is TPC Group Houston Operations, located at 8600 Park Place Boulevard. Today is Saturday, October 3, 2026. This is a courtesy message to notify our neighbors due to a unit startup, there may be unusual noise and / or flaring at our facility. We do not expect any impact to our employees, industrial or community neighbors. We apologize for any inconvenience this incident may have caused. Should you have any concerns or questions, please contact Lauren Perez at 281.785.7241. Thank you.
-============================================================
-============================================================
-CAER MESSAGE
-============================================================
 Message ID: e082080b068cf369a93990135e0c95b255c3a0f297dd5d75b59ce188491d7ad2
 Facility: INEOS Styrolution - Port Rd.
 Posted: 2026-10-01T17:55:00+00:00
-Retrieved: 2026-10-04T14:42:11.639962+00:00
+Retrieved: 2026-10-04T18:34:12.325738+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring
 First Seen: 2026-10-02T00:02:20.969053+00:00
-Last Seen: 2026-10-04T14:42:11.642208+00:00
+Last Seen: 2026-10-04T18:34:12.327643+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -38,16 +21,33 @@ CAER MESSAGE
 Message ID: f418fa649c25f16a0e24f7d3d171bbfd773a06d1d1beece33522e240b6d20577
 Facility: PEMEX Deer Park
 Posted: 2026-10-01T07:04:00+00:00
-Retrieved: 2026-10-04T14:42:11.639962+00:00
+Retrieved: 2026-10-04T18:34:12.325738+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-10-01T14:40:47.370596+00:00
-Last Seen: 2026-10-04T14:42:11.642208+00:00
+Last Seen: 2026-10-04T18:34:12.327643+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
 This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 46afeb7d1796a9fc5f290565c806eb2e10f5536a39a7fd90b06b97e2d55e4a76
+Facility: TPC Group - Houston
+Posted: 2026-10-03T13:15:00+00:00
+Retrieved: 2026-10-04T14:42:11.639962+00:00
+Status: cleared
+Previously Seen: True
+Category: Facilities, Flaring, Incidents, Noise
+First Seen: 2026-10-03T19:43:12.621906+00:00
+Last Seen: 2026-10-04T14:42:11.642208+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is TPC Group Houston Operations, located at 8600 Park Place Boulevard. Today is Saturday, October 3, 2026. This is a courtesy message to notify our neighbors due to a unit startup, there may be unusual noise and / or flaring at our facility. We do not expect any impact to our employees, industrial or community neighbors. We apologize for any inconvenience this incident may have caused. Should you have any concerns or questions, please contact Lauren Perez at 281.785.7241. Thank you.
 ============================================================
 ============================================================
 CAER MESSAGE
