@@ -4,12 +4,12 @@ CAER MESSAGE
 Message ID: f418fa649c25f16a0e24f7d3d171bbfd773a06d1d1beece33522e240b6d20577
 Facility: PEMEX Deer Park
 Posted: 2026-10-01T07:04:00+00:00
-Retrieved: 2026-10-06T21:29:27.997393+00:00
+Retrieved: 2026-10-07T01:17:02.647771+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-10-01T14:40:47.370596+00:00
-Last Seen: 2026-10-06T21:29:27.999406+00:00
+Last Seen: 2026-10-07T01:17:02.649204+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -3082,8 +3082,8 @@ Message ID: df1dd3b382e3d781f6fbfc26d1957bbdc93b0d4c3323b899dd08dfb49b23e4fc
 Facility: Sterling: Multi-Chem Bayport
 Posted: 2026-10-06T11:11:00+00:00
 Retrieved: 2026-10-06T21:29:28.142799+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: Facilities, Incidents, Training/Drills
 First Seen: 2026-10-06T21:29:28.142799+00:00
 Last Seen: 2026-10-06T21:29:28.142799+00:00
@@ -3091,4 +3091,21 @@ Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.h
 ------------------------------------------------------------
 Message:
 Clear *** DRILL *** This is a message from Sterling: Multi-Chem Bayport located at 11200 Bay Area Blvd Pasadena,TX 77507. At 11:00 on 10/6/2026, a drill occurred at our facility. At 11:11 on 10/6/2026 we are issuing the all clear for this incident.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 443e79dcd24d60619206d0f46b95c2da54a2b34537d10b84a8e83b53238f31db
+Facility: Chevron Phillips - Baytown
+Posted: 2026-10-06T16:09:00+00:00
+Retrieved: 2026-10-07T01:17:02.853240+00:00
+Status: new
+Previously Seen: False
+Category: 
+First Seen: 2026-10-07T01:17:02.853240+00:00
+Last Seen: 2026-10-07T01:17:02.853240+00:00
+Source: https://www.incident-reporter.net/e-NotifyCaerFeed/CaerMessageArchived.html
+------------------------------------------------------------
+Message:
+Clear This is a message from Chevron Phillips Chemical Company located at 9500 Interstate 10 East in Baytown, Texas. We are issuing an ALL CLEAR for the Unplanned Operational Issue.
 ============================================================
