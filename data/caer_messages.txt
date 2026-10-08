@@ -1,15 +1,32 @@
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: 3bbaee91d37301b0384df978871c66facf4eaaf308255f1dc7d1b552fad0abc8
+Facility: ITC Pasadena
+Posted: 2026-10-08T14:03:00+00:00
+Retrieved: 2026-10-08T20:34:29.244727+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Incidents
+First Seen: 2026-10-08T20:34:29.244727+00:00
+Last Seen: 2026-10-08T20:34:29.246586+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is a message from ITC Pasadena located at 1030 Ethyl Rd. Pasadena,TX 77503. At 14:00 on 10/8/2026, a(n) Fire incident occurred at our facility. At this time, Flames may be noticeable to the community. We are coordinating with local officials, and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: 67b66b382cad06c0ff060997a92aede5e92f5d1765c7358c3ee209168db6d40f
 Facility: PEMEX Deer Park
 Posted: 2026-10-08T05:57:00+00:00
-Retrieved: 2026-10-08T14:47:09.316787+00:00
-Status: new
-Previously Seen: False
+Retrieved: 2026-10-08T20:34:29.244727+00:00
+Status: previous message still posted
+Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-10-08T14:47:09.316787+00:00
-Last Seen: 2026-10-08T14:47:09.318200+00:00
+Last Seen: 2026-10-08T20:34:29.246586+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
