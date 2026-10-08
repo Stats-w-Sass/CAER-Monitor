@@ -4,12 +4,12 @@ CAER MESSAGE
 Message ID: f418fa649c25f16a0e24f7d3d171bbfd773a06d1d1beece33522e240b6d20577
 Facility: PEMEX Deer Park
 Posted: 2026-10-01T07:04:00+00:00
-Retrieved: 2026-10-07T20:42:43.038738+00:00
+Retrieved: 2026-10-08T00:50:37.081116+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-10-01T14:40:47.370596+00:00
-Last Seen: 2026-10-07T20:42:43.039961+00:00
+Last Seen: 2026-10-08T00:50:37.082506+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -3116,8 +3116,8 @@ Message ID: efc3ee1f1d5503336152bb89c3858ddd9b90eac0ea198a0dc3c8a128792cc612
 Facility: INEOS Styrolution - Port Rd.
 Posted: 2026-10-07T12:11:00+00:00
 Retrieved: 2026-10-07T20:42:43.196893+00:00
-Status: new
-Previously Seen: False
+Status: cleared
+Previously Seen: True
 Category: 
 First Seen: 2026-10-07T20:42:43.196893+00:00
 Last Seen: 2026-10-07T20:42:43.196893+00:00
