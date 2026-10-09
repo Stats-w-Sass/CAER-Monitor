@@ -4,12 +4,12 @@ CAER MESSAGE
 Message ID: 3bbaee91d37301b0384df978871c66facf4eaaf308255f1dc7d1b552fad0abc8
 Facility: ITC Pasadena
 Posted: 2026-10-08T14:03:00+00:00
-Retrieved: 2026-10-09T15:06:30.851230+00:00
+Retrieved: 2026-10-09T20:14:27.050555+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Incidents
 First Seen: 2026-10-08T20:34:29.244727+00:00
-Last Seen: 2026-10-09T15:06:30.852476+00:00
+Last Seen: 2026-10-09T20:14:27.053932+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -21,12 +21,12 @@ CAER MESSAGE
 Message ID: 67b66b382cad06c0ff060997a92aede5e92f5d1765c7358c3ee209168db6d40f
 Facility: PEMEX Deer Park
 Posted: 2026-10-08T05:57:00+00:00
-Retrieved: 2026-10-09T15:06:30.851230+00:00
+Retrieved: 2026-10-09T20:14:27.050555+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-10-08T14:47:09.316787+00:00
-Last Seen: 2026-10-09T15:06:30.852476+00:00
+Last Seen: 2026-10-09T20:14:27.053932+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
