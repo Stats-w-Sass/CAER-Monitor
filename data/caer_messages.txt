@@ -4,12 +4,12 @@ CAER MESSAGE
 Message ID: fd9e31a32a0546bfbaceac31fd402ac68a07070b5a0c31fbaf8fe23af9f645f7
 Facility: Chevron Phillips - Baytown
 Posted: 2026-10-11T07:00:00+00:00
-Retrieved: 2026-10-11T13:17:26.510662+00:00
-Status: new
-Previously Seen: False
+Retrieved: 2026-10-11T18:19:08.998616+00:00
+Status: previous message still posted
+Previously Seen: True
 Category: Facilities, Flaring, Noise, Smoke
 First Seen: 2026-10-11T13:17:26.510662+00:00
-Last Seen: 2026-10-11T13:17:26.514768+00:00
+Last Seen: 2026-10-11T18:19:09.002336+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -21,12 +21,12 @@ CAER MESSAGE
 Message ID: 00c3312b65aad6dbb7ba86a26e972198a1da0cf3aa1f31942d50e28f77983f30
 Facility: LyondellBasell - Channelview
 Posted: 2026-10-10T21:47:00+00:00
-Retrieved: 2026-10-11T13:17:26.510662+00:00
+Retrieved: 2026-10-11T18:19:08.998616+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: 
 First Seen: 2026-10-11T06:11:42.714434+00:00
-Last Seen: 2026-10-11T13:17:26.514768+00:00
+Last Seen: 2026-10-11T18:19:09.002336+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -38,12 +38,12 @@ CAER MESSAGE
 Message ID: a5f10d9aefde6b8891fcaf2eb0840fbd13c7367992c3007c09328615e0fd7686
 Facility: LyondellBasell - Channelview
 Posted: 2026-10-10T19:59:00+00:00
-Retrieved: 2026-10-11T13:17:26.510662+00:00
+Retrieved: 2026-10-11T18:19:08.998616+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Noise, Smoke
 First Seen: 2026-10-11T06:11:42.714434+00:00
-Last Seen: 2026-10-11T13:17:26.514768+00:00
+Last Seen: 2026-10-11T18:19:09.002336+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -55,12 +55,12 @@ CAER MESSAGE
 Message ID: 434866234164de3d248e6efee599ee929a1ad75260d889f0870960d0a0966454
 Facility: Shell Chemical Company - Deer Park
 Posted: 2026-10-10T18:37:00+00:00
-Retrieved: 2026-10-11T13:17:26.510662+00:00
+Retrieved: 2026-10-11T18:19:08.998616+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-10-11T00:20:47.258544+00:00
-Last Seen: 2026-10-11T13:17:26.514768+00:00
+Last Seen: 2026-10-11T18:19:09.002336+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -72,12 +72,12 @@ CAER MESSAGE
 Message ID: 3bbaee91d37301b0384df978871c66facf4eaaf308255f1dc7d1b552fad0abc8
 Facility: ITC Pasadena
 Posted: 2026-10-08T14:03:00+00:00
-Retrieved: 2026-10-11T13:17:26.510662+00:00
+Retrieved: 2026-10-11T18:19:08.998616+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Incidents
 First Seen: 2026-10-08T20:34:29.244727+00:00
-Last Seen: 2026-10-11T13:17:26.514768+00:00
+Last Seen: 2026-10-11T18:19:09.002336+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -89,12 +89,12 @@ CAER MESSAGE
 Message ID: 67b66b382cad06c0ff060997a92aede5e92f5d1765c7358c3ee209168db6d40f
 Facility: PEMEX Deer Park
 Posted: 2026-10-08T05:57:00+00:00
-Retrieved: 2026-10-11T13:17:26.510662+00:00
+Retrieved: 2026-10-11T18:19:08.998616+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-10-08T14:47:09.316787+00:00
-Last Seen: 2026-10-11T13:17:26.514768+00:00
+Last Seen: 2026-10-11T18:19:09.002336+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
