@@ -1,15 +1,32 @@
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: 434866234164de3d248e6efee599ee929a1ad75260d889f0870960d0a0966454
+Facility: Shell Chemical Company - Deer Park
+Posted: 2026-10-10T18:37:00+00:00
+Retrieved: 2026-10-11T00:20:47.258544+00:00
+Status: new
+Previously Seen: False
+Category: Flaring, Noise, Smoke
+First Seen: 2026-10-11T00:20:47.258544+00:00
+Last Seen: 2026-10-11T00:20:47.260069+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is the Environmental Duty Representative at Shell Deer Park. We are performing work activities that may cause flaring. We are taking steps to minimize any noise, light, or smoke associated with this flaring activity. There is no threat to the community or our industry neighbors. We apologize for any inconvenience our flaring activity might cause our neighbors.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: 3bbaee91d37301b0384df978871c66facf4eaaf308255f1dc7d1b552fad0abc8
 Facility: ITC Pasadena
 Posted: 2026-10-08T14:03:00+00:00
-Retrieved: 2026-10-10T21:22:08.621310+00:00
+Retrieved: 2026-10-11T00:20:47.258544+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Incidents
 First Seen: 2026-10-08T20:34:29.244727+00:00
-Last Seen: 2026-10-10T21:22:08.622209+00:00
+Last Seen: 2026-10-11T00:20:47.260069+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -21,12 +38,12 @@ CAER MESSAGE
 Message ID: 67b66b382cad06c0ff060997a92aede5e92f5d1765c7358c3ee209168db6d40f
 Facility: PEMEX Deer Park
 Posted: 2026-10-08T05:57:00+00:00
-Retrieved: 2026-10-10T21:22:08.621310+00:00
+Retrieved: 2026-10-11T00:20:47.258544+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-10-08T14:47:09.316787+00:00
-Last Seen: 2026-10-10T21:22:08.622209+00:00
+Last Seen: 2026-10-11T00:20:47.260069+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
