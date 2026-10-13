@@ -1,15 +1,49 @@
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: 6516b87bb2eea600643c914dc09f4b77174ffd8a251e6d8393361f667e4a8bd4
+Facility: Chevron Phillips - Baytown
+Posted: 2026-10-12T18:57:00+00:00
+Retrieved: 2026-10-13T01:10:00.606758+00:00
+Status: new
+Previously Seen: False
+Category: 
+First Seen: 2026-10-13T01:10:00.606758+00:00
+Last Seen: 2026-10-13T01:10:00.610116+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+Clear This is a message from Chevron Phillips Chemical Company located at 9500 Interstate 10 East in Baytown, Texas. We are issuing an ALL CLEAR for the Unplanned Operational Issue.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: fd9e31a32a0546bfbaceac31fd402ac68a07070b5a0c31fbaf8fe23af9f645f7
+Facility: Chevron Phillips - Baytown
+Posted: 2026-10-11T07:00:00+00:00
+Retrieved: 2026-10-13T01:10:00.606758+00:00
+Status: previous message still posted
+Previously Seen: True
+Category: Facilities, Flaring, Noise, Smoke
+First Seen: 2026-10-11T13:17:26.510662+00:00
+Last Seen: 2026-10-13T01:10:00.610116+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is a message from Chevron Phillips Chemical Company, located at 9500 Interstate 10 East in Baytown, Texas. Our facility has experienced an unplanned operational issue. You may notice flaring, smoke or loud noise as a result of this activity. To the best of our ability, we are taking steps to minimize noise, light, or smoke that may be associated with this activity. There is no expected impact to the community. We apologize for any inconvenience this flaring may cause. Additional updates will be posted if the conditions change. An ALL CLEAR message will be posted upon completion of the activities.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: 66203a6aea7c27fed02fe1eb77229e08b82711f16d386a08f9f584e0936b0a98
 Facility: La Porte Rail and Terminal
 Posted: 2026-10-12T12:37:00+00:00
-Retrieved: 2026-10-12T18:46:56.322234+00:00
-Status: new
-Previously Seen: False
+Retrieved: 2026-10-13T01:10:00.606758+00:00
+Status: previous message still posted
+Previously Seen: True
 Category: Facilities, Incidents, Training/Drills
 First Seen: 2026-10-12T18:46:56.322234+00:00
-Last Seen: 2026-10-12T18:46:56.324154+00:00
+Last Seen: 2026-10-13T01:10:00.610116+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -21,12 +55,12 @@ CAER MESSAGE
 Message ID: 023f777880768ebf2fce70796d25db2f27bc5cf7cbbdb8d34f2df7887b926fd5
 Facility: La Porte Rail and Terminal
 Posted: 2026-10-12T12:18:00+00:00
-Retrieved: 2026-10-12T18:46:56.322234+00:00
-Status: new
-Previously Seen: False
+Retrieved: 2026-10-13T01:10:00.606758+00:00
+Status: previous message still posted
+Previously Seen: True
 Category: Facilities, Incidents, Training/Drills
 First Seen: 2026-10-12T18:46:56.322234+00:00
-Last Seen: 2026-10-12T18:46:56.324154+00:00
+Last Seen: 2026-10-13T01:10:00.610116+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -35,32 +69,15 @@ Message:
 ============================================================
 CAER MESSAGE
 ============================================================
-Message ID: fd9e31a32a0546bfbaceac31fd402ac68a07070b5a0c31fbaf8fe23af9f645f7
-Facility: Chevron Phillips - Baytown
-Posted: 2026-10-11T07:00:00+00:00
-Retrieved: 2026-10-12T18:46:56.322234+00:00
-Status: previous message still posted
-Previously Seen: True
-Category: Facilities, Flaring, Noise, Smoke
-First Seen: 2026-10-11T13:17:26.510662+00:00
-Last Seen: 2026-10-12T18:46:56.324154+00:00
-Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
-------------------------------------------------------------
-Message:
-This is a message from Chevron Phillips Chemical Company, located at 9500 Interstate 10 East in Baytown, Texas. Our facility has experienced an unplanned operational issue. You may notice flaring, smoke or loud noise as a result of this activity. To the best of our ability, we are taking steps to minimize noise, light, or smoke that may be associated with this activity. There is no expected impact to the community. We apologize for any inconvenience this flaring may cause. Additional updates will be posted if the conditions change. An ALL CLEAR message will be posted upon completion of the activities.
-============================================================
-============================================================
-CAER MESSAGE
-============================================================
 Message ID: 434866234164de3d248e6efee599ee929a1ad75260d889f0870960d0a0966454
 Facility: Shell Chemical Company - Deer Park
 Posted: 2026-10-10T18:37:00+00:00
-Retrieved: 2026-10-12T18:46:56.322234+00:00
+Retrieved: 2026-10-13T01:10:00.606758+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-10-11T00:20:47.258544+00:00
-Last Seen: 2026-10-12T18:46:56.324154+00:00
+Last Seen: 2026-10-13T01:10:00.610116+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -72,12 +89,12 @@ CAER MESSAGE
 Message ID: 3bbaee91d37301b0384df978871c66facf4eaaf308255f1dc7d1b552fad0abc8
 Facility: ITC Pasadena
 Posted: 2026-10-08T14:03:00+00:00
-Retrieved: 2026-10-12T18:46:56.322234+00:00
+Retrieved: 2026-10-13T01:10:00.606758+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Incidents
 First Seen: 2026-10-08T20:34:29.244727+00:00
-Last Seen: 2026-10-12T18:46:56.324154+00:00
+Last Seen: 2026-10-13T01:10:00.610116+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -89,12 +106,12 @@ CAER MESSAGE
 Message ID: 67b66b382cad06c0ff060997a92aede5e92f5d1765c7358c3ee209168db6d40f
 Facility: PEMEX Deer Park
 Posted: 2026-10-08T05:57:00+00:00
-Retrieved: 2026-10-12T18:46:56.322234+00:00
+Retrieved: 2026-10-13T01:10:00.606758+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-10-08T14:47:09.316787+00:00
-Last Seen: 2026-10-12T18:46:56.324154+00:00
+Last Seen: 2026-10-13T01:10:00.610116+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
