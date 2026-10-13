@@ -1,15 +1,32 @@
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: cec84893aa6b8d7d7931362487c773c1a73454d590f43f7408baa0f93122c498
+Facility: Chevron Phillips - Baytown
+Posted: 2026-10-13T11:24:00+00:00
+Retrieved: 2026-10-13T21:25:24.002633+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Flaring, Noise, Smoke
+First Seen: 2026-10-13T21:25:24.002633+00:00
+Last Seen: 2026-10-13T21:25:24.004328+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is a message from Chevron Phillips Chemical Company, located at 9500 Interstate 10 East in Baytown, Texas. Our facility will be performing planned activities. You may notice flaring, smoke or loud noise as a result of this activity. To the best of our ability, we are taking steps to minimize noise, light, or smoke that may be associated with this activity. There is no expected impact to the community. We apologize for any inconvenience this activity may cause. Additional updates will be posted if the conditions change. An ALL CLEAR message will be posted upon completion of the activities.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: 66031b1cfdf1dedcb178cfb400026ef470c521672a6589d3eb7037bd459f3442
 Facility: Ketjen Bayport
 Posted: 2026-10-13T10:12:00+00:00
-Retrieved: 2026-10-13T16:15:54.351722+00:00
-Status: new
-Previously Seen: False
+Retrieved: 2026-10-13T21:25:24.002633+00:00
+Status: previous message still posted
+Previously Seen: True
 Category: Facilities, Incidents, Training/Drills
 First Seen: 2026-10-13T16:15:54.351722+00:00
-Last Seen: 2026-10-13T16:15:54.354934+00:00
+Last Seen: 2026-10-13T21:25:24.004328+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -21,12 +38,12 @@ CAER MESSAGE
 Message ID: 22ac744356220e4cfa0cfe8821b15509cf9a3079e739147114a0c1f6e13fd3f6
 Facility: Ketjen Bayport
 Posted: 2026-10-13T09:43:00+00:00
-Retrieved: 2026-10-13T16:15:54.351722+00:00
-Status: new
-Previously Seen: False
+Retrieved: 2026-10-13T21:25:24.002633+00:00
+Status: previous message still posted
+Previously Seen: True
 Category: Facilities, Noise, Training/Drills
 First Seen: 2026-10-13T16:15:54.351722+00:00
-Last Seen: 2026-10-13T16:15:54.354934+00:00
+Last Seen: 2026-10-13T21:25:24.004328+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -35,11 +52,62 @@ Message:
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: 434866234164de3d248e6efee599ee929a1ad75260d889f0870960d0a0966454
+Facility: Shell Chemical Company - Deer Park
+Posted: 2026-10-10T18:37:00+00:00
+Retrieved: 2026-10-13T21:25:24.002633+00:00
+Status: previous message still posted
+Previously Seen: True
+Category: Flaring, Noise, Smoke
+First Seen: 2026-10-11T00:20:47.258544+00:00
+Last Seen: 2026-10-13T21:25:24.004328+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is the Environmental Duty Representative at Shell Deer Park. We are performing work activities that may cause flaring. We are taking steps to minimize any noise, light, or smoke associated with this flaring activity. There is no threat to the community or our industry neighbors. We apologize for any inconvenience our flaring activity might cause our neighbors.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 3bbaee91d37301b0384df978871c66facf4eaaf308255f1dc7d1b552fad0abc8
+Facility: ITC Pasadena
+Posted: 2026-10-08T14:03:00+00:00
+Retrieved: 2026-10-13T21:25:24.002633+00:00
+Status: previous message still posted
+Previously Seen: True
+Category: Facilities, Incidents
+First Seen: 2026-10-08T20:34:29.244727+00:00
+Last Seen: 2026-10-13T21:25:24.004328+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is a message from ITC Pasadena located at 1030 Ethyl Rd. Pasadena,TX 77503. At 14:00 on 10/8/2026, a(n) Fire incident occurred at our facility. At this time, Flames may be noticeable to the community. We are coordinating with local officials, and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 67b66b382cad06c0ff060997a92aede5e92f5d1765c7358c3ee209168db6d40f
+Facility: PEMEX Deer Park
+Posted: 2026-10-08T05:57:00+00:00
+Retrieved: 2026-10-13T21:25:24.002633+00:00
+Status: previous message still posted
+Previously Seen: True
+Category: Flaring, Noise, Smoke
+First Seen: 2026-10-08T14:47:09.316787+00:00
+Last Seen: 2026-10-13T21:25:24.004328+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: 6516b87bb2eea600643c914dc09f4b77174ffd8a251e6d8393361f667e4a8bd4
 Facility: Chevron Phillips - Baytown
 Posted: 2026-10-12T18:57:00+00:00
 Retrieved: 2026-10-13T16:15:54.351722+00:00
-Status: previous message still posted
+Status: cleared
 Previously Seen: True
 Category: 
 First Seen: 2026-10-13T01:10:00.606758+00:00
@@ -56,7 +124,7 @@ Message ID: fd9e31a32a0546bfbaceac31fd402ac68a07070b5a0c31fbaf8fe23af9f645f7
 Facility: Chevron Phillips - Baytown
 Posted: 2026-10-11T07:00:00+00:00
 Retrieved: 2026-10-13T16:15:54.351722+00:00
-Status: previous message still posted
+Status: cleared
 Previously Seen: True
 Category: Facilities, Flaring, Noise, Smoke
 First Seen: 2026-10-11T13:17:26.510662+00:00
@@ -65,57 +133,6 @@ Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
 This is a message from Chevron Phillips Chemical Company, located at 9500 Interstate 10 East in Baytown, Texas. Our facility has experienced an unplanned operational issue. You may notice flaring, smoke or loud noise as a result of this activity. To the best of our ability, we are taking steps to minimize noise, light, or smoke that may be associated with this activity. There is no expected impact to the community. We apologize for any inconvenience this flaring may cause. Additional updates will be posted if the conditions change. An ALL CLEAR message will be posted upon completion of the activities.
-============================================================
-============================================================
-CAER MESSAGE
-============================================================
-Message ID: 434866234164de3d248e6efee599ee929a1ad75260d889f0870960d0a0966454
-Facility: Shell Chemical Company - Deer Park
-Posted: 2026-10-10T18:37:00+00:00
-Retrieved: 2026-10-13T16:15:54.351722+00:00
-Status: previous message still posted
-Previously Seen: True
-Category: Flaring, Noise, Smoke
-First Seen: 2026-10-11T00:20:47.258544+00:00
-Last Seen: 2026-10-13T16:15:54.354934+00:00
-Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
-------------------------------------------------------------
-Message:
-This is the Environmental Duty Representative at Shell Deer Park. We are performing work activities that may cause flaring. We are taking steps to minimize any noise, light, or smoke associated with this flaring activity. There is no threat to the community or our industry neighbors. We apologize for any inconvenience our flaring activity might cause our neighbors.
-============================================================
-============================================================
-CAER MESSAGE
-============================================================
-Message ID: 3bbaee91d37301b0384df978871c66facf4eaaf308255f1dc7d1b552fad0abc8
-Facility: ITC Pasadena
-Posted: 2026-10-08T14:03:00+00:00
-Retrieved: 2026-10-13T16:15:54.351722+00:00
-Status: previous message still posted
-Previously Seen: True
-Category: Facilities, Incidents
-First Seen: 2026-10-08T20:34:29.244727+00:00
-Last Seen: 2026-10-13T16:15:54.354934+00:00
-Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
-------------------------------------------------------------
-Message:
-This is a message from ITC Pasadena located at 1030 Ethyl Rd. Pasadena,TX 77503. At 14:00 on 10/8/2026, a(n) Fire incident occurred at our facility. At this time, Flames may be noticeable to the community. We are coordinating with local officials, and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed.
-============================================================
-============================================================
-CAER MESSAGE
-============================================================
-Message ID: 67b66b382cad06c0ff060997a92aede5e92f5d1765c7358c3ee209168db6d40f
-Facility: PEMEX Deer Park
-Posted: 2026-10-08T05:57:00+00:00
-Retrieved: 2026-10-13T16:15:54.351722+00:00
-Status: previous message still posted
-Previously Seen: True
-Category: Flaring, Noise, Smoke
-First Seen: 2026-10-08T14:47:09.316787+00:00
-Last Seen: 2026-10-13T16:15:54.354934+00:00
-Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
-------------------------------------------------------------
-Message:
-This is an update from PEMEX Deer Park. We are still performing planned work activities that may cause flaring. We are taking steps to minimize any noise, light or smoke associated with potential flaring activity. At this time, we do not anticipate any impact to the community or our industrial neighbors while we conduct our maintenance work.
 ============================================================
 ============================================================
 CAER MESSAGE
