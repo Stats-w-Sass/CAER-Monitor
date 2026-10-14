@@ -1,15 +1,100 @@
 ============================================================
 CAER MESSAGE
 ============================================================
+Message ID: ccc8198b9f8989d4ddcbd81cf980fd0c4c38140883b62c61aa5d65c12f3c35d8
+Facility: INEOS Styrolution - Port Rd.
+Posted: 2026-10-14T11:03:00+00:00
+Retrieved: 2026-10-14T16:51:31.800915+00:00
+Status: new
+Previously Seen: False
+Category: Facilities
+First Seen: 2026-10-14T16:51:31.800915+00:00
+Last Seen: 2026-10-14T16:51:31.804879+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is the INEOS Styrolution EBSM and ASA Plant located at 12222 Port Road in Pasadena Texas we will be conducting the weekly plant alarm testing at noon. We apologize for any inconvenience this may cause. If you need additional information, please call 281-474-1054.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 37de0e58b0e3c7fb206756f7aa573233bbc170e64e917cc256e4f69fa49adffa
+Facility: ITC Deer Park
+Posted: 2026-10-14T10:41:00+00:00
+Retrieved: 2026-10-14T16:51:31.800915+00:00
+Status: new
+Previously Seen: False
+Category: Emergency Response, Facilities, Incidents, Training/Drills
+First Seen: 2026-10-14T16:51:31.800915+00:00
+Last Seen: 2026-10-14T16:51:31.804879+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+*** DRILL *** This is a message from ITC Deer Park located at 1943 Independence Parkway Deer Park,TX 77536. At 10:32 on 10/14/2026, a(n) Chemical incident occurred at our facility. At this time, Activity, Emergency Vehicles, Sirens may be noticeable to the community. We are coordinating with local officials, and working to resolve the issue as soon as possible. Stay tuned to local officials for more information. Update will be provided on this site, when needed.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 477e1d3b50650c8890cb1607905c0c82e757d41f3934f33f727b11c044e6f9af
+Facility: Sekisui Specialty Chemicals
+Posted: 2026-10-14T09:49:00+00:00
+Retrieved: 2026-10-14T16:51:31.800915+00:00
+Status: new
+Previously Seen: False
+Category: Facilities
+First Seen: 2026-10-14T16:51:31.800915+00:00
+Last Seen: 2026-10-14T16:51:31.804879+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+Sekisui will be performing its weekly scheduled alarm test Wednesday @10:45am. Sirens may be heard outside of the facility during the alarm test.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: fed0a67ce187b0238b232e90b49aa0963e4338cef4ca9a40b9a0a9d60e929458
+Facility: Chevron Phillips - Baytown
+Posted: 2026-10-14T07:19:00+00:00
+Retrieved: 2026-10-14T16:51:31.800915+00:00
+Status: new
+Previously Seen: False
+Category: Facilities, Flaring, Noise, Smoke
+First Seen: 2026-10-14T16:51:31.800915+00:00
+Last Seen: 2026-10-14T16:51:31.804879+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+This is a message from Chevron Phillips Chemical Company, located at 9500 Interstate 10 East in Baytown, Texas. Our facility will be performing planned activities. You may notice flaring, smoke or loud noise as a result of this activity. To the best of our ability, we are taking steps to minimize noise, light, or smoke that may be associated with this activity. There is no expected impact to the community. We apologize for any inconvenience this activity may cause. Additional updates will be posted if the conditions change. An ALL CLEAR message will be posted upon completion of the activities.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
+Message ID: 28ebaf72f1ea8de3ea27b2fa50c9dd158883909e193d32709b069ec7bc805a16
+Facility: LyondellBasell - Channelview
+Posted: 2026-10-14T07:08:00+00:00
+Retrieved: 2026-10-14T16:51:31.800915+00:00
+Status: new
+Previously Seen: False
+Category: Emergency Response, Noise, Pipelines, Smoke, Training/Drills
+First Seen: 2026-10-14T16:51:31.800915+00:00
+Last Seen: 2026-10-14T16:51:31.804879+00:00
+Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
+------------------------------------------------------------
+Message:
+THIS IS ONLY A DRILL. A training exercise at Wednesday 10/14/2026 7:07:55 AM at the LyondellBasell Complex 8280 Sheldon Road may result in visible smoke, activity, or audible alarms. The community does not need to take any action. We would provide appropriate information through this CAER line and local emergency channels if this were an actual emergency. Questions can be directed to askchannelview@lyb.com. ESTO ES SOLO UN SIMULACRO. Es posible que un ejercicio de capacitaciÃÂ³n a las Wednesday 10/14/2026 7:07:55 AM en el complejo de LyondellBasell Channelview Complex ubicado en 8280 Sheldon Road provoque humo visible, actividad o alarmas audibles. No es necesario que la comunidad tome ninguna medida. Si esta fuera una emergencia real, proporcionariamos la informacion adecuada a traves de esta linea de Concientizacion Comunitaria y Respuesta a Emergencias (o Community Awareness and Emergency Response, CAER) y los canales de emergencia locales. Se pueden enviar preguntas a askchannelview@lyb.com.
+============================================================
+============================================================
+CAER MESSAGE
+============================================================
 Message ID: cec84893aa6b8d7d7931362487c773c1a73454d590f43f7408baa0f93122c498
 Facility: Chevron Phillips - Baytown
 Posted: 2026-10-13T11:24:00+00:00
-Retrieved: 2026-10-14T11:36:32.609787+00:00
+Retrieved: 2026-10-14T16:51:31.800915+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Noise, Smoke
 First Seen: 2026-10-13T21:25:24.002633+00:00
-Last Seen: 2026-10-14T11:36:32.611231+00:00
+Last Seen: 2026-10-14T16:51:31.804879+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -21,12 +106,12 @@ CAER MESSAGE
 Message ID: 434866234164de3d248e6efee599ee929a1ad75260d889f0870960d0a0966454
 Facility: Shell Chemical Company - Deer Park
 Posted: 2026-10-10T18:37:00+00:00
-Retrieved: 2026-10-14T11:36:32.609787+00:00
+Retrieved: 2026-10-14T16:51:31.800915+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-10-11T00:20:47.258544+00:00
-Last Seen: 2026-10-14T11:36:32.611231+00:00
+Last Seen: 2026-10-14T16:51:31.804879+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -38,12 +123,12 @@ CAER MESSAGE
 Message ID: 3bbaee91d37301b0384df978871c66facf4eaaf308255f1dc7d1b552fad0abc8
 Facility: ITC Pasadena
 Posted: 2026-10-08T14:03:00+00:00
-Retrieved: 2026-10-14T11:36:32.609787+00:00
+Retrieved: 2026-10-14T16:51:31.800915+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Incidents
 First Seen: 2026-10-08T20:34:29.244727+00:00
-Last Seen: 2026-10-14T11:36:32.611231+00:00
+Last Seen: 2026-10-14T16:51:31.804879+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -55,12 +140,12 @@ CAER MESSAGE
 Message ID: 67b66b382cad06c0ff060997a92aede5e92f5d1765c7358c3ee209168db6d40f
 Facility: PEMEX Deer Park
 Posted: 2026-10-08T05:57:00+00:00
-Retrieved: 2026-10-14T11:36:32.609787+00:00
+Retrieved: 2026-10-14T16:51:31.800915+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Flaring, Noise, Smoke
 First Seen: 2026-10-08T14:47:09.316787+00:00
-Last Seen: 2026-10-14T11:36:32.611231+00:00
+Last Seen: 2026-10-14T16:51:31.804879+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
