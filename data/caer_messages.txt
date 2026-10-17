@@ -4,12 +4,12 @@ CAER MESSAGE
 Message ID: 37de0e58b0e3c7fb206756f7aa573233bbc170e64e917cc256e4f69fa49adffa
 Facility: ITC Deer Park
 Posted: 2026-10-14T10:41:00+00:00
-Retrieved: 2026-10-17T13:06:02.543488+00:00
+Retrieved: 2026-10-17T16:35:32.834941+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Emergency Response, Facilities, Incidents, Training/Drills
 First Seen: 2026-10-14T16:51:31.800915+00:00
-Last Seen: 2026-10-17T13:06:02.546745+00:00
+Last Seen: 2026-10-17T16:35:32.838216+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -21,12 +21,12 @@ CAER MESSAGE
 Message ID: 477e1d3b50650c8890cb1607905c0c82e757d41f3934f33f727b11c044e6f9af
 Facility: Sekisui Specialty Chemicals
 Posted: 2026-10-14T09:49:00+00:00
-Retrieved: 2026-10-17T13:06:02.543488+00:00
+Retrieved: 2026-10-17T16:35:32.834941+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities
 First Seen: 2026-10-14T16:51:31.800915+00:00
-Last Seen: 2026-10-17T13:06:02.546745+00:00
+Last Seen: 2026-10-17T16:35:32.838216+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -38,12 +38,12 @@ CAER MESSAGE
 Message ID: fed0a67ce187b0238b232e90b49aa0963e4338cef4ca9a40b9a0a9d60e929458
 Facility: Chevron Phillips - Baytown
 Posted: 2026-10-14T07:19:00+00:00
-Retrieved: 2026-10-17T13:06:02.543488+00:00
+Retrieved: 2026-10-17T16:35:32.834941+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Noise, Smoke
 First Seen: 2026-10-14T16:51:31.800915+00:00
-Last Seen: 2026-10-17T13:06:02.546745+00:00
+Last Seen: 2026-10-17T16:35:32.838216+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -55,12 +55,12 @@ CAER MESSAGE
 Message ID: 28ebaf72f1ea8de3ea27b2fa50c9dd158883909e193d32709b069ec7bc805a16
 Facility: LyondellBasell - Channelview
 Posted: 2026-10-14T07:08:00+00:00
-Retrieved: 2026-10-17T13:06:02.543488+00:00
+Retrieved: 2026-10-17T16:35:32.834941+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Emergency Response, Noise, Pipelines, Smoke, Training/Drills
 First Seen: 2026-10-14T16:51:31.800915+00:00
-Last Seen: 2026-10-17T13:06:02.546745+00:00
+Last Seen: 2026-10-17T16:35:32.838216+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -72,12 +72,12 @@ CAER MESSAGE
 Message ID: cec84893aa6b8d7d7931362487c773c1a73454d590f43f7408baa0f93122c498
 Facility: Chevron Phillips - Baytown
 Posted: 2026-10-13T11:24:00+00:00
-Retrieved: 2026-10-17T13:06:02.543488+00:00
+Retrieved: 2026-10-17T16:35:32.834941+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Flaring, Noise, Smoke
 First Seen: 2026-10-13T21:25:24.002633+00:00
-Last Seen: 2026-10-17T13:06:02.546745+00:00
+Last Seen: 2026-10-17T16:35:32.838216+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
