@@ -4,12 +4,12 @@ CAER MESSAGE
 Message ID: 36a0a1fbe283a8528e9a4d8e22e0598006d565d3d7ea5271d07c1df44b7fb2ad
 Facility: Sekisui Specialty Chemicals
 Posted: 2026-10-19T10:45:00+00:00
-Retrieved: 2026-10-19T21:39:52.579110+00:00
+Retrieved: 2026-10-20T00:58:12.999509+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Incidents
 First Seen: 2026-10-19T17:22:37.070707+00:00
-Last Seen: 2026-10-19T21:39:52.582950+00:00
+Last Seen: 2026-10-20T00:58:13.001698+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -21,12 +21,12 @@ CAER MESSAGE
 Message ID: fa96f181df4965ad417064bb0ac52021043a5519fb742af8ea1b3721ce220632
 Facility: Sekisui Specialty Chemicals
 Posted: 2026-10-19T10:45:00+00:00
-Retrieved: 2026-10-19T21:39:52.579110+00:00
+Retrieved: 2026-10-20T00:58:12.999509+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Incidents
 First Seen: 2026-10-19T17:22:37.070707+00:00
-Last Seen: 2026-10-19T21:39:52.582950+00:00
+Last Seen: 2026-10-20T00:58:13.001698+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -38,12 +38,12 @@ CAER MESSAGE
 Message ID: 49402b74430a2d16bc1afdf505ea74d9c9efe9cbe553847ac090020d9f98f515
 Facility: Sekisui Specialty Chemicals
 Posted: 2026-10-19T10:26:00+00:00
-Retrieved: 2026-10-19T21:39:52.579110+00:00
+Retrieved: 2026-10-20T00:58:12.999509+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Emergency Response, Facilities
 First Seen: 2026-10-19T17:22:37.070707+00:00
-Last Seen: 2026-10-19T21:39:52.582950+00:00
+Last Seen: 2026-10-20T00:58:13.001698+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -55,12 +55,12 @@ CAER MESSAGE
 Message ID: ecd4802bf84c1f2344b6ec3940640e93938bdbe0e664e30cd7e139e66810d20a
 Facility: Sterling: Multi-Chem Bayport
 Posted: 2026-10-19T09:49:00+00:00
-Retrieved: 2026-10-19T21:39:52.579110+00:00
+Retrieved: 2026-10-20T00:58:12.999509+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Incidents, Training/Drills
 First Seen: 2026-10-19T17:22:37.070707+00:00
-Last Seen: 2026-10-19T21:39:52.582950+00:00
+Last Seen: 2026-10-20T00:58:13.001698+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -72,12 +72,12 @@ CAER MESSAGE
 Message ID: 16a268f1da6a711bfb42839cfd77f2b640059cc20cc57d99c5dc4b8926b505ca
 Facility: Sterling: Multi-Chem Bayport
 Posted: 2026-10-19T09:33:00+00:00
-Retrieved: 2026-10-19T21:39:52.579110+00:00
+Retrieved: 2026-10-20T00:58:12.999509+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Incidents, Training/Drills
 First Seen: 2026-10-19T17:22:37.070707+00:00
-Last Seen: 2026-10-19T21:39:52.582950+00:00
+Last Seen: 2026-10-20T00:58:13.001698+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -89,12 +89,12 @@ CAER MESSAGE
 Message ID: 5620a8dc054b15d7d978f038050c15b76bd53dc9d46377ed99a1e98de5174d93
 Facility: Sterling: Multi-Chem Bayport
 Posted: 2026-10-19T09:32:00+00:00
-Retrieved: 2026-10-19T21:39:52.579110+00:00
+Retrieved: 2026-10-20T00:58:12.999509+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities, Incidents, Training/Drills
 First Seen: 2026-10-19T17:22:37.070707+00:00
-Last Seen: 2026-10-19T21:39:52.582950+00:00
+Last Seen: 2026-10-20T00:58:13.001698+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -106,12 +106,12 @@ CAER MESSAGE
 Message ID: 37de0e58b0e3c7fb206756f7aa573233bbc170e64e917cc256e4f69fa49adffa
 Facility: ITC Deer Park
 Posted: 2026-10-14T10:41:00+00:00
-Retrieved: 2026-10-19T21:39:52.579110+00:00
+Retrieved: 2026-10-20T00:58:12.999509+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Emergency Response, Facilities, Incidents, Training/Drills
 First Seen: 2026-10-14T16:51:31.800915+00:00
-Last Seen: 2026-10-19T21:39:52.582950+00:00
+Last Seen: 2026-10-20T00:58:13.001698+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -123,12 +123,12 @@ CAER MESSAGE
 Message ID: 477e1d3b50650c8890cb1607905c0c82e757d41f3934f33f727b11c044e6f9af
 Facility: Sekisui Specialty Chemicals
 Posted: 2026-10-14T09:49:00+00:00
-Retrieved: 2026-10-19T21:39:52.579110+00:00
+Retrieved: 2026-10-20T00:58:12.999509+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Facilities
 First Seen: 2026-10-14T16:51:31.800915+00:00
-Last Seen: 2026-10-19T21:39:52.582950+00:00
+Last Seen: 2026-10-20T00:58:13.001698+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
@@ -140,12 +140,12 @@ CAER MESSAGE
 Message ID: 28ebaf72f1ea8de3ea27b2fa50c9dd158883909e193d32709b069ec7bc805a16
 Facility: LyondellBasell - Channelview
 Posted: 2026-10-14T07:08:00+00:00
-Retrieved: 2026-10-19T21:39:52.579110+00:00
+Retrieved: 2026-10-20T00:58:12.999509+00:00
 Status: previous message still posted
 Previously Seen: True
 Category: Emergency Response, Noise, Pipelines, Smoke, Training/Drills
 First Seen: 2026-10-14T16:51:31.800915+00:00
-Last Seen: 2026-10-19T21:39:52.582950+00:00
+Last Seen: 2026-10-20T00:58:13.001698+00:00
 Source: https://www.incident-reporter.net/e-notifycaerfeed/caermessagelive.html
 ------------------------------------------------------------
 Message:
